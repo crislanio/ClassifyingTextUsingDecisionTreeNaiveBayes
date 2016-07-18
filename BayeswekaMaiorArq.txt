@@ -1,0 +1,5162 @@
+ATRIBUTOS:   2         
+cross-validation
+
+TAMANHO: 5125
+
+A FREQUENCIA INDEPENDETE DA CLASSE
+--------------------------------------
+0	4813.0
+1	748.0
+
+A FREQUENCIA DA PALAVRA DADA UMA CLASSE
+-----------------------------------------
+          0	          1	
+        3.0	        5.0	cancel
+<laplace=1>	        6.0	£10000
+       26.0	        6.0	half
+        5.0	<laplace=1>	spoke
+        3.0	<laplace=1>	BBD
+<laplace=1>	        3.0	upload
+<laplace=1>	        3.0	costing
+<laplace=1>	        4.0	Txts
+        5.0	<laplace=1>	salary
+        4.0	<laplace=1>	Hurt
+        3.0	<laplace=1>	rakhesh
+        6.0	<laplace=1>	tea
+        7.0	<laplace=1>	Sure
+        3.0	<laplace=1>	drunk
+        3.0	<laplace=1>	–
+        3.0	<laplace=1>	Don€˜t
+       60.0	<laplace=1>	would
+        3.0	<laplace=1>	YEAR
+       66.0	<laplace=1>	pick
+        4.0	<laplace=1>	legs
+<laplace=1>	        3.0	Nokias
+       10.0	<laplace=1>	tel
+        3.0	<laplace=1>	YEAH
+        3.0	<laplace=1>	Sleepwell&Take
+       10.0	<laplace=1>	ten
+        7.0	       11.0	pics
+<laplace=1>	        5.0	Netcollex
+        6.0	<laplace=1>	energy
+        4.0	<laplace=1>	successfully
+      214.0	<laplace=1>	#
+        8.0	<laplace=1>	$
+        4.0	<laplace=1>	%
+<laplace=1>	       57.0	STOP
+       80.0	       79.0	&
+<laplace=1>	        3.0	3650
+        4.0	<laplace=1>	Aah
+<laplace=1>	        4.0	K52
+       33.0	<laplace=1>	*
+       11.0	       14.0	+
+        3.0	<laplace=1>	WHERE
+      150.0	       53.0	-
+        3.0	        3.0	click
+       10.0	<laplace=1>	/
+<laplace=1>	       15.0	T&C
+<laplace=1>	        4.0	0
+       54.0	       43.0	1
+      264.0	      138.0	2
+        5.0	<laplace=1>	SEE
+       52.0	       22.0	3
+<laplace=1>	        3.0	Game
+      176.0	       93.0	4
+        3.0	<laplace=1>	size
+       29.0	<laplace=1>	left
+       46.0	        8.0	5
+       35.0	        7.0	6
+       34.0	        5.0	7
+       24.0	<laplace=1>	8
+        3.0	<laplace=1>	professors
+       25.0	<laplace=1>	9
+        4.0	<laplace=1>	2Police
+<laplace=1>	        3.0	0871277810810
+       17.0	<laplace=1>	goin
+        3.0	        4.0	=
+       10.0	        6.0	@
+       13.0	<laplace=1>	telling
+       77.0	       17.0	A
+        9.0	        8.0	B
+       19.0	       15.0	C
+        7.0	<laplace=1>	role
+<laplace=1>	        3.0	Starts
+        4.0	        3.0	D
+        8.0	        4.0	E
+<laplace=1>	        4.0	F
+       11.0	        6.0	G
+<laplace=1>	        3.0	SEX
+<laplace=1>	        7.0	1000
+     1122.0	       38.0	I
+        6.0	<laplace=1>	J
+       84.0	<laplace=1>	K
+        4.0	<laplace=1>	turn
+        3.0	<laplace=1>	licks
+<laplace=1>	       14.0	M
+        7.0	<laplace=1>	N
+       12.0	<laplace=1>	O
+<laplace=1>	        7.0	40GB
+        5.0	<laplace=1>	P
+        5.0	<laplace=1>	result
+        3.0	        5.0	Q
+        5.0	<laplace=1>	skype
+       27.0	       11.0	R
+       21.0	       13.0	S
+       37.0	<laplace=1>	same
+        3.0	       14.0	T
+      212.0	       83.0	U
+       19.0	        4.0	V
+        9.0	        7.0	X
+       20.0	<laplace=1>	Y
+       69.0	        5.0	after
+        3.0	<laplace=1>	quiet
+<laplace=1>	        3.0	ACL03530150PM
+<laplace=1>	        5.0	Jordan
+        3.0	<laplace=1>	flip
+        3.0	        3.0	connect
+       13.0	<laplace=1>	hand
+        5.0	<laplace=1>	_
+        3.0	<laplace=1>	KAVALAN
+        3.0	<laplace=1>	resume
+        3.0	<laplace=1>	BED
+<laplace=1>	        3.0	MK17
+      820.0	      284.0	a
+<laplace=1>	        4.0	ordered
+       47.0	        5.0	b
+       45.0	        4.0	c
+       18.0	        5.0	address
+       11.0	<laplace=1>	thanx
+       53.0	<laplace=1>	d
+       67.0	        5.0	e
+        4.0	<laplace=1>	kerala
+        4.0	<laplace=1>	f
+       14.0	        5.0	g
+        5.0	<laplace=1>	Nobody
+        4.0	<laplace=1>	h
+      631.0	        6.0	i
+<laplace=1>	        4.0	m8s
+        3.0	<laplace=1>	j
+       59.0	        3.0	k
+<laplace=1>	        3.0	Admirer
+        8.0	<laplace=1>	eating
+       12.0	<laplace=1>	m
+        7.0	<laplace=1>	Ahmad
+        3.0	<laplace=1>	blood
+      109.0	       10.0	n
+        3.0	<laplace=1>	SLAP
+<laplace=1>	        4.0	Titles
+        6.0	<laplace=1>	o
+      810.0	      153.0	the
+        3.0	<laplace=1>	Red
+        4.0	        3.0	straight
+<laplace=1>	        3.0	p
+        3.0	<laplace=1>	musthu
+       91.0	       12.0	r
+        5.0	        3.0	sale
+<laplace=1>	        3.0	Ref
+       25.0	        6.0	s
+        4.0	<laplace=1>	Cover
+        6.0	<laplace=1>	t
+      653.0	       56.0	u
+        5.0	<laplace=1>	throw
+<laplace=1>	        3.0	readers
+       26.0	        3.0	v
+       39.0	<laplace=1>	thk
+       14.0	<laplace=1>	w
+        3.0	        5.0	exciting
+       26.0	        5.0	x
+        4.0	<laplace=1>	thm
+       11.0	<laplace=1>	thank
+       25.0	<laplace=1>	y
+        5.0	        6.0	information
+       13.0	<laplace=1>	tho
+        8.0	<laplace=1>	|
+        4.0	<laplace=1>	ths
+<laplace=1>	        4.0	MobilesDirect
+       10.0	<laplace=1>	tht
+<laplace=1>	        3.0	3680
+        3.0	<laplace=1>	Again
+<laplace=1>	        5.0	SERVICES
+      114.0	        5.0	Its
+        3.0	<laplace=1>	priscillas
+      147.0	        5.0	good
+        3.0	<laplace=1>	Itz
+        5.0	<laplace=1>	empty
+<laplace=1>	        3.0	Careful
+       26.0	<laplace=1>	til
+        6.0	<laplace=1>	serious
+<laplace=1>	        3.0	Foley
+        9.0	<laplace=1>	others
+        9.0	<laplace=1>	laugh
+        4.0	<laplace=1>	tis
+       22.0	<laplace=1>	making
+        4.0	<laplace=1>	Youll
+        3.0	<laplace=1>	Whom
+<laplace=1>	        4.0	09061209465
+        4.0	<laplace=1>	6hrs
+        4.0	<laplace=1>	gona
+       30.0	<laplace=1>	check
+        3.0	<laplace=1>	1030
+        7.0	<laplace=1>	8th
+        3.0	<laplace=1>	relatives
+        3.0	<laplace=1>	SIB
+        3.0	<laplace=1>	WORRY
+<laplace=1>	        6.0	onto
+       16.0	<laplace=1>	gone
+        4.0	<laplace=1>	walked
+        7.0	<laplace=1>	NEED
+        4.0	<laplace=1>	Lifpartnr
+        4.0	<laplace=1>	gorgeous
+<laplace=1>	       10.0	Video
+       12.0	<laplace=1>	supposed
+       42.0	<laplace=1>	Ive
+<laplace=1>	        3.0	MK45
+        6.0	<laplace=1>	Whos
+<laplace=1>	        3.0	SIX
+        5.0	<laplace=1>	Aft
+<laplace=1>	       20.0	Todays
+        4.0	<laplace=1>	romantic
+        8.0	<laplace=1>	darren
+<laplace=1>	        4.0	SK3
+       13.0	<laplace=1>	hard
+<laplace=1>	        6.0	Dload
+<laplace=1>	        3.0	Islands
+        3.0	<laplace=1>	wihtuot
+        3.0	<laplace=1>	Yunny
+        4.0	<laplace=1>	Gary
+        3.0	<laplace=1>	NEFT
+        5.0	<laplace=1>	ticket
+        3.0	<laplace=1>	welp
+        4.0	<laplace=1>	realized
+        5.0	<laplace=1>	BIT
+        3.0	<laplace=1>	concentrate
+       33.0	<laplace=1>	room
+       36.0	<laplace=1>	better
+        3.0	<laplace=1>	tlk
+        3.0	<laplace=1>	Shampain
+<laplace=1>	        3.0	ACTION
+<laplace=1>	        5.0	83600
+<laplace=1>	        3.0	21st
+        4.0	<laplace=1>	blakes
+       79.0	        4.0	well
+        5.0	<laplace=1>	cancer
+        3.0	<laplace=1>	creepy
+       17.0	<laplace=1>	taking
+<laplace=1>	        3.0	07734396839
+<laplace=1>	        3.0	SKY
+        3.0	<laplace=1>	wishin
+<laplace=1>	        3.0	CHOSEN
+        4.0	<laplace=1>	SOMEONE
+        3.0	<laplace=1>	lttrs
+       10.0	<laplace=1>	loved
+<laplace=1>	        3.0	09066364589
+       24.0	<laplace=1>	tmr
+        3.0	<laplace=1>	cld
+        5.0	<laplace=1>	hate
+<laplace=1>	        3.0	Available
+<laplace=1>	        6.0	SonyEricsson
+        8.0	       11.0	order
+       47.0	<laplace=1>	went
+<laplace=1>	        3.0	10ppm
+       12.0	<laplace=1>	Havent
+        5.0	<laplace=1>	considering
+<laplace=1>	        4.0	Rate
+<laplace=1>	        5.0	CAMERA
+        3.0	<laplace=1>	propose
+        4.0	<laplace=1>	bringing
+        7.0	       25.0	SMS
+       11.0	        3.0	crazy
+<laplace=1>	        3.0	Aco&Entry41
+       54.0	<laplace=1>	thats
+        3.0	<laplace=1>	woman
+<laplace=1>	        3.0	Draw
+        3.0	<laplace=1>	toa
+        7.0	<laplace=1>	save
+        6.0	<laplace=1>	matter
+        4.0	<laplace=1>	tog
+        3.0	<laplace=1>	tok
+        3.0	        5.0	goto
+        3.0	<laplace=1>	tom
+        3.0	<laplace=1>	walls
+        7.0	       13.0	top
+      103.0	<laplace=1>	too
+<laplace=1>	       12.0	TONE
+<laplace=1>	        3.0	FANTASY
+      323.0	      121.0	have
+       22.0	<laplace=1>	tot
+        4.0	<laplace=1>	roast
+       15.0	        7.0	question
+       10.0	<laplace=1>	drugs
+        3.0	        3.0	lover
+        4.0	<laplace=1>	loves
+        5.0	<laplace=1>	bcums
+        7.0	        3.0	cheap
+        5.0	<laplace=1>	wishing
+<laplace=1>	        3.0	txttowin
+        3.0	<laplace=1>	propsd
+        4.0	<laplace=1>	BMW
+        3.0	<laplace=1>	picture
+        3.0	<laplace=1>	sarcastic
+        3.0	<laplace=1>	cheat
+<laplace=1>	        4.0	BOX95QU
+        4.0	<laplace=1>	thanksgiving
+        5.0	<laplace=1>	rose
+        3.0	<laplace=1>	Mmmmm
+       10.0	<laplace=1>	Very
+       13.0	       48.0	com
+       32.0	<laplace=1>	All
+<laplace=1>	        3.0	4T&Ctxt
+<laplace=1>	        3.0	AWARD
+        3.0	<laplace=1>	minor
+       54.0	<laplace=1>	cos
+        3.0	<laplace=1>	yelling
+        7.0	<laplace=1>	imma
+        8.0	        6.0	lets
+<laplace=1>	        5.0	150p/MsgrcvdHG/Suite342/2Lands/Row/W1J6HL
+        5.0	<laplace=1>	lab
+        9.0	<laplace=1>	pray
+<laplace=1>	        3.0	prepayment
+        4.0	<laplace=1>	SPK
+       11.0	<laplace=1>	coz
+<laplace=1>	        3.0	gaytextbuddy
+        3.0	<laplace=1>	lag
+<laplace=1>	        4.0	biggest
+        5.0	<laplace=1>	govt
+        7.0	<laplace=1>	holla
+<laplace=1>	        5.0	Row/W1JHL
+        5.0	<laplace=1>	raise
+        3.0	<laplace=1>	west
+       30.0	<laplace=1>	quite
+        3.0	<laplace=1>	2-u
+       38.0	<laplace=1>	lar
+       10.0	<laplace=1>	Plus
+        3.0	<laplace=1>	telugu
+<laplace=1>	       11.0	representative
+<laplace=1>	        3.0	07xxxxxxxxx
+        5.0	<laplace=1>	law
+        4.0	<laplace=1>	coins
+       12.0	<laplace=1>	Hmmm
+        3.0	        4.0	IMPORTANT
+       12.0	<laplace=1>	crave
+        6.0	<laplace=1>	plenty
+<laplace=1>	       10.0	BOX
+       10.0	<laplace=1>	less
+        6.0	<laplace=1>	christmas
+       30.0	<laplace=1>	Aight
+        3.0	<laplace=1>	adventure
+<laplace=1>	        4.0	200
+       62.0	        5.0	were
+       99.0	<laplace=1>	And
+        4.0	<laplace=1>	1His
+        3.0	<laplace=1>	improve
+        3.0	<laplace=1>	shining
+<laplace=1>	        5.0	Opt-out
+       42.0	        4.0	try
+<laplace=1>	        8.0	cash-balance
+        5.0	<laplace=1>	Hurry
+<laplace=1>	        3.0	09066380611
+        4.0	<laplace=1>	chicken
+        6.0	<laplace=1>	Callers
+        3.0	<laplace=1>	university
+<laplace=1>	        4.0	PHONE
+        3.0	<laplace=1>	weve
+<laplace=1>	        3.0	150p/MTmsg
+       18.0	<laplace=1>	Any
+       26.0	<laplace=1>	times
+        3.0	<laplace=1>	teaches
+        3.0	<laplace=1>	teacher
+<laplace=1>	        3.0	ADDAMSFA
+<laplace=1>	        5.0	3GBP
+        4.0	<laplace=1>	floor
+       27.0	<laplace=1>	says
+<laplace=1>	        4.0	87131
+       38.0	        3.0	That
+        3.0	<laplace=1>	probs
+<laplace=1>	        3.0	20000
+        3.0	<laplace=1>	Getting
+        3.0	<laplace=1>	necklace
+        5.0	<laplace=1>	cry
+        3.0	<laplace=1>	Jsut
+        3.0	<laplace=1>	opening
+<laplace=1>	       22.0	£5000
+        8.0	<laplace=1>	doctor
+<laplace=1>	        3.0	£100000
+<laplace=1>	        8.0	20p
+        5.0	<laplace=1>	activities
+        5.0	<laplace=1>	spoken
+<laplace=1>	        4.0	£400
+        5.0	<laplace=1>	respond
+        4.0	<laplace=1>	incident
+<laplace=1>	        5.0	sport
+<laplace=1>	        5.0	87121
+        3.0	<laplace=1>	caught
+        4.0	        8.0	weekends
+        3.0	<laplace=1>	prey
+        6.0	<laplace=1>	Jay
+        3.0	<laplace=1>	gotten
+<laplace=1>	        3.0	09056242159
+        3.0	<laplace=1>	concert
+        3.0	<laplace=1>	Hurts
+<laplace=1>	        4.0	supply
+       30.0	<laplace=1>	leh
+<laplace=1>	        3.0	Suite
+       12.0	<laplace=1>	beautiful
+       24.0	<laplace=1>	lei
+        8.0	<laplace=1>	Bcoz
+        4.0	<laplace=1>	docs
+<laplace=1>	        3.0	Bloomberg
+        4.0	<laplace=1>	RING
+        3.0	<laplace=1>	2mrw
+       57.0	<laplace=1>	let
+       57.0	        3.0	Then
+        7.0	<laplace=1>	lovable
+        3.0	<laplace=1>	press
+        3.0	<laplace=1>	dough
+<laplace=1>	        3.0	C52
+        4.0	<laplace=1>	cares
+        3.0	<laplace=1>	redred
+       92.0	        7.0	night
+       34.0	<laplace=1>	havent
+        4.0	<laplace=1>	Hear
+        3.0	<laplace=1>	pack
+<laplace=1>	       19.0	Code
+        6.0	        9.0	each
+       10.0	<laplace=1>	Ard
+        4.0	<laplace=1>	Dear1
+        4.0	<laplace=1>	cud
+       71.0	<laplace=1>	Are
+        4.0	<laplace=1>	gautham
+<laplace=1>	        3.0	09064012160
+        8.0	        6.0	cum
+        3.0	<laplace=1>	alrite
+        5.0	<laplace=1>	cup
+        3.0	<laplace=1>	evrydy
+<laplace=1>	        3.0	8552
+       11.0	<laplace=1>	cut
+       26.0	<laplace=1>	probably
+        3.0	<laplace=1>	killing
+        6.0	<laplace=1>	cuz
+        6.0	<laplace=1>	dollars
+        8.0	<laplace=1>	battery
+<laplace=1>	        3.0	networks
+       30.0	<laplace=1>	two
+<laplace=1>	        5.0	250
+        9.0	<laplace=1>	moment
+<laplace=1>	        3.0	08708034412
+<laplace=1>	        4.0	bx420-ip4-5we
+<laplace=1>	        3.0	SW7
+        5.0	<laplace=1>	tear
+       10.0	<laplace=1>	worries
+       20.0	        4.0	does
+        4.0	<laplace=1>	Ask
+        4.0	<laplace=1>	Valentine
+        4.0	<laplace=1>	sachin
+       10.0	<laplace=1>	worried
+        7.0	<laplace=1>	situation
+        5.0	<laplace=1>	Nature
+        8.0	<laplace=1>	BUT
+        3.0	        3.0	upto
+<laplace=1>	        4.0	quiz
+      115.0	        3.0	think
+        3.0	<laplace=1>	BUS
+<laplace=1>	        4.0	refused
+<laplace=1>	        6.0	Calls
+        3.0	<laplace=1>	Rum
+        4.0	<laplace=1>	team
+<laplace=1>	       13.0	services
+       25.0	        3.0	They
+        3.0	<laplace=1>	cricketer
+        8.0	       68.0	txt
+<laplace=1>	        8.0	82277
+       31.0	<laplace=1>	watch
+        5.0	<laplace=1>	quit
+<laplace=1>	        3.0	LS15HB
+<laplace=1>	        3.0	+447797706009
+       60.0	<laplace=1>	thing
+<laplace=1>	        4.0	Suprman
+        4.0	<laplace=1>	insurance
+        6.0	<laplace=1>	surely
+        7.0	<laplace=1>	medical
+        3.0	<laplace=1>	lib
+        5.0	<laplace=1>	FRIEND
+        3.0	<laplace=1>	NEVA
+       11.0	<laplace=1>	Morning
+        5.0	<laplace=1>	lie
+        5.0	<laplace=1>	SORRY
+        4.0	<laplace=1>	source
+        3.0	<laplace=1>	anna
+<laplace=1>	        9.0	25p
+        3.0	<laplace=1>	lil
+        6.0	<laplace=1>	lik
+        4.0	        3.0	unable
+        3.0	<laplace=1>	lip
+       16.0	<laplace=1>	There
+        8.0	<laplace=1>	workin
+        8.0	<laplace=1>	paying
+<laplace=1>	        3.0	HARRY
+<laplace=1>	        3.0	Search
+       42.0	       43.0	This
+        3.0	<laplace=1>	Gimme
+        5.0	<laplace=1>	shoot
+        5.0	        3.0	starts
+        7.0	<laplace=1>	budget
+        3.0	<laplace=1>	tech
+        3.0	<laplace=1>	actual
+        7.0	<laplace=1>	campus
+        3.0	<laplace=1>	Thgt
+        3.0	<laplace=1>	jacket
+        3.0	<laplace=1>	doubt
+        3.0	<laplace=1>	develop
+<laplace=1>	        3.0	7250
+<laplace=1>	        3.0	Ave
+        3.0	        3.0	These
+        6.0	<laplace=1>	TOWN
+        7.0	        3.0	fixed
+<laplace=1>	        3.0	09066382422
+        7.0	<laplace=1>	page
+        5.0	<laplace=1>	assume
+        4.0	<laplace=1>	GIRL
+        3.0	<laplace=1>	hsbc
+       21.0	<laplace=1>	full
+        4.0	<laplace=1>	Italian
+       23.0	        5.0	away
+        3.0	<laplace=1>	callcoz
+       32.0	<laplace=1>	house
+        3.0	<laplace=1>	cuddling
+        3.0	<laplace=1>	RITE
+<laplace=1>	        5.0	10am-7pm
+        3.0	<laplace=1>	cared
+        3.0	<laplace=1>	Disconnect
+<laplace=1>	       20.0	86688
+        3.0	<laplace=1>	Wating
+<laplace=1>	        4.0	84025
+        3.0	        7.0	replying
+        3.0	<laplace=1>	painful
+        6.0	<laplace=1>	Damn
+        9.0	<laplace=1>	doin
+        3.0	<laplace=1>	Aww
+       17.0	        6.0	hours
+       25.0	<laplace=1>	pain
+        3.0	<laplace=1>	Jia
+       35.0	<laplace=1>	Happy
+        3.0	        3.0	center
+       25.0	        4.0	start
+        3.0	<laplace=1>	shore
+<laplace=1>	        4.0	purchase
+        8.0	<laplace=1>	WHAT
+        3.0	<laplace=1>	manage
+<laplace=1>	       32.0	£2000
+<laplace=1>	        3.0	hotels
+        6.0	<laplace=1>	paid
+        7.0	<laplace=1>	short
+        3.0	<laplace=1>	MINUTES
+<laplace=1>	        3.0	funk
+<laplace=1>	        3.0	Provided
+        3.0	<laplace=1>	finance
+        3.0	<laplace=1>	anot
+        4.0	<laplace=1>	parking
+        9.0	<laplace=1>	tampa
+        3.0	<laplace=1>	rewarding
+       16.0	<laplace=1>	Come
+        6.0	<laplace=1>	unsold
+<laplace=1>	        3.0	Important
+        3.0	<laplace=1>	trains
+        5.0	<laplace=1>	three
+<laplace=1>	        3.0	mobilesvary
+<laplace=1>	        3.0	PLAY
+        3.0	<laplace=1>	remembered
+        3.0	<laplace=1>	forums
+        4.0	<laplace=1>	WHEN
+<laplace=1>	        3.0	landlines
+<laplace=1>	        4.0	Network
+<laplace=1>	        5.0	80488
+       12.0	<laplace=1>	Wife
+        3.0	<laplace=1>	mids
+        5.0	<laplace=1>	season
+        3.0	<laplace=1>	payment
+        4.0	        8.0	enter
+        4.0	<laplace=1>	lonely
+        3.0	<laplace=1>	pale
+        4.0	<laplace=1>	lousy
+        3.0	<laplace=1>	threw
+        4.0	<laplace=1>	PERSON
+        3.0	<laplace=1>	convincing
+        8.0	<laplace=1>	players
+        4.0	<laplace=1>	roads
+<laplace=1>	        5.0	ntwk
+        3.0	<laplace=1>	dates
+        3.0	<laplace=1>	Goodo
+<laplace=1>	        5.0	08702840625
+<laplace=1>	        3.0	Drop
+        4.0	<laplace=1>	9ja
+        5.0	<laplace=1>	GIVE
+        3.0	<laplace=1>	coast
+       12.0	<laplace=1>	Life
+        4.0	<laplace=1>	Smiling
+<laplace=1>	        5.0	Help
+        5.0	<laplace=1>	Could
+        6.0	        5.0	log
+       13.0	<laplace=1>	lol
+        3.0	<laplace=1>	bright
+        4.0	<laplace=1>	Cook
+        3.0	<laplace=1>	paperwork
+       13.0	<laplace=1>	Cool
+<laplace=1>	        3.0	Scoring
+        3.0	<laplace=1>	sleepin
+        3.0	<laplace=1>	BEGIN
+        8.0	<laplace=1>	planned
+        6.0	<laplace=1>	pongal
+      145.0	<laplace=1>	lor
+        4.0	<laplace=1>	anti
+        3.0	<laplace=1>	unknown
+       41.0	<laplace=1>	lot
+        8.0	        6.0	computer
+        3.0	<laplace=1>	lov
+<laplace=1>	        3.0	premium
+        3.0	<laplace=1>	low
+        3.0	<laplace=1>	smeone
+<laplace=1>	        5.0	£1500
+       15.0	<laplace=1>	meant
+       17.0	<laplace=1>	prob
+       25.0	<laplace=1>	means
+<laplace=1>	        5.0	ansr
+<laplace=1>	        5.0	login=
+<laplace=1>	        3.0	Canary
+        9.0	<laplace=1>	Youre
+        5.0	<laplace=1>	centre
+        5.0	<laplace=1>	Found
+<laplace=1>	        3.0	Usher
+        6.0	<laplace=1>	fetch
+        7.0	<laplace=1>	barely
+<laplace=1>	        3.0	Subscribe6GBP/mnth
+        4.0	<laplace=1>	hanging
+<laplace=1>	        3.0	randomly
+        3.0	<laplace=1>	None
+        3.0	<laplace=1>	elaine
+        8.0	<laplace=1>	door
+        8.0	<laplace=1>	quick
+       21.0	<laplace=1>	dad
+       90.0	       14.0	tell
+        4.0	<laplace=1>	possession
+        3.0	<laplace=1>	icicibank
+        4.0	<laplace=1>	husband
+        8.0	<laplace=1>	experience
+<laplace=1>	        3.0	3hrs
+       21.0	       23.0	Send
+        6.0	       32.0	shows
+        9.0	<laplace=1>	Like
+<laplace=1>	        5.0	08001950382
+       36.0	<laplace=1>	dat
+        6.0	<laplace=1>	intro
+        7.0	<laplace=1>	checked
+        4.0	<laplace=1>	goodnight
+        3.0	<laplace=1>	affair
+<laplace=1>	        3.0	Yours
+        3.0	<laplace=1>	DRINK
+      168.0	       10.0	day
+        3.0	<laplace=1>	keeps
+        5.0	<laplace=1>	Sent
+<laplace=1>	        5.0	ec2a
+        4.0	<laplace=1>	drinking
+        3.0	<laplace=1>	Making
+       25.0	        6.0	minutes
+        5.0	<laplace=1>	created
+        3.0	<laplace=1>	Queen
+        3.0	<laplace=1>	island
+<laplace=1>	        3.0	KEEP
+        3.0	<laplace=1>	sacrifice
+       40.0	        3.0	done
+        9.0	<laplace=1>	water
+<laplace=1>	        3.0	August
+        3.0	<laplace=1>	stays
+        9.0	<laplace=1>	CAN
+       16.0	<laplace=1>	Nope
+<laplace=1>	        4.0	08717898035
+        3.0	<laplace=1>	Sac
+<laplace=1>	        3.0	Box177
+        6.0	<laplace=1>	Sad
+      188.0	       13.0	dont
+<laplace=1>	       11.0	POBox
+        3.0	<laplace=1>	Datz
+        3.0	<laplace=1>	mathematics
+       20.0	       11.0	part
+        4.0	        3.0	Sat
+<laplace=1>	        7.0	Digital
+        7.0	<laplace=1>	Say
+        3.0	<laplace=1>	Muah
+        4.0	<laplace=1>	elsewhere
+<laplace=1>	       16.0	Cost
+<laplace=1>	        4.0	Sept
+<laplace=1>	        9.0	R*reveal
+        4.0	<laplace=1>	Qatar
+<laplace=1>	       14.0	tones
+<laplace=1>	        3.0	82242
+       37.0	        4.0	Will
+<laplace=1>	        6.0	150p/Msg
+       12.0	<laplace=1>	park
+        4.0	<laplace=1>	temp
+<laplace=1>	        3.0	08701417012150p
+        5.0	<laplace=1>	Bad
+        7.0	        3.0	TODAY
+<laplace=1>	        5.0	TCs
+<laplace=1>	        3.0	USER
+        3.0	<laplace=1>	Date
+       37.0	        8.0	someone
+        5.0	        3.0	Youve
+        3.0	<laplace=1>	Single
+        3.0	<laplace=1>	build
+        3.0	<laplace=1>	9pm
+        3.0	<laplace=1>	earn
+<laplace=1>	        4.0	further
+        9.0	<laplace=1>	apartment
+        5.0	<laplace=1>	Wine
+        5.0	<laplace=1>	Heart
+        4.0	<laplace=1>	allah
+        3.0	<laplace=1>	def
+        6.0	<laplace=1>	Bday
+        6.0	       11.0	Customer
+        3.0	<laplace=1>	Helloooo
+        5.0	<laplace=1>	hasnt
+        4.0	<laplace=1>	Much
+        4.0	<laplace=1>	Izzit
+       22.0	<laplace=1>	den
+       21.0	<laplace=1>	luv
+        5.0	<laplace=1>	dem
+        4.0	<laplace=1>	shouted
+        5.0	<laplace=1>	infernal
+        6.0	<laplace=1>	Otherwise
+        4.0	<laplace=1>	record
+        4.0	<laplace=1>	dey
+<laplace=1>	        3.0	Incredible
+        4.0	<laplace=1>	railway
+<laplace=1>	        7.0	announcement
+<laplace=1>	        3.0	Space
+        4.0	<laplace=1>	flaked
+      147.0	<laplace=1>	going
+        5.0	<laplace=1>	carefully
+        7.0	        5.0	pass
+        4.0	<laplace=1>	banks
+        8.0	<laplace=1>	past
+        4.0	<laplace=1>	milk
+        6.0	        3.0	bill
+        3.0	<laplace=1>	dorm
+<laplace=1>	        3.0	Dave
+       15.0	       14.0	easy
+<laplace=1>	        3.0	Line
+       20.0	       11.0	See
+        3.0	<laplace=1>	SURE
+        4.0	<laplace=1>	Here
+        5.0	<laplace=1>	bathing
+<laplace=1>	        6.0	CDs
+        3.0	<laplace=1>	Thts
+<laplace=1>	        4.0	BONUS
+<laplace=1>	        4.0	adult
+        5.0	<laplace=1>	*loving
+        3.0	<laplace=1>	dokey
+        4.0	<laplace=1>	touched
+<laplace=1>	        3.0	compare
+<laplace=1>	        4.0	Sex
+        5.0	<laplace=1>	smile*
+        3.0	<laplace=1>	waited
+        4.0	<laplace=1>	Storming
+        3.0	<laplace=1>	*devouring
+       17.0	        4.0	THE
+       13.0	       25.0	mins
+        8.0	<laplace=1>	wednesday
+        3.0	<laplace=1>	brah
+        6.0	<laplace=1>	hotel
+<laplace=1>	        3.0	term
+       13.0	<laplace=1>	mine
+       35.0	        3.0	mind
+        6.0	<laplace=1>	FONE
+        4.0	<laplace=1>	business
+        3.0	<laplace=1>	L8R
+        5.0	<laplace=1>	outta
+        4.0	<laplace=1>	leona
+       13.0	<laplace=1>	Jus
+        3.0	<laplace=1>	staff
+       80.0	        3.0	right
+        9.0	<laplace=1>	possible
+        3.0	<laplace=1>	shoes
+        7.0	<laplace=1>	Juz
+        3.0	<laplace=1>	Youd
+<laplace=1>	        4.0	Arcade
+        5.0	<laplace=1>	REALLY
+<laplace=1>	       22.0	Holiday
+<laplace=1>	       11.0	Caller
+<laplace=1>	        5.0	STORE
+       30.0	       72.0	Your
+        3.0	<laplace=1>	borrow
+<laplace=1>	        7.0	polys
+        3.0	<laplace=1>	inch
+        5.0	<laplace=1>	under
+        3.0	<laplace=1>	desert
+       61.0	<laplace=1>	did
+        3.0	<laplace=1>	Accounts
+        7.0	        6.0	rply
+        3.0	<laplace=1>	lyk
+       10.0	<laplace=1>	die
+        3.0	<laplace=1>	misbehaved
+        5.0	        3.0	added
+        8.0	<laplace=1>	din
+       52.0	<laplace=1>	down
+       25.0	<laplace=1>	dis
+       40.0	<laplace=1>	She
+<laplace=1>	        3.0	$5
+      126.0	<laplace=1>	later
+        5.0	<laplace=1>	Darren
+        5.0	<laplace=1>	brings
+<laplace=1>	        3.0	TULIP
+        3.0	<laplace=1>	forgotten
+        5.0	<laplace=1>	legal
+<laplace=1>	        9.0	club
+        6.0	<laplace=1>	Lovely
+        3.0	<laplace=1>	insha
+        3.0	       12.0	info
+       21.0	<laplace=1>	test
+        4.0	<laplace=1>	journey
+        6.0	<laplace=1>	HELLO
+       11.0	<laplace=1>	finally
+        4.0	<laplace=1>	suntec
+        3.0	<laplace=1>	exhaust
+        4.0	<laplace=1>	regarding
+        6.0	<laplace=1>	Because
+       29.0	        3.0	month
+        9.0	<laplace=1>	ull
+        3.0	       12.0	final
+       14.0	<laplace=1>	BSLVYL
+<laplace=1>	        5.0	Loyalty
+       15.0	<laplace=1>	Sir
+        3.0	<laplace=1>	distract
+        6.0	<laplace=1>	loan
+        8.0	<laplace=1>	rather
+      117.0	       22.0	back
+<laplace=1>	        3.0	TxtNO
+        9.0	<laplace=1>	training
+        3.0	<laplace=1>	papers
+       56.0	        8.0	miss
+        9.0	        7.0	With
+        3.0	        3.0	pound
+        4.0	<laplace=1>	sheets
+<laplace=1>	        3.0	call2optout/N9DX
+       11.0	<laplace=1>	wasnt
+        3.0	<laplace=1>	bite
+        5.0	<laplace=1>	ignore
+       14.0	        3.0	company
+        4.0	        4.0	Children
+        3.0	<laplace=1>	dippeditinaDEW
+        3.0	<laplace=1>	prince
+        4.0	<laplace=1>	Lacs
+        7.0	<laplace=1>	relax
+        3.0	<laplace=1>	custom
+        3.0	<laplace=1>	blessed
+        8.0	       11.0	Congrats
+       46.0	        6.0	babe
+        3.0	<laplace=1>	Bit
+        5.0	<laplace=1>	grand
+        3.0	<laplace=1>	Argh
+       13.0	<laplace=1>	Wish
+        3.0	<laplace=1>	uni
+        3.0	<laplace=1>	schedule
+        5.0	<laplace=1>	blackberry
+       21.0	        3.0	baby
+        4.0	<laplace=1>	addie
+        3.0	<laplace=1>	1hr
+        8.0	<laplace=1>	showing
+        4.0	<laplace=1>	dearer
+<laplace=1>	        3.0	Sky
+       40.0	<laplace=1>	lunch
+        4.0	<laplace=1>	exhausted
+<laplace=1>	       10.0	discount
+        4.0	<laplace=1>	Birthday
+        3.0	       23.0	attempt
+        4.0	<laplace=1>	Already
+       21.0	<laplace=1>	doesnt
+        3.0	<laplace=1>	division
+        3.0	<laplace=1>	FRNDS
+<laplace=1>	        6.0	December
+        5.0	        3.0	balance
+<laplace=1>	        6.0	revealed
+        3.0	<laplace=1>	lock
+       62.0	       66.0	text
+       16.0	<laplace=1>	Even
+        5.0	<laplace=1>	usually
+        5.0	<laplace=1>	letters
+        4.0	<laplace=1>	dearly
+        4.0	<laplace=1>	Ever
+        3.0	        3.0	Somebody
+       26.0	<laplace=1>	made
+        4.0	<laplace=1>	Live
+        8.0	<laplace=1>	sense
+       17.0	<laplace=1>	chikku
+       36.0	        7.0	being
+       12.0	<laplace=1>	dnt
+        3.0	<laplace=1>	curry
+        3.0	        4.0	Tomorrow
+        9.0	<laplace=1>	hoping
+        3.0	<laplace=1>	printed
+        3.0	<laplace=1>	chillin
+        4.0	<laplace=1>	jesus
+        3.0	<laplace=1>	field
+        3.0	<laplace=1>	contents
+<laplace=1>	       20.0	£500
+       13.0	        9.0	messages
+        3.0	<laplace=1>	doc
+        4.0	<laplace=1>	Gently
+        8.0	<laplace=1>	dog
+        4.0	<laplace=1>	mite
+<laplace=1>	        6.0	Voda
+        3.0	<laplace=1>	Whenevr
+        3.0	<laplace=1>	status
+        7.0	<laplace=1>	Aiyo
+       11.0	<laplace=1>	don
+        4.0	<laplace=1>	upset
+        3.0	<laplace=1>	CNN
+        6.0	<laplace=1>	*sighs*
+        4.0	<laplace=1>	bags
+        3.0	<laplace=1>	messaged
+        3.0	<laplace=1>	pours
+<laplace=1>	        3.0	6months
+        3.0	<laplace=1>	skip
+<laplace=1>	        3.0	stamped
+        3.0	<laplace=1>	mitsake
+        3.0	<laplace=1>	mac
+        4.0	<laplace=1>	aftr
+        5.0	<laplace=1>	Aiya
+        6.0	<laplace=1>	*9
+        3.0	<laplace=1>	woulda
+        4.0	<laplace=1>	Brilliant
+        6.0	<laplace=1>	mad
+        3.0	<laplace=1>	mag
+<laplace=1>	        4.0	Energy
+       12.0	<laplace=1>	mah
+        3.0	<laplace=1>	laundry
+       32.0	<laplace=1>	man
+        3.0	<laplace=1>	3-u
+        9.0	<laplace=1>	stand
+        4.0	<laplace=1>	maga
+        4.0	<laplace=1>	mas
+<laplace=1>	        8.0	36504
+        9.0	<laplace=1>	knows
+        3.0	<laplace=1>	twenty
+        3.0	        3.0	COM
+       25.0	        6.0	may
+        3.0	<laplace=1>	Petey
+<laplace=1>	        4.0	DRAW
+        8.0	<laplace=1>	forward
+        8.0	<laplace=1>	ure
+        6.0	<laplace=1>	joking
+        3.0	<laplace=1>	bless
+        9.0	<laplace=1>	todays
+<laplace=1>	        4.0	msg@150p
+<laplace=1>	        8.0	Sol
+<laplace=1>	        4.0	300
+        3.0	<laplace=1>	sweets
+        5.0	<laplace=1>	manda
+<laplace=1>	        3.0	discreet
+       10.0	<laplace=1>	THAT
+        4.0	<laplace=1>	fees
+        3.0	<laplace=1>	snowman
+       26.0	<laplace=1>	mail
+        4.0	<laplace=1>	usc
+        3.0	<laplace=1>	usb
+       38.0	        7.0	use
+<laplace=1>	        3.0	bonus
+       11.0	<laplace=1>	usf
+       51.0	<laplace=1>	feel
+        3.0	<laplace=1>	main
+        3.0	<laplace=1>	mca
+        3.0	<laplace=1>	cochin
+        8.0	<laplace=1>	liked
+        5.0	<laplace=1>	Spl
+<laplace=1>	        5.0	87239
+        3.0	<laplace=1>	FRIENDSHIP
+<laplace=1>	        5.0	logo
+        3.0	<laplace=1>	Tick
+<laplace=1>	        3.0	16+only
+        5.0	        8.0	credit
+        5.0	<laplace=1>	terrible
+        4.0	<laplace=1>	likes
+        3.0	<laplace=1>	combine
+        7.0	<laplace=1>	waste
+<laplace=1>	        3.0	-Message
+        4.0	<laplace=1>	Boo
+        3.0	<laplace=1>	ideal
+        5.0	<laplace=1>	comedy
+        3.0	<laplace=1>	caroline
+        5.0	<laplace=1>	dry
+        5.0	<laplace=1>	ideas
+<laplace=1>	       24.0	Box
+<laplace=1>	        8.0	CR9
+        3.0	<laplace=1>	cheating
+<laplace=1>	        3.0	5p/min
+        5.0	<laplace=1>	Boy
+       13.0	<laplace=1>	picking
+        3.0	<laplace=1>	KUDIyarasu
+<laplace=1>	        6.0	Price
+        6.0	<laplace=1>	-D
+<laplace=1>	        3.0	326
+<laplace=1>	        5.0	84199
+        3.0	<laplace=1>	ebay
+       10.0	<laplace=1>	Wait
+        5.0	<laplace=1>	closedincluding
+        3.0	<laplace=1>	Kay
+        5.0	<laplace=1>	waitin
+        5.0	<laplace=1>	-P
+<laplace=1>	        3.0	Wan2
+<laplace=1>	        3.0	Nokia6650
+<laplace=1>	        4.0	med
+<laplace=1>	        3.0	re-schedule
+       10.0	<laplace=1>	meh
+        7.0	<laplace=1>	aathi
+<laplace=1>	        3.0	31p
+        3.0	<laplace=1>	mel
+        6.0	        3.0	men
+        4.0	<laplace=1>	smoking
+<laplace=1>	        8.0	LDN
+       77.0	       12.0	make
+        8.0	<laplace=1>	met
+        4.0	<laplace=1>	Finish
+        4.0	<laplace=1>	questioned
+<laplace=1>	        7.0	Ringtone
+        3.0	<laplace=1>	thread
+        6.0	<laplace=1>	exactly
+        6.0	<laplace=1>	Wake
+<laplace=1>	        3.0	80608
+<laplace=1>	        3.0	PARIS
+        3.0	        4.0	orange
+        5.0	<laplace=1>	Reading
+        5.0	<laplace=1>	due
+        3.0	<laplace=1>	conform
+        4.0	<laplace=1>	2MRW
+<laplace=1>	        3.0	Handset
+        6.0	<laplace=1>	waking
+        4.0	<laplace=1>	LET
+       45.0	<laplace=1>	dun
+<laplace=1>	       11.0	00
+        3.0	<laplace=1>	inform
+        9.0	<laplace=1>	woke
+<laplace=1>	        3.0	05
+        4.0	<laplace=1>	Busy
+<laplace=1>	        3.0	06
+      140.0	        8.0	about
+        3.0	<laplace=1>	sorrow
+        5.0	<laplace=1>	Must
+        3.0	<laplace=1>	crash
+        4.0	<laplace=1>	GM+GN+GE+GN
+       11.0	<laplace=1>	bank
+        7.0	<laplace=1>	character
+<laplace=1>	        3.0	receivea
+        8.0	<laplace=1>	meaning
+        6.0	<laplace=1>	urgnt
+        7.0	       11.0	Want
+        4.0	<laplace=1>	bros
+        4.0	<laplace=1>	released
+        4.0	<laplace=1>	*teasing
+       13.0	        9.0	10
+<laplace=1>	        3.0	tonights
+<laplace=1>	        3.0	CUP
+        6.0	        7.0	11
+        6.0	        7.0	12
+<laplace=1>	        6.0	Sub
+        3.0	<laplace=1>	singing
+        4.0	<laplace=1>	15
+<laplace=1>	       27.0	16
+        3.0	<laplace=1>	hamster
+        3.0	<laplace=1>	module
+        3.0	<laplace=1>	mall
+       10.0	<laplace=1>	myself
+<laplace=1>	       27.0	18
+       16.0	<laplace=1>	wonderful
+<laplace=1>	        3.0	received
+        4.0	<laplace=1>	Smile
+       13.0	<laplace=1>	mrng
+        4.0	<laplace=1>	Sun
+        4.0	       10.0	Xmas
+        6.0	        3.0	quality
+<laplace=1>	        6.0	POBox36504W45WQ
+<laplace=1>	        3.0	unique
+        4.0	<laplace=1>	boost
+        3.0	<laplace=1>	THEN
+        5.0	        5.0	20
+        4.0	<laplace=1>	PARTY
+        3.0	<laplace=1>	shared
+<laplace=1>	        3.0	24
+        3.0	        4.0	25
+        3.0	<laplace=1>	worlds
+        3.0	<laplace=1>	Btw
+<laplace=1>	       30.0	T&Cs
+<laplace=1>	        6.0	28
+        3.0	<laplace=1>	don’t
+        6.0	        3.0	mid
+        3.0	<laplace=1>	March
+        3.0	<laplace=1>	desparate
+       18.0	        3.0	believe
+        5.0	<laplace=1>	cute
+       38.0	<laplace=1>	long
+<laplace=1>	        3.0	373
+       26.0	<laplace=1>	remember
+        4.0	<laplace=1>	fell
+       29.0	        7.0	into
+        4.0	<laplace=1>	Horrible
+<laplace=1>	       12.0	TXT
+<laplace=1>	        3.0	2C
+       12.0	       26.0	1st
+       25.0	       14.0	min
+       13.0	        3.0	30
+        4.0	<laplace=1>	booty
+      136.0	<laplace=1>	But
+        3.0	<laplace=1>	1s
+        8.0	<laplace=1>	bother
+        4.0	<laplace=1>	middle
+       26.0	<laplace=1>	though
+        3.0	        4.0	Buy
+        3.0	<laplace=1>	Aeronautics
+       50.0	        4.0	many
+       19.0	        4.0	stay
+<laplace=1>	        6.0	3510i
+        3.0	<laplace=1>	dedicate
+       10.0	       17.0	texts
+        7.0	<laplace=1>	definitely
+<laplace=1>	        6.0	3G
+<laplace=1>	       25.0	4*
+       10.0	       43.0	Reply
+        3.0	<laplace=1>	callin
+<laplace=1>	        3.0	40
+       15.0	<laplace=1>	open
+        3.0	<laplace=1>	nagar
+<laplace=1>	        3.0	6031
+       16.0	<laplace=1>	treat
+        5.0	       10.0	numbers
+       15.0	<laplace=1>	project
+        4.0	<laplace=1>	seven
+<laplace=1>	        3.0	2WT
+<laplace=1>	        3.0	T&CsBCM4235WC1N3XX
+        4.0	<laplace=1>	3d
+        8.0	       10.0	Last
+<laplace=1>	        3.0	cashto
+<laplace=1>	        3.0	Santa
+        3.0	<laplace=1>	3g
+        3.0	<laplace=1>	galileo
+<laplace=1>	        3.0	Subscriber
+        8.0	<laplace=1>	arent
+<laplace=1>	        3.0	84128
+        4.0	<laplace=1>	california
+        3.0	       40.0	50
+        8.0	<laplace=1>	First
+<laplace=1>	        3.0	LUCKY
+        4.0	<laplace=1>	4U
+        4.0	        3.0	surprise
+<laplace=1>	        4.0	Liverpool
+        9.0	<laplace=1>	studying
+        8.0	<laplace=1>	murderer
+<laplace=1>	        3.0	seeds
+        3.0	<laplace=1>	cooked
+       14.0	<laplace=1>	felt
+        8.0	        6.0	invited
+        7.0	<laplace=1>	KNOW
+       51.0	        4.0	wont
+<laplace=1>	        3.0	6days
+       26.0	        4.0	look
+        3.0	<laplace=1>	4a
+        3.0	<laplace=1>	4d
+        3.0	<laplace=1>	monkeys
+<laplace=1>	        3.0	Thurs
+        5.0	<laplace=1>	murdered
+        3.0	<laplace=1>	Arun
+        4.0	<laplace=1>	calicut
+<laplace=1>	        3.0	5K
+<laplace=1>	        6.0	Games
+       12.0	<laplace=1>	THIS
+<laplace=1>	        6.0	11mths+
+        3.0	<laplace=1>	woken
+        7.0	<laplace=1>	internet
+        5.0	<laplace=1>	kettoda
+        8.0	<laplace=1>	Wats
+        3.0	        4.0	4u
+        5.0	<laplace=1>	needed
+<laplace=1>	        3.0	08719180248
+        3.0	<laplace=1>	admin
+        8.0	<laplace=1>	Time
+<laplace=1>	        3.0	EURO
+        3.0	<laplace=1>	speed
+        3.0	        9.0	auction
+<laplace=1>	        3.0	Georges
+        4.0	<laplace=1>	common
+        3.0	<laplace=1>	interest
+<laplace=1>	        4.0	downloads
+        3.0	<laplace=1>	somtimes
+        3.0	<laplace=1>	sleepy
+        7.0	<laplace=1>	Aiyah
+        9.0	<laplace=1>	bath
+        3.0	<laplace=1>	LIFE
+        3.0	<laplace=1>	bruv
+<laplace=1>	        3.0	77
+        3.0	       29.0	apply
+        3.0	<laplace=1>	Brandy
+        6.0	        3.0	recently
+        5.0	<laplace=1>	Aiyar
+        3.0	<laplace=1>	prepaid
+<laplace=1>	        5.0	Tyrone
+        7.0	<laplace=1>	bedroom
+        4.0	<laplace=1>	*Im
+        3.0	<laplace=1>	mp3
+       53.0	        3.0	money
+<laplace=1>	        3.0	Optout
+        7.0	<laplace=1>	Every
+        4.0	<laplace=1>	step
+<laplace=1>	        3.0	Rally
+        9.0	<laplace=1>	forever
+<laplace=1>	        3.0	85
+        3.0	<laplace=1>	mark
+        3.0	<laplace=1>	base
+<laplace=1>	       19.0	mob
+        3.0	<laplace=1>	Beware
+       10.0	<laplace=1>	Awesome
+       15.0	<laplace=1>	whole
+       11.0	<laplace=1>	mom
+        7.0	<laplace=1>	fingers
+        8.0	<laplace=1>	mon
+        4.0	<laplace=1>	relation
+        9.0	<laplace=1>	movies
+       14.0	<laplace=1>	Okay
+        5.0	<laplace=1>	loss
+        3.0	<laplace=1>	darlings
+       12.0	<laplace=1>	lost
+        5.0	<laplace=1>	COME
+<laplace=1>	        7.0	toClaim
+<laplace=1>	        3.0	99
+      133.0	        8.0	still
+<laplace=1>	        3.0	LOG
+       87.0	        4.0	work
+       12.0	<laplace=1>	lose
+        6.0	<laplace=1>	LOL
+<laplace=1>	        3.0	packs
+        3.0	<laplace=1>	bishan
+        3.0	<laplace=1>	aunty
+        3.0	<laplace=1>	books
+        4.0	<laplace=1>	knowing
+        3.0	<laplace=1>	aunts
+       12.0	<laplace=1>	mate
+<laplace=1>	        3.0	among
+        4.0	<laplace=1>	irritating
+        3.0	<laplace=1>	math
+       14.0	       26.0	word
+      127.0	        7.0	love
+        4.0	<laplace=1>	Mmmm
+<laplace=1>	        4.0	TsCs
+       16.0	        4.0	enjoy
+        6.0	        9.0	secret
+        9.0	<laplace=1>	slave
+<laplace=1>	        4.0	M26
+       11.0	<laplace=1>	across
+        3.0	<laplace=1>	vday
+        3.0	<laplace=1>	COOL
+        3.0	<laplace=1>	ear
+        3.0	<laplace=1>	lotta
+<laplace=1>	       11.0	Chat
+       32.0	<laplace=1>	eat
+<laplace=1>	        3.0	verify
+        4.0	<laplace=1>	9t
+        4.0	<laplace=1>	loud
+<laplace=1>	        9.0	reward
+<laplace=1>	        4.0	HELP
+<laplace=1>	        3.0	include
+        9.0	<laplace=1>	Pete
+        3.0	<laplace=1>	pouch
+        7.0	<laplace=1>	facebook
+<laplace=1>	        3.0	18p/txt
+        3.0	<laplace=1>	Doctor
+        3.0	<laplace=1>	VALUED
+<laplace=1>	        3.0	25/F
+       10.0	<laplace=1>	mrt
+<laplace=1>	       19.0	Prize
+        8.0	<laplace=1>	opinion
+<laplace=1>	        6.0	Chance
+       14.0	<laplace=1>	lots
+<laplace=1>	        3.0	Trav
+        3.0	<laplace=1>	cutting
+        4.0	<laplace=1>	juicy
+        4.0	<laplace=1>	ages
+        9.0	        3.0	DAY
+       47.0	       19.0	msg
+       10.0	<laplace=1>	voice
+        3.0	<laplace=1>	prepared
+<laplace=1>	        3.0	08719181513
+        3.0	<laplace=1>	msn
+<laplace=1>	        3.0	LS1
+<laplace=1>	        3.0	sms-08718727870
+        4.0	<laplace=1>	Okey
+<laplace=1>	        3.0	81010
+<laplace=1>	        3.0	3AJ
+        6.0	<laplace=1>	WORLD
+        3.0	<laplace=1>	SHESIL
+        5.0	<laplace=1>	expecting
+        4.0	<laplace=1>	spell
+<laplace=1>	        3.0	polyH
+        6.0	<laplace=1>	=D
+<laplace=1>	        3.0	09050003091
+<laplace=1>	        3.0	40533
+        3.0	<laplace=1>	failed
+       12.0	<laplace=1>	mayb
+       68.0	        5.0	Can
+<laplace=1>	        4.0	DATE
+        3.0	<laplace=1>	shipped
+        3.0	<laplace=1>	LIKE
+        3.0	<laplace=1>	edu
+       10.0	<laplace=1>	seems
+        3.0	<laplace=1>	Payee
+<laplace=1>	        7.0	POBOX
+        8.0	<laplace=1>	tickets
+       10.0	<laplace=1>	mum
+        4.0	<laplace=1>	Argument
+<laplace=1>	        4.0	celeb
+<laplace=1>	        3.0	YES-440
+        5.0	<laplace=1>	Glad
+<laplace=1>	        3.0	polypH
+<laplace=1>	        3.0	getstop
+<laplace=1>	        3.0	08712400602450p
+<laplace=1>	        4.0	Points
+        7.0	<laplace=1>	muz
+<laplace=1>	        4.0	billed
+        7.0	<laplace=1>	walking
+       11.0	<laplace=1>	spend
+        3.0	<laplace=1>	talks
+<laplace=1>	        3.0	09061221061
+<laplace=1>	        3.0	Lions
+        5.0	<laplace=1>	Since
+        3.0	<laplace=1>	grave
+        9.0	<laplace=1>	spent
+        3.0	<laplace=1>	Sinco
+        3.0	        7.0	Service
+<laplace=1>	        3.0	LILY
+<laplace=1>	        5.0	09061221066
+        6.0	<laplace=1>	Change
+        7.0	<laplace=1>	LUV
+        7.0	<laplace=1>	instead
+<laplace=1>	        3.0	BEFORE
+        3.0	<laplace=1>	Tee
+<laplace=1>	        3.0	FREE>Ringtone
+        5.0	<laplace=1>	temple
+        7.0	<laplace=1>	WILL
+        4.0	<laplace=1>	Tel
+        5.0	<laplace=1>	Ten
+<laplace=1>	        3.0	BCM1896WC1N3XX
+        5.0	<laplace=1>	hands
+        5.0	<laplace=1>	egg
+        3.0	<laplace=1>	desperate
+       32.0	        7.0	year
+        5.0	<laplace=1>	saved
+        3.0	<laplace=1>	allowed
+        7.0	<laplace=1>	Nimya
+<laplace=1>	        5.0	Unsub
+        9.0	<laplace=1>	staying
+        3.0	<laplace=1>	Alaipayuthe
+       27.0	<laplace=1>	yeah
+       12.0	<laplace=1>	laptop
+        8.0	        4.0	via
+        3.0	<laplace=1>	Everything
+        4.0	        7.0	music
+        3.0	<laplace=1>	THINK
+<laplace=1>	       16.0	unsubscribe
+<laplace=1>	        5.0	08712405020
+<laplace=1>	        6.0	awaiting
+<laplace=1>	        3.0	08712405022
+        5.0	<laplace=1>	understanding
+<laplace=1>	        3.0	Street
+<laplace=1>	        3.0	08000407165
+        8.0	        6.0	YOUR
+       29.0	        3.0	because
+        6.0	<laplace=1>	near
+        3.0	<laplace=1>	silence
+<laplace=1>	        3.0	July
+        3.0	<laplace=1>	moving
+        3.0	<laplace=1>	dealing
+<laplace=1>	        7.0	inviting
+<laplace=1>	        4.0	upgrade
+<laplace=1>	        3.0	AG
+        3.0	<laplace=1>	forevr
+<laplace=1>	        3.0	M95
+        8.0	<laplace=1>	MUCH
+        4.0	<laplace=1>	google
+        7.0	<laplace=1>	AM
+<laplace=1>	        3.0	community
+        3.0	<laplace=1>	AN
+        5.0	<laplace=1>	version
+        9.0	<laplace=1>	planning
+        3.0	<laplace=1>	THAT’S
+        4.0	<laplace=1>	AS
+<laplace=1>	        3.0	B4
+       21.0	<laplace=1>	AT
+       31.0	       41.0	stop
+       11.0	<laplace=1>	orchard
+<laplace=1>	        6.0	selection
+       26.0	<laplace=1>	guess
+<laplace=1>	        4.0	flirt
+        3.0	<laplace=1>	science
+<laplace=1>	        3.0	Invaders
+        8.0	<laplace=1>	happening
+        6.0	<laplace=1>	returns
+       39.0	<laplace=1>	Where
+       17.0	<laplace=1>	Okie
+<laplace=1>	        7.0	Cost£1
+        4.0	<laplace=1>	boston
+        4.0	<laplace=1>	Meet
+        4.0	        3.0	BE
+        5.0	<laplace=1>	Ah
+       15.0	<laplace=1>	least
+        5.0	<laplace=1>	wouldnt
+        3.0	<laplace=1>	heartheart
+        3.0	        6.0	immediately
+        3.0	<laplace=1>	Al
+       23.0	        3.0	Am
+        4.0	<laplace=1>	An
+        3.0	<laplace=1>	Beer
+       69.0	       25.0	The
+       53.0	<laplace=1>	sleep
+       13.0	<laplace=1>	hungry
+        4.0	<laplace=1>	swimming
+<laplace=1>	        4.0	MESSAGE
+       28.0	       13.0	As
+<laplace=1>	        5.0	BT
+       18.0	<laplace=1>	At
+        5.0	<laplace=1>	Been
+       10.0	<laplace=1>	Thk
+        8.0	<laplace=1>	naughty
+<laplace=1>	        3.0	RSTM
+        6.0	<laplace=1>	DID
+<laplace=1>	        3.0	secretly
+        5.0	<laplace=1>	yogasana
+<laplace=1>	        7.0	CC
+<laplace=1>	        9.0	CD
+<laplace=1>	        3.0	Calls£1/minMobsmoreLKPOBOX177HP51FL
+<laplace=1>	        3.0	lucozade
+        6.0	<laplace=1>	website
+       14.0	<laplace=1>	Be
+        3.0	<laplace=1>	Thy
+        6.0	        3.0	learn
+        4.0	        4.0	unlimited
+        4.0	<laplace=1>	SITUATION
+        3.0	<laplace=1>	neck
+        3.0	<laplace=1>	Putting
+<laplace=1>	        3.0	DIS
+        5.0	<laplace=1>	weird
+        9.0	<laplace=1>	Bt
+        3.0	<laplace=1>	ericsson
+        4.0	<laplace=1>	2MORO
+       12.0	<laplace=1>	By
+        5.0	<laplace=1>	Meanwhile
+<laplace=1>	        3.0	D=
+        3.0	<laplace=1>	POSTCARD
+       27.0	<laplace=1>	sweet
+        5.0	<laplace=1>	DA
+        3.0	<laplace=1>	anniversary
+        3.0	<laplace=1>	Deeraj
+        3.0	<laplace=1>	Tis
+       20.0	<laplace=1>	Take
+<laplace=1>	        3.0	Age16
+<laplace=1>	        3.0	instructions
+<laplace=1>	        3.0	O2FWD
+        4.0	<laplace=1>	Ummmmmaah
+<laplace=1>	        3.0	FREE2DAY
+<laplace=1>	       11.0	voucher
+<laplace=1>	        6.0	official
+       11.0	<laplace=1>	DO
+        3.0	        6.0	Co
+<laplace=1>	       13.0	Cs
+<laplace=1>	        3.0	18+6*£1
+       22.0	<laplace=1>	whats
+       49.0	        3.0	leave
+<laplace=1>	        3.0	E=
+        4.0	<laplace=1>	2go
+        3.0	<laplace=1>	female
+<laplace=1>	        9.0	UKs
+        4.0	<laplace=1>	Da
+        3.0	<laplace=1>	doesn
+        4.0	<laplace=1>	Whens
+      140.0	        7.0	need
+        4.0	<laplace=1>	Doing
+        4.0	<laplace=1>	often
+       95.0	       14.0	Do
+        3.0	<laplace=1>	kindly
+        4.0	<laplace=1>	tests
+        3.0	<laplace=1>	beneficiary
+<laplace=1>	        3.0	F=
+        3.0	<laplace=1>	loose
+<laplace=1>	       19.0	http
+<laplace=1>	        4.0	087187262701
+<laplace=1>	        3.0	FA
+        3.0	<laplace=1>	hardly
+       19.0	<laplace=1>	bored
+        3.0	<laplace=1>	useful
+        5.0	<laplace=1>	YOUCLEAN
+<laplace=1>	        3.0	private
+        7.0	<laplace=1>	Eh
+        4.0	<laplace=1>	MANEESHA
+        5.0	<laplace=1>	technical
+        3.0	<laplace=1>	Sitting
+<laplace=1>	        5.0	150p/min
+<laplace=1>	        3.0	Hols
+        5.0	<laplace=1>	ride
+        5.0	<laplace=1>	Er
+       18.0	<laplace=1>	sleeping
+<laplace=1>	        9.0	LIVE
+        3.0	<laplace=1>	UNI
+        7.0	<laplace=1>	askin
+       26.0	        9.0	end
+<laplace=1>	       17.0	dating
+        5.0	<laplace=1>	Cheers
+<laplace=1>	        3.0	lines
+        4.0	<laplace=1>	ABOUT
+        7.0	<laplace=1>	mistake
+<laplace=1>	       17.0	Urgent
+        4.0	<laplace=1>	slippers
+        8.0	       12.0	GO
+<laplace=1>	        3.0	TnC
+        4.0	<laplace=1>	rich
+        5.0	<laplace=1>	Talk
+        3.0	<laplace=1>	rice
+<laplace=1>	        8.0	cash-in
+        5.0	<laplace=1>	happend
+       13.0	<laplace=1>	WITH
+       31.0	        7.0	special
+        3.0	<laplace=1>	forum
+<laplace=1>	        3.0	09066364311
+        3.0	<laplace=1>	environment
+        3.0	<laplace=1>	UP4
+        3.0	<laplace=1>	kicks
+        5.0	<laplace=1>	Tmr
+        6.0	<laplace=1>	Indian
+<laplace=1>	        5.0	START
+<laplace=1>	        3.0	freefone
+       23.0	<laplace=1>	family
+        3.0	<laplace=1>	jokes
+        8.0	<laplace=1>	happens
+        5.0	<laplace=1>	Gd
+        3.0	<laplace=1>	Ge
+        7.0	       14.0	gift
+       12.0	<laplace=1>	HI
+        3.0	<laplace=1>	slightly
+        3.0	<laplace=1>	career
+        4.0	<laplace=1>	wanting
+<laplace=1>	        5.0	60p/min
+       32.0	<laplace=1>	called
+<laplace=1>	        7.0	HL
+       54.0	<laplace=1>	told
+        6.0	<laplace=1>	shouldnt
+<laplace=1>	        3.0	08718727868
+<laplace=1>	        3.0	300%
+        3.0	<laplace=1>	Gn
+       11.0	        5.0	Go
+        3.0	<laplace=1>	tomeandsaidTHIS
+        6.0	<laplace=1>	turns
+        3.0	<laplace=1>	responding
+        6.0	       18.0	tried
+        3.0	<laplace=1>	nag
+       10.0	<laplace=1>	Ha
+        3.0	<laplace=1>	ID
+        4.0	<laplace=1>	nap
+       48.0	<laplace=1>	He
+       11.0	<laplace=1>	IF
+<laplace=1>	        3.0	Natalja
+        3.0	<laplace=1>	Yourself
+<laplace=1>	        4.0	nat
+       76.0	       15.0	Hi
+        9.0	        4.0	msgs
+        3.0	<laplace=1>	IL
+        3.0	<laplace=1>	partnership
+       21.0	<laplace=1>	IM
+       19.0	        3.0	IN
+        3.0	<laplace=1>	Hm
+        3.0	<laplace=1>	Ho
+        5.0	<laplace=1>	IQ
+<laplace=1>	        3.0	DOT
+       17.0	        8.0	IS
+<laplace=1>	        3.0	Wicklow
+       10.0	        3.0	IT
+        3.0	<laplace=1>	It€˜s
+       23.0	        5.0	wanna
+       90.0	       32.0	Just
+        5.0	<laplace=1>	Some
+<laplace=1>	        4.0	Top
+        6.0	<laplace=1>	Too
+        7.0	<laplace=1>	vikky
+        3.0	<laplace=1>	eveB-
+        3.0	<laplace=1>	JD
+<laplace=1>	        3.0	08718727870
+        8.0	        3.0	Id
+        5.0	<laplace=1>	MAN
+        5.0	<laplace=1>	vry
+      100.0	       15.0	If
+        6.0	<laplace=1>	Person
+<laplace=1>	        6.0	1000s
+<laplace=1>	        4.0	100percent-real
+      277.0	       13.0	Im
+<laplace=1>	       27.0	tone
+       33.0	        3.0	In
+        9.0	<laplace=1>	against
+        3.0	<laplace=1>	URE
+       50.0	<laplace=1>	Is
+        8.0	<laplace=1>	urself
+<laplace=1>	        3.0	300p
+       59.0	        3.0	It
+        8.0	<laplace=1>	cell
+        3.0	<laplace=1>	login
+       14.0	       12.0	holiday
+        4.0	<laplace=1>	URL
+        5.0	<laplace=1>	remind
+        3.0	<laplace=1>	URN
+<laplace=1>	        4.0	valid
+        3.0	<laplace=1>	mornin
+       22.0	        6.0	asked
+        3.0	<laplace=1>	rights
+        8.0	<laplace=1>	share
+        4.0	<laplace=1>	Nigeria
+<laplace=1>	        8.0	Sony
+        4.0	<laplace=1>	machan
+        6.0	<laplace=1>	pissed
+<laplace=1>	        3.0	Delivered
+       21.0	<laplace=1>	Cos
+        3.0	<laplace=1>	Living
+<laplace=1>	        4.0	Vouchers
+        3.0	<laplace=1>	KR
+       11.0	       21.0	2nd
+        3.0	<laplace=1>	dhina
+       20.0	<laplace=1>	tomo
+<laplace=1>	        9.0	3030
+       11.0	<laplace=1>	Coz
+<laplace=1>	       17.0	PRIVATE
+        3.0	<laplace=1>	slip
+        3.0	<laplace=1>	ese
+        4.0	<laplace=1>	urgently
+<laplace=1>	        3.0	10000
+<laplace=1>	        3.0	LE
+<laplace=1>	        4.0	AUCTION
+       46.0	        3.0	Hope
+        3.0	<laplace=1>	flies
+<laplace=1>	        3.0	TONES2U
+        6.0	<laplace=1>	True
+        4.0	<laplace=1>	screen
+<laplace=1>	        3.0	M6
+        3.0	<laplace=1>	ned
+        3.0	<laplace=1>	naked
+<laplace=1>	        3.0	DRACULA
+        4.0	<laplace=1>	pages
+        6.0	        8.0	etc
+<laplace=1>	        4.0	434
+        3.0	<laplace=1>	toot
+       28.0	<laplace=1>	ME
+        3.0	        4.0	Try
+        8.0	       15.0	net
+<laplace=1>	        7.0	86021
+       47.0	       42.0	new
+       19.0	<laplace=1>	took
+        3.0	<laplace=1>	catching
+<laplace=1>	        4.0	settings
+        4.0	<laplace=1>	MO
+<laplace=1>	        3.0	Player
+        3.0	<laplace=1>	MR
+       20.0	<laplace=1>	shall
+       22.0	<laplace=1>	MY
+        3.0	<laplace=1>	tooo
+        5.0	<laplace=1>	taunton
+<laplace=1>	        3.0	Secret
+       21.0	<laplace=1>	driving
+       23.0	<laplace=1>	Me
+<laplace=1>	        3.0	activate
+        3.0	<laplace=1>	weirdest
+        5.0	<laplace=1>	drivin
+        4.0	<laplace=1>	supervisor
+       11.0	<laplace=1>	Mm
+        4.0	<laplace=1>	shame
+       11.0	        3.0	NO
+        3.0	<laplace=1>	Delhi
+<laplace=1>	        6.0	O2
+        4.0	        3.0	Mr
+        6.0	<laplace=1>	raining
+        9.0	<laplace=1>	reaching
+       17.0	<laplace=1>	dreams
+       80.0	<laplace=1>	My
+       55.0	        3.0	around
+<laplace=1>	        7.0	XMAS
+<laplace=1>	        3.0	BT-national
+        5.0	<laplace=1>	running
+<laplace=1>	        3.0	3SS
+       12.0	<laplace=1>	eve
+<laplace=1>	       10.0	credits
+<laplace=1>	       10.0	Phone
+       12.0	<laplace=1>	OF
+<laplace=1>	        4.0	Ldn
+        7.0	<laplace=1>	OH
+       12.0	        3.0	OK
+       16.0	<laplace=1>	ni8
+        3.0	<laplace=1>	evn
+       13.0	        6.0	ON
+      142.0	       42.0	No
+        3.0	<laplace=1>	Proverb
+        5.0	<laplace=1>	OR
+        4.0	<laplace=1>	Nt
+<laplace=1>	       10.0	rates
+        3.0	<laplace=1>	transport
+        3.0	<laplace=1>	specific
+<laplace=1>	        5.0	4info
+        6.0	<laplace=1>	PA
+<laplace=1>	        3.0	caller
+        5.0	<laplace=1>	exams
+<laplace=1>	        8.0	DVD
+<laplace=1>	        6.0	PC
+        4.0	<laplace=1>	freezing
+        9.0	<laplace=1>	Of
+<laplace=1>	        3.0	PoBox45W2TG150P
+<laplace=1>	        4.0	Find
+       78.0	<laplace=1>	Oh
+       14.0	<laplace=1>	Let
+        3.0	<laplace=1>	Oi
+<laplace=1>	        4.0	Valid12hrs
+        5.0	<laplace=1>	Fine
+      151.0	<laplace=1>	Ok
+        3.0	<laplace=1>	forms
+       16.0	<laplace=1>	On
+<laplace=1>	       32.0	PO
+<laplace=1>	        6.0	£10
+       35.0	        4.0	Or
+        3.0	<laplace=1>	PS
+<laplace=1>	        3.0	09058094565
+       14.0	<laplace=1>	ring
+<laplace=1>	        5.0	0808
+<laplace=1>	       11.0	getzed
+<laplace=1>	        3.0	Oz
+<laplace=1>	        3.0	+std
+<laplace=1>	        9.0	ringtones
+        3.0	<laplace=1>	cheese
+<laplace=1>	        3.0	Bahamas
+       16.0	<laplace=1>	decided
+        6.0	<laplace=1>	shuhui
+        3.0	<laplace=1>	Pa
+<laplace=1>	        3.0	*****UP
+        3.0	<laplace=1>	Indians
+        3.0	<laplace=1>	exe
+<laplace=1>	        6.0	java
+        3.0	       18.0	pounds
+        3.0	<laplace=1>	THANX
+        3.0	<laplace=1>	WALES
+        3.0	<laplace=1>	nit
+<laplace=1>	        4.0	3UZ
+        6.0	<laplace=1>	Best
+        3.0	<laplace=1>	dance
+<laplace=1>	       14.0	0800
+<laplace=1>	        4.0	Cup
+<laplace=1>	        3.0	BCM4284
+<laplace=1>	        6.0	rentl
+        5.0	<laplace=1>	remain
+        3.0	<laplace=1>	Cuz
+        4.0	<laplace=1>	Two
+<laplace=1>	        4.0	MUST
+        3.0	<laplace=1>	hppnss
+<laplace=1>	        3.0	eye
+        3.0	        3.0	envelope
+<laplace=1>	        3.0	+123
+       26.0	<laplace=1>	wanted
+       11.0	<laplace=1>	slow
+        6.0	<laplace=1>	WANT
+<laplace=1>	       18.0	Expires
+<laplace=1>	        4.0	MIX
+<laplace=1>	        4.0	18yrs
+        4.0	<laplace=1>	flash
+        7.0	<laplace=1>	feels
+<laplace=1>	        3.0	£33
+        8.0	<laplace=1>	bucks
+       16.0	        3.0	maybe
+       33.0	        3.0	another
+        5.0	<laplace=1>	students
+<laplace=1>	        4.0	1956669
+        5.0	<laplace=1>	enemy
+        3.0	<laplace=1>	jaya
+        5.0	       75.0	Txt
+        3.0	<laplace=1>	amused
+<laplace=1>	        3.0	86888
+        6.0	<laplace=1>	yest
+        3.0	<laplace=1>	drunken
+<laplace=1>	        4.0	SPOOK
+       11.0	<laplace=1>	SO
+<laplace=1>	        9.0	SP
+<laplace=1>	        3.0	0825
+        4.0	<laplace=1>	appt
+        3.0	<laplace=1>	apps
+       24.0	<laplace=1>	Hows
+        6.0	<laplace=1>	Rs
+        3.0	<laplace=1>	Umma
+<laplace=1>	        4.0	or2stoptxt
+        3.0	<laplace=1>	gram
+        7.0	<laplace=1>	Howz
+        6.0	<laplace=1>	black
+        4.0	        3.0	tour
+<laplace=1>	        7.0	TC
+        5.0	<laplace=1>	boring
+        5.0	<laplace=1>	HUNNY
+        3.0	<laplace=1>	Sh
+        3.0	<laplace=1>	stayed
+        3.0	<laplace=1>	Si
+<laplace=1>	        4.0	#5000
+        5.0	<laplace=1>	2NITE
+        9.0	        6.0	TO
+      120.0	        3.0	So
+        4.0	<laplace=1>	understood
+        3.0	<laplace=1>	Other
+<laplace=1>	        4.0	U4
+        3.0	        3.0	St
+<laplace=1>	        5.0	TV
+        3.0	<laplace=1>	LATE
+<laplace=1>	        3.0	textpod
+        6.0	<laplace=1>	jazz
+        3.0	<laplace=1>	solved
+        4.0	<laplace=1>	remains
+        5.0	<laplace=1>	research
+<laplace=1>	       16.0	operator
+       13.0	<laplace=1>	neva
+        5.0	<laplace=1>	white
+        3.0	<laplace=1>	furniture
+<laplace=1>	       13.0	UK
+<laplace=1>	        3.0	of£2000
+<laplace=1>	        4.0	08452810073
+<laplace=1>	        4.0	88600
+        3.0	<laplace=1>	huge
+        7.0	       74.0	To
+       21.0	<laplace=1>	UP
+<laplace=1>	        3.0	1Winaweek
+       10.0	       22.0	UR
+        5.0	<laplace=1>	Truth
+<laplace=1>	        3.0	0844
+<laplace=1>	        3.0	Ts
+<laplace=1>	        4.0	0845
+        3.0	<laplace=1>	jays
+<laplace=1>	        6.0	Fancy
+<laplace=1>	        3.0	09058094597
+        5.0	<laplace=1>	imagine
+<laplace=1>	        3.0	Years
+       22.0	        4.0	town
+<laplace=1>	        3.0	09058094599
+       33.0	<laplace=1>	might
+<laplace=1>	        3.0	bloomberg
+        3.0	<laplace=1>	Sorryin
+<laplace=1>	        3.0	FINAL
+       23.0	        3.0	girl
+        3.0	<laplace=1>	MMM
+        3.0	<laplace=1>	sharing
+        5.0	       43.0	Free
+       16.0	<laplace=1>	whatever
+<laplace=1>	        5.0	2optout
+<laplace=1>	        3.0	VE
+<laplace=1>	        3.0	7876150ppm
+        5.0	<laplace=1>	wonders
+        4.0	<laplace=1>	LAST
+<laplace=1>	        9.0	Camcorder
+        3.0	<laplace=1>	Up
+        3.0	<laplace=1>	Jerry
+       18.0	       15.0	Ur
+<laplace=1>	        3.0	Us
+<laplace=1>	        3.0	VU
+       45.0	       14.0	next
+        3.0	<laplace=1>	color
+        3.0	<laplace=1>	occupy
+       21.0	<laplace=1>	noe
+        3.0	<laplace=1>	flaky
+        3.0	<laplace=1>	classes
+        4.0	<laplace=1>	nearly
+<laplace=1>	        5.0	Tenants
+<laplace=1>	        3.0	2yr
+        5.0	<laplace=1>	WE
+      335.0	       21.0	not
+        3.0	<laplace=1>	nos
+<laplace=1>	        3.0	08700621170150p
+        3.0	        4.0	WK
+      258.0	      132.0	now
+        6.0	<laplace=1>	Tuesday
+        3.0	<laplace=1>	lived
+       18.0	<laplace=1>	rite
+<laplace=1>	        3.0	150PPM
+<laplace=1>	        3.0	Box326
+       10.0	        8.0	news
+        3.0	<laplace=1>	thoughts
+<laplace=1>	       15.0	delivery
+<laplace=1>	        3.0	CR01327BT
+        5.0	<laplace=1>	green
+       53.0	<laplace=1>	wan
+<laplace=1>	        4.0	wap
+      166.0	        8.0	was
+        4.0	<laplace=1>	greet
+       16.0	<laplace=1>	TIME
+        3.0	<laplace=1>	Wa
+       67.0	<laplace=1>	wat
+       10.0	<laplace=1>	darlin
+        3.0	<laplace=1>	Trust
+       83.0	       38.0	We
+       95.0	<laplace=1>	way
+<laplace=1>	        6.0	MP3
+      137.0	       14.0	what
+        3.0	<laplace=1>	gist
+<laplace=1>	        6.0	150p/tone
+        3.0	<laplace=1>	Wk
+        4.0	<laplace=1>	Wn
+<laplace=1>	        9.0	0870
+      107.0	        4.0	Sorry
+        3.0	<laplace=1>	senthil
+        3.0	<laplace=1>	window
+       21.0	       12.0	play
+        3.0	<laplace=1>	XX
+        3.0	<laplace=1>	Behind
+        3.0	<laplace=1>	fab
+        4.0	<laplace=1>	quickly
+        3.0	<laplace=1>	YA
+<laplace=1>	        5.0	Break
+       10.0	<laplace=1>	decide
+      210.0	       10.0	when
+        4.0	        3.0	issues
+        6.0	<laplace=1>	roommates
+<laplace=1>	        8.0	Tenerife
+        3.0	<laplace=1>	fan
+        4.0	<laplace=1>	YM
+       15.0	<laplace=1>	far
+        4.0	<laplace=1>	stuck
+        3.0	<laplace=1>	2gthr
+        7.0	<laplace=1>	fat
+        3.0	<laplace=1>	frying
+        3.0	<laplace=1>	HOUSE
+        9.0	<laplace=1>	catch
+       33.0	<laplace=1>	plan
+        3.0	        5.0	nokia
+       81.0	        7.0	give
+        4.0	<laplace=1>	Xy
+        4.0	<laplace=1>	Uncle
+        3.0	<laplace=1>	rael
+        5.0	<laplace=1>	lives
+        4.0	<laplace=1>	depends
+        3.0	<laplace=1>	Log
+<laplace=1>	        5.0	com1win150ppmx3age16
+        4.0	<laplace=1>	double
+        3.0	<laplace=1>	Hopefully
+       23.0	<laplace=1>	Ya
+       58.0	<laplace=1>	Lol
+<laplace=1>	        3.0	0871750
+<laplace=1>	        3.0	8p/min
+        3.0	<laplace=1>	limiting
+        3.0	<laplace=1>	CaRE
+<laplace=1>	        3.0	explicit
+       22.0	<laplace=1>	Yo
+       75.0	<laplace=1>	didnt
+<laplace=1>	        3.0	prizes
+        3.0	        3.0	ladies
+        5.0	<laplace=1>	PLEASE
+        4.0	<laplace=1>	fathima
+        3.0	<laplace=1>	raed
+        8.0	<laplace=1>	completely
+        8.0	<laplace=1>	Always
+        3.0	<laplace=1>	Theyre
+        3.0	<laplace=1>	chocolate
+       10.0	<laplace=1>	study
+<laplace=1>	       15.0	CHAT
+        3.0	        9.0	direct
+        5.0	<laplace=1>	fever
+<laplace=1>	        3.0	08712402050
+<laplace=1>	        4.0	AWAITING
+        6.0	<laplace=1>	couldnt
+        3.0	        3.0	receiving
+<laplace=1>	        7.0	POBox334
+<laplace=1>	        3.0	web
+        3.0	<laplace=1>	wee
+        6.0	<laplace=1>	wed
+<laplace=1>	        3.0	b4280703
+        8.0	<laplace=1>	Nice
+<laplace=1>	        3.0	2End
+<laplace=1>	        3.0	02/09/03
+<laplace=1>	        4.0	MSG
+       11.0	<laplace=1>	wen
+        3.0	<laplace=1>	wer
+        9.0	<laplace=1>	Dad
+        4.0	<laplace=1>	wet
+        3.0	<laplace=1>	electricity
+       77.0	        7.0	great
+        4.0	<laplace=1>	Dai
+       17.0	<laplace=1>	happened
+       14.0	<laplace=1>	wrong
+        4.0	<laplace=1>	sum1
+        5.0	<laplace=1>	shirt
+       12.0	        5.0	Speak
+        5.0	<laplace=1>	songs
+        3.0	<laplace=1>	Dat
+<laplace=1>	        6.0	urawinner
+        4.0	        4.0	pleased
+        3.0	<laplace=1>	heads
+        7.0	        6.0	Day
+       49.0	<laplace=1>	stuff
+        3.0	<laplace=1>	booking
+        4.0	<laplace=1>	feb
+<laplace=1>	        3.0	housewives
+        3.0	<laplace=1>	Frnd
+        6.0	<laplace=1>	num
+       14.0	<laplace=1>	used
+        4.0	<laplace=1>	constantly
+        3.0	<laplace=1>	nus
+<laplace=1>	        3.0	Jamster
+<laplace=1>	        3.0	82468
+        4.0	<laplace=1>	looks
+        3.0	<laplace=1>	Booked
+       45.0	<laplace=1>	few
+        3.0	<laplace=1>	exmpel
+        4.0	<laplace=1>	Grahmbell
+        5.0	<laplace=1>	otherwise
+<laplace=1>	        6.0	quoting
+        8.0	<laplace=1>	rain
+        3.0	<laplace=1>	MUM
+        3.0	<laplace=1>	nvm
+<laplace=1>	        3.0	300603
+        3.0	<laplace=1>	PasswordsATM/SMS
+<laplace=1>	        5.0	Wkly
+<laplace=1>	        3.0	89080
+        3.0	<laplace=1>	tortilla
+        4.0	<laplace=1>	market
+        3.0	<laplace=1>	effects
+       16.0	<laplace=1>	outside
+       51.0	        4.0	keep
+        3.0	<laplace=1>	effect
+<laplace=1>	        3.0	cruise
+        3.0	<laplace=1>	topic
+        3.0	<laplace=1>	screamed
+        3.0	<laplace=1>	ipad
+<laplace=1>	       11.0	150p/msg
+<laplace=1>	        3.0	150p/Mtmsgrcvd18
+        3.0	<laplace=1>	whn
+        4.0	<laplace=1>	sugar
+<laplace=1>	       17.0	Ltd
+       45.0	       31.0	who
+        4.0	<laplace=1>	option
+        3.0	<laplace=1>	whr
+        3.0	<laplace=1>	weigh
+<laplace=1>	        5.0	FANTASTIC
+       13.0	        6.0	game
+        4.0	<laplace=1>	Message
+<laplace=1>	        3.0	Polo
+        4.0	<laplace=1>	drinks
+       48.0	        6.0	why
+<laplace=1>	        4.0	Poly
+        6.0	<laplace=1>	died
+        3.0	<laplace=1>	Touch
+        3.0	<laplace=1>	necessarily
+        3.0	<laplace=1>	wiskey
+        6.0	<laplace=1>	gals
+       15.0	        4.0	alone
+       15.0	        6.0	wid
+        4.0	<laplace=1>	along
+        3.0	<laplace=1>	rocks
+       26.0	<laplace=1>	wif
+<laplace=1>	        5.0	81151
+       18.0	<laplace=1>	wil
+        4.0	<laplace=1>	diet
+        9.0	       29.0	win
+       14.0	<laplace=1>	wit
+        5.0	        3.0	wiv
+<laplace=1>	        3.0	Calls£1/minmoremobsEMSPOBox45PO139WA
+<laplace=1>	        9.0	Del
+        8.0	<laplace=1>	nxt
+        7.0	       12.0	From
+        9.0	<laplace=1>	Den
+<laplace=1>	        6.0	Luv
+        7.0	<laplace=1>	Waiting
+<laplace=1>	        8.0	1327
+        3.0	<laplace=1>	donno
+       19.0	        3.0	Today
+        3.0	<laplace=1>	stayin
+        3.0	<laplace=1>	various
+       13.0	<laplace=1>	Ugh
+<laplace=1>	        3.0	txt>
+        5.0	<laplace=1>	nyc
+        4.0	<laplace=1>	Dey
+        6.0	<laplace=1>	didt
+        3.0	       26.0	landline
+       10.0	        8.0	visit
+        4.0	<laplace=1>	headache
+<laplace=1>	        4.0	VIP
+<laplace=1>	        7.0	user
+        3.0	        6.0	ASAP
+       22.0	<laplace=1>	bring
+       13.0	<laplace=1>	nyt
+<laplace=1>	        4.0	80878
+<laplace=1>	        3.0	EASTENDERS
+        3.0	<laplace=1>	Bright
+        5.0	<laplace=1>	losing
+        9.0	        5.0	b4
+        3.0	<laplace=1>	wkg
+        6.0	<laplace=1>	fix
+        3.0	<laplace=1>	rang
+<laplace=1>	        4.0	saucy
+<laplace=1>	       18.0	12hrs
+<laplace=1>	        5.0	ac
+       61.0	<laplace=1>	sure
+        5.0	<laplace=1>	ad
+        3.0	<laplace=1>	gang
+       32.0	<laplace=1>	ah
+        6.0	<laplace=1>	sura
+<laplace=1>	       17.0	Bonus
+        4.0	<laplace=1>	diff
+        6.0	<laplace=1>	al
+      178.0	       10.0	am
+       85.0	       21.0	an
+        3.0	<laplace=1>	panic
+        8.0	<laplace=1>	ar
+      100.0	       21.0	as
+      318.0	       26.0	at
+        5.0	<laplace=1>	BEEN
+<laplace=1>	       11.0	txts
+        3.0	<laplace=1>	turning
+<laplace=1>	        3.0	tones2you
+        3.0	<laplace=1>	peace
+       20.0	       10.0	looking
+<laplace=1>	        3.0	09061743806
+<laplace=1>	        5.0	08002986906
+<laplace=1>	        3.0	TsandCs
+       16.0	<laplace=1>	brother
+       17.0	<laplace=1>	hurt
+        3.0	<laplace=1>	ba
+        3.0	<laplace=1>	vijay
+        9.0	<laplace=1>	bb
+        5.0	<laplace=1>	whos
+        3.0	<laplace=1>	tomorro
+      292.0	       49.0	be
+        4.0	<laplace=1>	prove
+<laplace=1>	        5.0	£3/wk
+        6.0	<laplace=1>	bf
+        4.0	<laplace=1>	Theory
+        3.0	<laplace=1>	pickle
+<laplace=1>	        4.0	T-Mobile
+       15.0	<laplace=1>	bt
+       16.0	<laplace=1>	search
+        5.0	<laplace=1>	fool
+      120.0	       31.0	by
+        3.0	<laplace=1>	5+-
+<laplace=1>	        3.0	wml
+        3.0	<laplace=1>	sitll
+        3.0	<laplace=1>	whom
+        3.0	<laplace=1>	DON’T
+<laplace=1>	        4.0	TsCs087147403231Winawk
+        3.0	<laplace=1>	tming
+       48.0	<laplace=1>	Did
+        3.0	<laplace=1>	foot
+        4.0	<laplace=1>	Die
+        8.0	       11.0	charge
+        4.0	<laplace=1>	MEET
+        4.0	<laplace=1>	outstanding
+        7.0	<laplace=1>	keeping
+        4.0	<laplace=1>	cn
+<laplace=1>	       48.0	co
+        5.0	<laplace=1>	gaps
+        3.0	<laplace=1>	breathe
+       21.0	<laplace=1>	food
+        4.0	        5.0	fone
+        3.0	<laplace=1>	actor
+        3.0	<laplace=1>	fly
+        5.0	<laplace=1>	deleted
+        4.0	<laplace=1>	Thursday
+<laplace=1>	        6.0	partner
+        6.0	<laplace=1>	Better
+        3.0	<laplace=1>	mcat
+        7.0	<laplace=1>	wnt
+      128.0	<laplace=1>	da
+        5.0	<laplace=1>	interview
+        5.0	<laplace=1>	essential
+       10.0	<laplace=1>	carlos
+       21.0	<laplace=1>	de
+        4.0	<laplace=1>	invnted
+        4.0	<laplace=1>	di
+        3.0	<laplace=1>	language
+      238.0	       12.0	do
+       10.0	        5.0	girls
+        3.0	<laplace=1>	dt
+       33.0	        4.0	Hello
+        3.0	<laplace=1>	girld
+        4.0	<laplace=1>	Friday
+<laplace=1>	       50.0	won
+        3.0	<laplace=1>	warning
+        3.0	<laplace=1>	scary
+       14.0	<laplace=1>	wot
+<laplace=1>	        6.0	ENGLAND
+        4.0	<laplace=1>	wow
+       12.0	<laplace=1>	needs
+        5.0	<laplace=1>	TAKE
+       39.0	        9.0	which
+        3.0	<laplace=1>	GOODFRIEND
+<laplace=1>	        4.0	WINNER
+<laplace=1>	       12.0	eg
+        7.0	<laplace=1>	eh
+        9.0	<laplace=1>	em
+        3.0	<laplace=1>	nitros
+       32.0	<laplace=1>	never
+        3.0	<laplace=1>	celebration
+        3.0	<laplace=1>	Isnt
+       11.0	<laplace=1>	ex
+        3.0	<laplace=1>	piece
+       16.0	<laplace=1>	oredi
+        4.0	<laplace=1>	brothas
+<laplace=1>	        4.0	END
+        3.0	<laplace=1>	carry
+        7.0	<laplace=1>	fb
+        3.0	<laplace=1>	salon
+<laplace=1>	        5.0	ENG
+        4.0	<laplace=1>	transfered
+<laplace=1>	        5.0	mths
+<laplace=1>	        3.0	69669
+      430.0	      150.0	for
+        3.0	<laplace=1>	fo
+        3.0	<laplace=1>	wrnog
+        3.0	<laplace=1>	mistakes
+<laplace=1>	        3.0	3100
+       13.0	<laplace=1>	fr
+        6.0	<laplace=1>	india
+       23.0	<laplace=1>	watching
+<laplace=1>	        3.0	REWARD
+        8.0	<laplace=1>	JUST
+<laplace=1>	       11.0	content
+        3.0	<laplace=1>	confirmd
+        5.0	<laplace=1>	random
+<laplace=1>	        3.0	W1J
+       12.0	<laplace=1>	Dude
+        3.0	       20.0	rate
+<laplace=1>	        4.0	alert
+        3.0	<laplace=1>	Ques-
+        8.0	<laplace=1>	trouble
+       42.0	<laplace=1>	class
+       13.0	<laplace=1>	gd
+        6.0	<laplace=1>	ge
+        3.0	<laplace=1>	gf
+        3.0	<laplace=1>	gn
+<laplace=1>	        3.0	07/11/04
+      218.0	       17.0	go
+        5.0	<laplace=1>	texting
+        5.0	        4.0	kept
+        5.0	<laplace=1>	gt
+        3.0	<laplace=1>	gv
+<laplace=1>	        4.0	81303
+        3.0	<laplace=1>	form
+        3.0	<laplace=1>	clark
+        4.0	<laplace=1>	management
+<laplace=1>	       24.0	500
+        3.0	<laplace=1>	ViVa
+<laplace=1>	        3.0	3lp
+        6.0	<laplace=1>	ha
+<laplace=1>	        3.0	Oranges
+      111.0	<laplace=1>	he
+        5.0	<laplace=1>	HOME
+       61.0	        3.0	very
+       20.0	<laplace=1>	hi
+        5.0	<laplace=1>	practice
+        7.0	<laplace=1>	ho
+        6.0	<laplace=1>	hr
+        3.0	<laplace=1>	Dnt
+        4.0	<laplace=1>	speechless
+<laplace=1>	        4.0	ipod
+        6.0	<laplace=1>	hv
+        7.0	<laplace=1>	hw
+       24.0	<laplace=1>	else
+        3.0	<laplace=1>	four
+<laplace=1>	       10.0	mobiles
+        3.0	<laplace=1>	Doc
+        3.0	<laplace=1>	easily
+        3.0	<laplace=1>	ic
+       22.0	<laplace=1>	id
+       12.0	<laplace=1>	fri
+      216.0	       18.0	if
+        8.0	<laplace=1>	HOPE
+        5.0	<laplace=1>	SOON
+        3.0	<laplace=1>	guessing
+       14.0	<laplace=1>	frm
+        3.0	<laplace=1>	likely
+        7.0	<laplace=1>	Don
+        3.0	<laplace=1>	goodnite
+        8.0	<laplace=1>	il
+<laplace=1>	        4.0	Messages
+        6.0	<laplace=1>	dint
+      130.0	        3.0	im
+        4.0	<laplace=1>	issue
+      686.0	       61.0	in
+        3.0	<laplace=1>	maturity
+        3.0	<laplace=1>	pimples
+        3.0	<laplace=1>	literally
+        3.0	<laplace=1>	lower
+        3.0	<laplace=1>	wtf
+      550.0	      135.0	is
+      437.0	       25.0	it
+        8.0	<laplace=1>	somebody
+<laplace=1>	        4.0	Matrix3
+<laplace=1>	        3.0	txtStop
+        4.0	<laplace=1>	iz
+        3.0	<laplace=1>	acted
+        3.0	<laplace=1>	odi
+<laplace=1>	        6.0	50p
+       11.0	<laplace=1>	gave
+<laplace=1>	        3.0	//careers
+       10.0	<laplace=1>	Man
+        3.0	<laplace=1>	Map
+        3.0	<laplace=1>	sarasota
+        6.0	<laplace=1>	become
+<laplace=1>	        3.0	07742676969
+       18.0	        3.0	May
+        3.0	<laplace=1>	wud
+        5.0	<laplace=1>	I€˜m
+<laplace=1>	        4.0	ENTER
+<laplace=1>	        4.0	subscription
+        7.0	<laplace=1>	wun
+        6.0	<laplace=1>	530
+        9.0	<laplace=1>	library
+        3.0	<laplace=1>	hmmm
+        7.0	<laplace=1>	kb
+<laplace=1>	        7.0	09050090044
+       10.0	        3.0	sending
+        3.0	<laplace=1>	ke
+        3.0	<laplace=1>	ability
+        3.0	       20.0	camera
+        3.0	<laplace=1>	kg
+        4.0	<laplace=1>	seemed
+        3.0	        4.0	Use
+       14.0	<laplace=1>	knew
+        5.0	       35.0	draw
+        4.0	<laplace=1>	avatar
+<laplace=1>	        3.0	m8
+       52.0	        5.0	off
+        3.0	<laplace=1>	clearing
+        4.0	<laplace=1>	generally
+        3.0	<laplace=1>	kz
+        5.0	<laplace=1>	places
+<laplace=1>	        5.0	542
+        8.0	<laplace=1>	la
+<laplace=1>	        3.0	ShrAcomOrSglSuplt
+        8.0	<laplace=1>	complete
+        4.0	<laplace=1>	ful
+       21.0	       10.0	fun
+        3.0	<laplace=1>	Cancer
+       32.0	<laplace=1>	ll
+        7.0	       13.0	NEW
+        9.0	<laplace=1>	Probably
+        3.0	<laplace=1>	lo
+<laplace=1>	        3.0	4T&
+        3.0	<laplace=1>	lt
+        3.0	<laplace=1>	lv
+       23.0	        4.0	while
+        6.0	<laplace=1>	photos
+       16.0	<laplace=1>	second
+        6.0	<laplace=1>	Read
+      388.0	       24.0	that
+        3.0	<laplace=1>	i’d
+        4.0	<laplace=1>	faster
+        4.0	<laplace=1>	ma
+        5.0	        5.0	picked
+        3.0	<laplace=1>	mb
+        3.0	       85.0	www
+       36.0	<laplace=1>	than
+      615.0	       27.0	me
+        3.0	<laplace=1>	i’m
+<laplace=1>	       77.0	claim
+<laplace=1>	        3.0	FIND
+       17.0	<laplace=1>	boytoy
+        3.0	<laplace=1>	Kerala
+        7.0	<laplace=1>	mo
+        8.0	        5.0	months
+<laplace=1>	        3.0	o2
+        6.0	<laplace=1>	3rd
+        7.0	<laplace=1>	mr
+        4.0	<laplace=1>	mt
+       15.0	<laplace=1>	mu
+        5.0	<laplace=1>	Nite
+        3.0	<laplace=1>	TRUE
+       20.0	        3.0	feeling
+<laplace=1>	        4.0	City
+      518.0	       11.0	my
+        8.0	        6.0	plus
+        3.0	<laplace=1>	flowing
+        3.0	<laplace=1>	kegger
+<laplace=1>	       21.0	entry
+        9.0	<laplace=1>	na
+        3.0	<laplace=1>	nb
+        8.0	<laplace=1>	dream
+        4.0	        3.0	EVE
+        3.0	<laplace=1>	nd
+        4.0	<laplace=1>	ne
+        3.0	<laplace=1>	Men
+       13.0	<laplace=1>	kiss*
+<laplace=1>	        3.0	retrieve
+        6.0	<laplace=1>	rays
+        4.0	<laplace=1>	Met
+        4.0	<laplace=1>	tablets
+<laplace=1>	        3.0	09050002311
+<laplace=1>	        3.0	Moby
+        3.0	<laplace=1>	$50
+      135.0	       19.0	no
+        6.0	<laplace=1>	bcoz
+<laplace=1>	       13.0	code
+       10.0	<laplace=1>	Shes
+        4.0	<laplace=1>	passionate
+<laplace=1>	        7.0	Uve
+       13.0	<laplace=1>	nt
+       14.0	<laplace=1>	dunno
+        4.0	<laplace=1>	keys
+<laplace=1>	        3.0	Britney
+        5.0	<laplace=1>	nw
+        3.0	<laplace=1>	drinkin
+       18.0	<laplace=1>	head
+<laplace=1>	        4.0	eerie
+        3.0	<laplace=1>	kidding
+        3.0	<laplace=1>	oil
+      439.0	       92.0	of
+<laplace=1>	        4.0	GOING
+        4.0	<laplace=1>	FRAN
+       30.0	<laplace=1>	oh
+      122.0	        4.0	ok
+        9.0	<laplace=1>	Dun
+       26.0	        4.0	hear
+        5.0	<laplace=1>	fight
+      338.0	      117.0	on
+        3.0	<laplace=1>	Reach
+       14.0	<laplace=1>	pretty
+      185.0	      176.0	or
+<laplace=1>	        5.0	Auction
+<laplace=1>	       19.0	ringtone
+        3.0	<laplace=1>	oz
+<laplace=1>	        4.0	Homeowners
+        3.0	<laplace=1>	cousin
+        3.0	<laplace=1>	intelligent
+<laplace=1>	        5.0	CW25WX
+       24.0	<laplace=1>	pa
+        3.0	<laplace=1>	pc
+        3.0	<laplace=1>	painting
+        4.0	<laplace=1>	Ranjith
+        5.0	<laplace=1>	fyi
+        3.0	<laplace=1>	oreo
+        5.0	<laplace=1>	easier
+<laplace=1>	        3.0	luxury
+       11.0	        3.0	pm
+        8.0	<laplace=1>	sitting
+        3.0	<laplace=1>	po
+        3.0	<laplace=1>	HOWS
+        3.0	<laplace=1>	Reverse
+<laplace=1>	        3.0	Helpline
+        5.0	        4.0	registered
+        3.0	<laplace=1>	AFTER
+        4.0	<laplace=1>	apologise
+<laplace=1>	        4.0	09061790121
+        6.0	<laplace=1>	Remember
+        3.0	<laplace=1>	COLLEGE
+        3.0	<laplace=1>	clever
+        3.0	<laplace=1>	toshiba
+        3.0	<laplace=1>	Tension
+<laplace=1>	        3.0	2find
+        5.0	<laplace=1>	January
+        3.0	        3.0	brand
+        3.0	<laplace=1>	promises
+<laplace=1>	        4.0	recent
+       71.0	       13.0	they
+        5.0	<laplace=1>	BLOOD
+        3.0	<laplace=1>	Alex
+       16.0	        3.0	old
+       11.0	<laplace=1>	gotta
+        5.0	<laplace=1>	settled
+       74.0	        3.0	them
+      169.0	        9.0	then
+        3.0	<laplace=1>	Hallaq
+        3.0	<laplace=1>	seat
+<laplace=1>	        4.0	£1450
+        5.0	<laplace=1>	rd
+       10.0	       10.0	re
+        3.0	<laplace=1>	splleing
+        3.0	<laplace=1>	twelve
+<laplace=1>	        3.0	07781482378
+<laplace=1>	        5.0	London
+<laplace=1>	        3.0	Close
+        6.0	        4.0	starting
+        4.0	<laplace=1>	Laughed
+       12.0	<laplace=1>	checking
+        6.0	<laplace=1>	rs
+        6.0	<laplace=1>	belly
+<laplace=1>	       10.0	Bluetooth
+        6.0	<laplace=1>	ru
+        4.0	<laplace=1>	Clos1
+        7.0	<laplace=1>	yoga
+        6.0	<laplace=1>	cabin
+<laplace=1>	       94.0	FREE
+       12.0	<laplace=1>	seen
+        3.0	<laplace=1>	seem
+        5.0	<laplace=1>	Simple
+<laplace=1>	        4.0	ABTA
+<laplace=1>	        3.0	FREEFONE
+        3.0	<laplace=1>	se
+       10.0	<laplace=1>	disturb
+        7.0	<laplace=1>	omw
+       38.0	<laplace=1>	liao
+        4.0	<laplace=1>	adore
+        5.0	<laplace=1>	lecture
+        4.0	<laplace=1>	sn
+      285.0	       25.0	so
+       17.0	<laplace=1>	email
+       22.0	      137.0	Call
+        6.0	<laplace=1>	st
+        3.0	<laplace=1>	necessary
+        5.0	<laplace=1>	decision
+      139.0	        6.0	one
+        4.0	<laplace=1>	garage
+<laplace=1>	        6.0	COLLECT
+       18.0	<laplace=1>	started
+        5.0	<laplace=1>	oni
+        3.0	<laplace=1>	craziest
+<laplace=1>	        3.0	iscoming
+        3.0	<laplace=1>	ta
+        3.0	<laplace=1>	closes
+        4.0	<laplace=1>	tb
+        4.0	<laplace=1>	flower
+        5.0	<laplace=1>	closer
+        5.0	<laplace=1>	tc
+        5.0	<laplace=1>	single
+        3.0	<laplace=1>	pull
+       11.0	<laplace=1>	th
+        3.0	<laplace=1>	deepak
+<laplace=1>	        3.0	orig
+<laplace=1>	        3.0	secs
+        9.0	<laplace=1>	buying
+        5.0	<laplace=1>	tm
+        3.0	<laplace=1>	closed
+     1200.0	      433.0	to
+       16.0	<laplace=1>	smth
+<laplace=1>	        3.0	Simply
+       11.0	<laplace=1>	Actually
+<laplace=1>	        5.0	02/06/03
+<laplace=1>	        3.0	alfie
+        4.0	<laplace=1>	tt
+        4.0	        5.0	country
+       25.0	        5.0	tv
+        3.0	<laplace=1>	commercial
+        4.0	<laplace=1>	Shijas
+        6.0	<laplace=1>	willing
+        4.0	<laplace=1>	blessings
+        3.0	<laplace=1>	reasonable
+<laplace=1>	        3.0	08002986030
+        3.0	<laplace=1>	aproach
+        3.0	<laplace=1>	Name
+        3.0	<laplace=1>	sooooo
+<laplace=1>	        4.0	amazing
+        5.0	<laplace=1>	smokes
+        7.0	<laplace=1>	yahoo
+<laplace=1>	       41.0	uk
+        3.0	<laplace=1>	lick
+       19.0	        9.0	details
+      253.0	       20.0	up
+        3.0	<laplace=1>	drms
+<laplace=1>	        3.0	BAHAMAS
+      171.0	       89.0	ur
+       53.0	        7.0	us
+        4.0	<laplace=1>	Another
+        3.0	<laplace=1>	treated
+       14.0	<laplace=1>	smiling
+<laplace=1>	        4.0	18+only
+<laplace=1>	        4.0	T&Cs/stop
+       11.0	<laplace=1>	usual
+        4.0	<laplace=1>	Moji
+        3.0	<laplace=1>	xam
+      181.0	       47.0	this
+<laplace=1>	        4.0	220-CM2
+<laplace=1>	        3.0	NOK
+        3.0	<laplace=1>	Mmm
+        4.0	<laplace=1>	CHEERS
+        3.0	<laplace=1>	suppose
+        3.0	<laplace=1>	Lucky
+        6.0	<laplace=1>	Kids
+        3.0	<laplace=1>	modules
+       33.0	       37.0	Please
+        3.0	<laplace=1>	ve
+       11.0	<laplace=1>	NOT
+<laplace=1>	       11.0	opt
+<laplace=1>	        4.0	Row/W1J6HL
+        4.0	<laplace=1>	Gudnite
+        3.0	<laplace=1>	buses
+<laplace=1>	       17.0	Offer
+        9.0	<laplace=1>	vl
+        8.0	       45.0	NOW
+        5.0	<laplace=1>	Kidz
+      220.0	       22.0	know
+       11.0	        3.0	support
+        6.0	<laplace=1>	changed
+       16.0	<laplace=1>	drop
+        3.0	<laplace=1>	Guide
+<laplace=1>	        6.0	WAP
+       11.0	<laplace=1>	WAS
+        3.0	<laplace=1>	changes
+        3.0	<laplace=1>	knackered
+        7.0	<laplace=1>	cold
+<laplace=1>	        4.0	DeliveredTomorrow
+      187.0	       13.0	we
+       57.0	        3.0	life
+        3.0	<laplace=1>	WAY
+        3.0	<laplace=1>	Lemme
+        6.0	<laplace=1>	gal
+        5.0	<laplace=1>	ALRITE
+        5.0	       15.0	wk
+        5.0	<laplace=1>	honey
+        6.0	<laplace=1>	gap
+       13.0	<laplace=1>	gas
+       13.0	        6.0	Cant
+        4.0	<laplace=1>	ws
+        4.0	<laplace=1>	wt
+        8.0	<laplace=1>	House-Maid
+<laplace=1>	        5.0	gay
+        3.0	<laplace=1>	URSELF
+<laplace=1>	        6.0	Mob
+        3.0	<laplace=1>	previous
+<laplace=1>	       17.0	8007
+        6.0	<laplace=1>	teach
+       10.0	<laplace=1>	reading
+        5.0	<laplace=1>	argue
+        3.0	<laplace=1>	damn
+<laplace=1>	        7.0	50/pm
+<laplace=1>	        3.0	ac/u/nat27081980
+        3.0	<laplace=1>	superior
+<laplace=1>	        8.0	Croydon
+        3.0	<laplace=1>	FAR
+<laplace=1>	        4.0	linerental
+<laplace=1>	        3.0	83049
+        3.0	<laplace=1>	location
+        4.0	<laplace=1>	lido
+<laplace=1>	        4.0	TITLE
+        3.0	<laplace=1>	anthony
+<laplace=1>	       33.0	150ppm
+       11.0	        4.0	xx
+        6.0	<laplace=1>	xy
+        4.0	<laplace=1>	software
+        8.0	<laplace=1>	thnk
+       26.0	<laplace=1>	ya
+        3.0	        4.0	competition
+       24.0	<laplace=1>	oso
+        3.0	<laplace=1>	none
+       17.0	<laplace=1>	type
+       11.0	<laplace=1>	hell
+        3.0	<laplace=1>	beyond
+        5.0	<laplace=1>	april
+<laplace=1>	        3.0	09065174042
+       34.0	<laplace=1>	problem
+        4.0	<laplace=1>	AfterNoon
+        3.0	<laplace=1>	ym
+        4.0	        5.0	terms
+       11.0	<laplace=1>	yo
+<laplace=1>	        4.0	Book
+        3.0	<laplace=1>	depressed
+        4.0	       11.0	yr
+        5.0	<laplace=1>	connection
+        6.0	<laplace=1>	asleep
+        4.0	<laplace=1>	proof
+        3.0	       11.0	comp
+        3.0	<laplace=1>	wifi
+        4.0	<laplace=1>	Honeybee
+<laplace=1>	        7.0	08707509020
+       10.0	<laplace=1>	wife
+<laplace=1>	        5.0	contract
+<laplace=1>	        4.0	HG/Suite342/2Lands/Row/W1J6HL
+      198.0	<laplace=1>	come
+        4.0	<laplace=1>	Murdered
+<laplace=1>	        3.0	61610
+        3.0	<laplace=1>	drpd
+        3.0	<laplace=1>	push
+<laplace=1>	        3.0	g696ga
+<laplace=1>	        3.0	Shop
+<laplace=1>	        3.0	81618-
+        6.0	<laplace=1>	some1
+        4.0	<laplace=1>	exact
+        4.0	<laplace=1>	praying
+        7.0	<laplace=1>	lift
+        3.0	<laplace=1>	Eat
+        3.0	<laplace=1>	force
+<laplace=1>	        3.0	09061213237
+        5.0	<laplace=1>	Those
+        4.0	<laplace=1>	WEN
+        8.0	<laplace=1>	south
+<laplace=1>	        6.0	Cash
+       50.0	       77.0	our
+      196.0	       48.0	out
+        4.0	<laplace=1>	Case
+<laplace=1>	       11.0	NTT
+        3.0	        9.0	More
+<laplace=1>	        3.0	Update_Now
+       12.0	<laplace=1>	noon
+        3.0	<laplace=1>	belive
+<laplace=1>	        4.0	RINGTONE
+<laplace=1>	        7.0	08712300220
+      271.0	       46.0	get
+        6.0	<laplace=1>	Rakhesh
+        3.0	<laplace=1>	dark
+        3.0	<laplace=1>	Irritates
+       15.0	<laplace=1>	course
+       10.0	<laplace=1>	copy
+        6.0	<laplace=1>	power
+        4.0	<laplace=1>	dare
+        4.0	        5.0	Msg
+        4.0	<laplace=1>	Roger
+<laplace=1>	        3.0	09066350750
+        3.0	<laplace=1>	countin
+       27.0	<laplace=1>	cool
+        9.0	<laplace=1>	sell
+        6.0	        3.0	Valentines
+        4.0	<laplace=1>	brain
+        4.0	<laplace=1>	enuff
+        3.0	<laplace=1>	thot
+       36.0	       13.0	help
+        3.0	<laplace=1>	massive
+        7.0	<laplace=1>	ended
+<laplace=1>	        3.0	WAITING
+       12.0	<laplace=1>	NICE
+        8.0	        3.0	self
+        5.0	<laplace=1>	matured
+        6.0	<laplace=1>	||
+        9.0	        5.0	date
+        9.0	<laplace=1>	thru
+        4.0	<laplace=1>	dress
+        3.0	<laplace=1>	Company
+        6.0	<laplace=1>	hostel
+       10.0	<laplace=1>	own
+       11.0	<laplace=1>	sound
+        3.0	<laplace=1>	Most
+        5.0	        5.0	FROM
+        5.0	<laplace=1>	World
+        6.0	<laplace=1>	drug
+<laplace=1>	        3.0	norm
+        4.0	<laplace=1>	Sweetest
+        6.0	<laplace=1>	Boss
+        4.0	<laplace=1>	dats
+        7.0	<laplace=1>	Excellent
+<laplace=1>	        3.0	TWILIGHT
+        6.0	<laplace=1>	NIGHT
+        4.0	<laplace=1>	Kind
+        3.0	<laplace=1>	avoiding
+        7.0	<laplace=1>	sunny
+<laplace=1>	        3.0	blow
+<laplace=1>	        3.0	PREMIER
+<laplace=1>	        3.0	150p/day
+        6.0	<laplace=1>	WHO
+<laplace=1>	        7.0	tariffs
+        3.0	<laplace=1>	Usually
+        3.0	<laplace=1>	curious
+<laplace=1>	        7.0	FRND
+        6.0	<laplace=1>	Mum
+      208.0	       14.0	like
+<laplace=1>	        3.0	WHY
+        3.0	<laplace=1>	Eek
+<laplace=1>	        4.0	TCR/W1
+       53.0	       11.0	sent
+        3.0	<laplace=1>	messy
+        3.0	<laplace=1>	ENJOYIN
+<laplace=1>	        9.0	ending
+        5.0	<laplace=1>	Muz
+        4.0	<laplace=1>	ground
+      103.0	       48.0	send
+<laplace=1>	       20.0	WIN
+        5.0	<laplace=1>	Both
+      112.0	        5.0	here
+        5.0	<laplace=1>	note
+        3.0	<laplace=1>	haven’t
+<laplace=1>	        6.0	contacted
+        3.0	<laplace=1>	everybody
+<laplace=1>	        3.0	8077
+        8.0	<laplace=1>	aint
+        5.0	<laplace=1>	thts
+<laplace=1>	        5.0	purpose
+        8.0	       34.0	line
+        5.0	        7.0	link
+        3.0	<laplace=1>	snake
+        3.0	<laplace=1>	recovery
+        5.0	<laplace=1>	Reason
+        9.0	<laplace=1>	Friendship
+        3.0	<laplace=1>	you*
+       10.0	<laplace=1>	bday
+        3.0	<laplace=1>	giv
+        5.0	<laplace=1>	station
+        4.0	<laplace=1>	esplanade
+        4.0	<laplace=1>	affairs
+        3.0	<laplace=1>	didn€˜t
+        3.0	<laplace=1>	costs
+       11.0	        9.0	cost
+<laplace=1>	        3.0	08718730666
+      270.0	       39.0	will
+<laplace=1>	        3.0	08000776320
+        5.0	<laplace=1>	confidence
+       14.0	<laplace=1>	smoke
+<laplace=1>	        5.0	POLY
+<laplace=1>	        3.0	follow
+        4.0	<laplace=1>	soryda
+        5.0	<laplace=1>	tyler
+<laplace=1>	        7.0	Voucher
+        4.0	<laplace=1>	magical
+        5.0	<laplace=1>	daddy
+        3.0	<laplace=1>	tuesday
+<laplace=1>	        3.0	Luck
+        3.0	<laplace=1>	Total
+       16.0	<laplace=1>	Also
+        4.0	<laplace=1>	dignity
+        3.0	<laplace=1>	challenge
+<laplace=1>	        6.0	locations
+<laplace=1>	        3.0	chatting
+        4.0	<laplace=1>	becoz
+       10.0	        3.0	Think
+<laplace=1>	        5.0	England
+      314.0	      162.0	your
+       22.0	<laplace=1>	without
+       16.0	        4.0	these
+        3.0	<laplace=1>	paragon
+<laplace=1>	        5.0	3mins
+        7.0	<laplace=1>	youd
+       15.0	<laplace=1>	sister
+        5.0	<laplace=1>	wins
+        8.0	<laplace=1>	Colleagues
+<laplace=1>	        3.0	SW73SS
+        3.0	<laplace=1>	Things
+        3.0	<laplace=1>	noun
+        3.0	<laplace=1>	mokka
+        5.0	<laplace=1>	befor
+        4.0	<laplace=1>	Belovd
+<laplace=1>	        4.0	4mths
+       98.0	<laplace=1>	much
+        8.0	<laplace=1>	wine
+        3.0	<laplace=1>	wind
+        3.0	<laplace=1>	flight
+<laplace=1>	        9.0	entitled
+        3.0	<laplace=1>	Scared
+        8.0	<laplace=1>	ahead
+        6.0	<laplace=1>	anybody
+        5.0	<laplace=1>	masters
+       13.0	<laplace=1>	talking
+<laplace=1>	        3.0	go2
+        5.0	<laplace=1>	somethin
+<laplace=1>	       23.0	weekly
+<laplace=1>	        3.0	uk/wrc
+       42.0	<laplace=1>	youre
+        3.0	<laplace=1>	Boost
+        3.0	<laplace=1>	Watch
+<laplace=1>	        3.0	Boys
+        4.0	<laplace=1>	Cutefrnd
+        3.0	<laplace=1>	shoving
+<laplace=1>	        3.0	PORN
+        4.0	<laplace=1>	audition
+<laplace=1>	        3.0	FML
+<laplace=1>	        3.0	kickoff
+<laplace=1>	        8.0	Ldew
+        3.0	<laplace=1>	suite
+        9.0	<laplace=1>	blue
+<laplace=1>	       24.0	WON
+       30.0	       12.0	days
+        4.0	<laplace=1>	returned
+       15.0	<laplace=1>	god
+        7.0	<laplace=1>	WOT
+       10.0	       14.0	yours
+        4.0	<laplace=1>	buff
+        6.0	<laplace=1>	discuss
+<laplace=1>	        3.0	uk/expressoffer
+<laplace=1>	        7.0	standard
+        8.0	        4.0	correct
+        4.0	<laplace=1>	Start
+<laplace=1>	        3.0	POST
+<laplace=1>	        3.0	Apply
+        4.0	<laplace=1>	chill
+      196.0	        5.0	got
+       33.0	        3.0	wish
+       11.0	<laplace=1>	Anyway
+        4.0	<laplace=1>	wise
+        5.0	<laplace=1>	wheres
+        5.0	<laplace=1>	Brother
+        4.0	<laplace=1>	lacs
+        3.0	<laplace=1>	TONIGHT
+        4.0	<laplace=1>	Short
+        4.0	<laplace=1>	Unless
+        3.0	<laplace=1>	pap
+        6.0	        8.0	area
+        7.0	<laplace=1>	murder
+        3.0	<laplace=1>	Eyes
+<laplace=1>	        4.0	BOX97N7QP
+        4.0	        9.0	FOR
+       27.0	<laplace=1>	pay
+<laplace=1>	        3.0	KL341
+        8.0	<laplace=1>	list
+       12.0	        3.0	gr8
+        3.0	<laplace=1>	gpu
+        3.0	<laplace=1>	strange
+        3.0	<laplace=1>	About
+<laplace=1>	        3.0	BRAND
+       32.0	       17.0	Dear
+        3.0	<laplace=1>	slots
+        4.0	<laplace=1>	spending
+        4.0	<laplace=1>	prolly
+        3.0	<laplace=1>	success
+<laplace=1>	        3.0	claims
+<laplace=1>	        5.0	88039
+<laplace=1>	        3.0	End
+        4.0	<laplace=1>	onwards
+        5.0	<laplace=1>	Depends
+        3.0	<laplace=1>	cleared
+        3.0	<laplace=1>	shocking
+        3.0	<laplace=1>	child
+        9.0	        4.0	Press
+<laplace=1>	        5.0	bx420
+<laplace=1>	        3.0	WRC
+        7.0	        3.0	remove
+        4.0	<laplace=1>	wisdom
+        5.0	        3.0	Over
+<laplace=1>	        3.0	X49
+        3.0	<laplace=1>	bruce
+       15.0	       19.0	live
+<laplace=1>	        3.0	88066
+        3.0	<laplace=1>	itLEAVE
+<laplace=1>	       15.0	Ts&Cs
+       12.0	       13.0	sexy
+       14.0	       92.0	mobile
+        3.0	<laplace=1>	People
+<laplace=1>	        3.0	peak
+      228.0	       95.0	with
+       11.0	<laplace=1>	Nah
+        4.0	<laplace=1>	china
+        3.0	<laplace=1>	complaint
+        3.0	       49.0	service
+      157.0	       12.0	there
+        7.0	<laplace=1>	coffee
+        7.0	<laplace=1>	lady
+        3.0	<laplace=1>	JESS
+        3.0	<laplace=1>	Nan
+<laplace=1>	        5.0	<Forwarded
+<laplace=1>	       10.0	£800
+        7.0	<laplace=1>	fullonsms
+        3.0	<laplace=1>	named
+<laplace=1>	        3.0	smsco
+<laplace=1>	        4.0	Moons
+        5.0	<laplace=1>	John
+<laplace=1>	        7.0	TXTAUCTION
+<laplace=1>	        3.0	delivered
+        4.0	<laplace=1>	na-tuition
+        5.0	<laplace=1>	uncles
+        3.0	<laplace=1>	630
+        3.0	<laplace=1>	thesis
+<laplace=1>	        3.0	88888
+        3.0	<laplace=1>	avent
+       12.0	       46.0	per
+        3.0	<laplace=1>	IKEA
+        3.0	<laplace=1>	Vry
+       11.0	<laplace=1>	write
+        6.0	<laplace=1>	kallis
+        4.0	<laplace=1>	period
+<laplace=1>	        4.0	loyalty
+       12.0	<laplace=1>	understand
+        4.0	<laplace=1>	birth
+       10.0	<laplace=1>	slowly
+       14.0	<laplace=1>	alright
+       26.0	<laplace=1>	ever
+        9.0	<laplace=1>	loving
+<laplace=1>	       16.0	NOKIA
+<laplace=1>	       13.0	winner
+       39.0	        7.0	even
+        5.0	<laplace=1>	texted
+       15.0	<laplace=1>	gud
+        4.0	<laplace=1>	Finally
+        4.0	<laplace=1>	Erm
+       51.0	        3.0	wait
+        3.0	<laplace=1>	Means
+        3.0	<laplace=1>	hundred
+        3.0	<laplace=1>	American
+        3.0	<laplace=1>	queen
+        3.0	<laplace=1>	NITE
+       23.0	<laplace=1>	guy
+<laplace=1>	        3.0	Colour
+        3.0	<laplace=1>	recharge
+        8.0	<laplace=1>	kinda
+<laplace=1>	        5.0	87575
+<laplace=1>	        4.0	CHANCE
+        9.0	<laplace=1>	monday
+        3.0	<laplace=1>	violence
+        3.0	<laplace=1>	waht
+        3.0	<laplace=1>	accordingly
+<laplace=1>	        5.0	laid
+        3.0	<laplace=1>	heading
+       56.0	<laplace=1>	gonna
+        5.0	<laplace=1>	bought
+<laplace=1>	        8.0	Join
+<laplace=1>	        3.0	names
+        4.0	<laplace=1>	messenger
+<laplace=1>	        4.0	09063458130
+        6.0	<laplace=1>	buns
+       14.0	        5.0	xxx
+        4.0	<laplace=1>	mums
+        5.0	<laplace=1>	itplspls
+       15.0	       16.0	New
+       54.0	        3.0	tonight
+<laplace=1>	        5.0	W111WX
+       13.0	<laplace=1>	almost
+        4.0	<laplace=1>	arng
+<laplace=1>	        3.0	textcomp
+        3.0	<laplace=1>	aeroplane
+        6.0	        8.0	pic
+        4.0	<laplace=1>	pie
+        3.0	<laplace=1>	suits
+        5.0	<laplace=1>	pig
+       22.0	<laplace=1>	wake
+       13.0	        7.0	Enjoy
+        5.0	<laplace=1>	Ttyl
+       14.0	<laplace=1>	earlier
+        4.0	<laplace=1>	pin
+<laplace=1>	        3.0	20p/min
+<laplace=1>	        4.0	charity
+<laplace=1>	        3.0	450Ppw
+        6.0	<laplace=1>	whether
+        6.0	<laplace=1>	stock
+        5.0	<laplace=1>	pix
+        3.0	<laplace=1>	beneath
+       16.0	<laplace=1>	everyone
+        7.0	<laplace=1>	4th
+<laplace=1>	       27.0	guaranteed
+        6.0	<laplace=1>	Lmao
+        3.0	<laplace=1>	tick
+<laplace=1>	        3.0	Eve
+       13.0	<laplace=1>	snow
+<laplace=1>	        4.0	REAL
+       13.0	<laplace=1>	gym
+        4.0	<laplace=1>	arms
+        5.0	<laplace=1>	basic
+        3.0	<laplace=1>	Evr
+<laplace=1>	        8.0	5WB
+        3.0	<laplace=1>	$700
+        6.0	<laplace=1>	replied
+       17.0	<laplace=1>	cause
+       11.0	<laplace=1>	wana
+        5.0	<laplace=1>	accidentally
+        7.0	<laplace=1>	youve
+        6.0	        7.0	extra
+       17.0	        3.0	busy
+        8.0	<laplace=1>	convey
+<laplace=1>	        3.0	CallFREEFONE
+       29.0	<laplace=1>	working
+       13.0	<laplace=1>	friday
+<laplace=1>	       19.0	land
+        3.0	<laplace=1>	department
+        3.0	<laplace=1>	lane
+        5.0	<laplace=1>	xmas
+<laplace=1>	        3.0	High
+<laplace=1>	        3.0	31/10/04
+        3.0	<laplace=1>	italian
+        3.0	<laplace=1>	shoppin
+        3.0	<laplace=1>	despite
+       10.0	<laplace=1>	Merry
+<laplace=1>	        3.0	followed
+        3.0	<laplace=1>	burning
+        3.0	<laplace=1>	plm
+<laplace=1>	        3.0	fixedline
+<laplace=1>	        9.0	Tones
+        4.0	<laplace=1>	qatar
+       41.0	        8.0	pls
+        4.0	        4.0	fantastic
+        8.0	<laplace=1>	interested
+        4.0	<laplace=1>	credited
+       17.0	<laplace=1>	walk
+       15.0	<laplace=1>	plz
+        3.0	<laplace=1>	ALEX
+        3.0	<laplace=1>	SLEEP
+        7.0	<laplace=1>	evng
+       21.0	<laplace=1>	Thanx
+        7.0	<laplace=1>	marry
+        4.0	<laplace=1>	walmart
+<laplace=1>	        3.0	Direct
+        6.0	<laplace=1>	Geeee
+        5.0	        4.0	password
+<laplace=1>	        4.0	80082
+       19.0	<laplace=1>	Thank
+        4.0	       11.0	thinks
+       41.0	<laplace=1>	meeting
+        5.0	        4.0	welcome
+<laplace=1>	        3.0	80086
+        3.0	<laplace=1>	konw
+      146.0	       18.0	want
+<laplace=1>	        3.0	Spook
+        3.0	<laplace=1>	unnecessarily
+<laplace=1>	        3.0	02073162414
+<laplace=1>	        3.0	Accident
+<laplace=1>	        5.0	9am-11pm
+        3.0	<laplace=1>	Amazing
+        3.0	<laplace=1>	difference
+<laplace=1>	        3.0	uk/games
+       19.0	        3.0	must
+        5.0	<laplace=1>	butt
+        6.0	<laplace=1>	Callertune
+<laplace=1>	        6.0	FANTASIES
+       11.0	<laplace=1>	bathe
+<laplace=1>	        3.0	shagged
+        8.0	       22.0	CALL
+       14.0	        6.0	Should
+        8.0	<laplace=1>	Kate
+        4.0	        4.0	ONE
+        6.0	        4.0	Would
+        8.0	<laplace=1>	giving
+        3.0	<laplace=1>	chase
+<laplace=1>	       69.0	prize
+       19.0	<laplace=1>	anyway
+        4.0	<laplace=1>	pop
+        9.0	<laplace=1>	thinkin
+       12.0	<laplace=1>	found
+        8.0	<laplace=1>	excuse
+        3.0	<laplace=1>	Fingers
+<laplace=1>	        3.0	EXORCIST
+        3.0	<laplace=1>	canal
+        5.0	<laplace=1>	escape
+        3.0	<laplace=1>	arts
+<laplace=1>	        3.0	08081560665
+        7.0	<laplace=1>	funny
+        7.0	<laplace=1>	gives
+        4.0	       27.0	latest
+       10.0	<laplace=1>	Really
+        6.0	       29.0	receive
+<laplace=1>	       11.0	MUSIC
+        3.0	<laplace=1>	Express
+<laplace=1>	        3.0	Westlife
+<laplace=1>	       17.0	Statement
+        6.0	<laplace=1>	yan
+        5.0	<laplace=1>	SWEET
+<laplace=1>	        5.0	2nite
+<laplace=1>	        5.0	ppm
+        3.0	<laplace=1>	disclose
+        5.0	<laplace=1>	ppl
+<laplace=1>	        3.0	09050001808
+        4.0	<laplace=1>	yay
+<laplace=1>	        3.0	txt-2-shop
+        4.0	<laplace=1>	standing
+<laplace=1>	        9.0	No1
+        3.0	<laplace=1>	*stomps
+        3.0	<laplace=1>	nalla
+        3.0	<laplace=1>	tihs
+        4.0	<laplace=1>	Crack
+        6.0	<laplace=1>	latr
+       18.0	        4.0	till
+       12.0	<laplace=1>	friendship
+        9.0	<laplace=1>	Once
+        5.0	<laplace=1>	attend
+       14.0	<laplace=1>	Anything
+        3.0	<laplace=1>	feelin
+        6.0	<laplace=1>	Forgot
+        3.0	<laplace=1>	juan
+       76.0	        4.0	had
+<laplace=1>	        4.0	£75000
+<laplace=1>	        3.0	b4190604
+       22.0	<laplace=1>	haf
+        9.0	<laplace=1>	anymore
+        3.0	<laplace=1>	hai
+<laplace=1>	        3.0	OPT
+       53.0	<laplace=1>	late
+       25.0	<laplace=1>	school
+        3.0	<laplace=1>	Confidence
+        3.0	<laplace=1>	continue
+       44.0	        3.0	things
+        6.0	<laplace=1>	basically
+       75.0	       32.0	has
+       21.0	<laplace=1>	hav
+        3.0	<laplace=1>	realize
+        3.0	<laplace=1>	yck
+<laplace=1>	       13.0	offers
+        3.0	<laplace=1>	given
+<laplace=1>	       16.0	08000839402
+       56.0	        5.0	last
+        3.0	<laplace=1>	definite
+        3.0	<laplace=1>	2waxsto
+        3.0	<laplace=1>	batch
+        8.0	<laplace=1>	weight
+        3.0	<laplace=1>	Spoke
+        3.0	        5.0	NAME
+        4.0	<laplace=1>	girlfrnd
+        5.0	<laplace=1>	Thought
+       56.0	        4.0	Not
+        8.0	        3.0	warm
+        4.0	<laplace=1>	measure
+        4.0	<laplace=1>	guilty
+       28.0	       17.0	Now
+        3.0	<laplace=1>	Edison
+        6.0	<laplace=1>	playing
+        3.0	        4.0	receipt
+        3.0	<laplace=1>	LOVEME
+        4.0	<laplace=1>	4get
+        5.0	<laplace=1>	Wah
+<laplace=1>	        3.0	widelive
+       10.0	<laplace=1>	asking
+<laplace=1>	        3.0	Wan
+       20.0	<laplace=1>	Was
+        4.0	<laplace=1>	impossible
+       29.0	<laplace=1>	Wat
+        3.0	       17.0	video
+        3.0	<laplace=1>	complaining
+        4.0	<laplace=1>	vegetables
+       58.0	<laplace=1>	anything
+       21.0	<laplace=1>	yesterday
+<laplace=1>	        5.0	SHOP
+<laplace=1>	        3.0	Scotsman
+        5.0	<laplace=1>	freak
+        9.0	        5.0	ends
+        4.0	<laplace=1>	sorting
+        4.0	<laplace=1>	payoh
+<laplace=1>	        3.0	SHOW
+        4.0	<laplace=1>	chechi
+        5.0	<laplace=1>	vote
+       31.0	<laplace=1>	early
+        4.0	<laplace=1>	cuddle
+        3.0	<laplace=1>	yep
+        3.0	<laplace=1>	Maangalyam
+<laplace=1>	        3.0	-sub
+       10.0	<laplace=1>	yes
+<laplace=1>	        5.0	yer
+       46.0	        3.0	yet
+<laplace=1>	        3.0	2rcv
+        3.0	<laplace=1>	windows
+<laplace=1>	        3.0	movietrivia
+        4.0	<laplace=1>	FRNDSHIP
+<laplace=1>	       42.0	URGENT
+        5.0	       16.0	colour
+      169.0	       20.0	time
+        4.0	<laplace=1>	buzy
+       14.0	<laplace=1>	pub
+        4.0	<laplace=1>	buzz
+        7.0	<laplace=1>	wats
+       11.0	<laplace=1>	youll
+<laplace=1>	        3.0	GENT
+       48.0	<laplace=1>	happy
+        3.0	<laplace=1>	hee
+        4.0	<laplace=1>	Prabha
+        3.0	<laplace=1>	program
+        4.0	<laplace=1>	CARE
+       24.0	<laplace=1>	put
+<laplace=1>	        3.0	09061701461
+<laplace=1>	        3.0	Idew
+<laplace=1>	        4.0	CARD
+        4.0	<laplace=1>	3Wife
+       89.0	        8.0	her
+        3.0	<laplace=1>	frndship
+       26.0	<laplace=1>	hes
+<laplace=1>	        5.0	M263UZ
+<laplace=1>	        3.0	Special
+        3.0	<laplace=1>	hex
+<laplace=1>	        3.0	Potter
+        5.0	<laplace=1>	Joys
+        6.0	<laplace=1>	hey
+<laplace=1>	        3.0	08006344447
+       15.0	<laplace=1>	okay
+        3.0	<laplace=1>	swoop
+       40.0	<laplace=1>	having
+        3.0	<laplace=1>	meets
+        4.0	<laplace=1>	kadeem
+<laplace=1>	        3.0	69696
+       18.0	<laplace=1>	lesson
+        3.0	<laplace=1>	*pouts*
+        4.0	<laplace=1>	SirI
+        4.0	<laplace=1>	philosophy
+<laplace=1>	       15.0	CASH
+<laplace=1>	        3.0	OUR
+        6.0	        9.0	OUT
+        4.0	<laplace=1>	Neighbour
+       15.0	<laplace=1>	light
+        3.0	<laplace=1>	terrific
+        4.0	<laplace=1>	apparently
+        5.0	<laplace=1>	Wed
+        4.0	        6.0	GET
+        4.0	<laplace=1>	valuable
+       12.0	<laplace=1>	Wen
+        3.0	<laplace=1>	engin
+        6.0	<laplace=1>	Loves
+        6.0	<laplace=1>	Lover
+       10.0	<laplace=1>	lazy
+<laplace=1>	        3.0	008704050406
+        3.0	<laplace=1>	Coffee
+        4.0	<laplace=1>	confirmed
+        3.0	        3.0	smart
+<laplace=1>	        3.0	09094646899
+       45.0	<laplace=1>	Thats
+<laplace=1>	        4.0	08701417012
+        4.0	<laplace=1>	chain
+        3.0	<laplace=1>	Feb
+<laplace=1>	        3.0	08712101358
+        3.0	<laplace=1>	lately
+<laplace=1>	       22.0	150p
+        3.0	<laplace=1>	january
+       14.0	       20.0	chat
+        4.0	<laplace=1>	Nurungu
+        3.0	<laplace=1>	motorola
+<laplace=1>	        9.0	BT-national-rate
+        4.0	<laplace=1>	MORAL
+        5.0	<laplace=1>	Quite
+<laplace=1>	        3.0	garden
+<laplace=1>	        4.0	IBHltd
+        3.0	        4.0	choice
+        4.0	<laplace=1>	travel
+<laplace=1>	        4.0	Halloween
+        3.0	<laplace=1>	lays
+        3.0	<laplace=1>	cramps
+<laplace=1>	       12.0	Motorola
+       11.0	<laplace=1>	small
+        4.0	<laplace=1>	Nvm
+       54.0	        4.0	before
+        3.0	<laplace=1>	replace
+        5.0	<laplace=1>	appointment
+        4.0	<laplace=1>	stomach
+<laplace=1>	       11.0	Update
+       99.0	<laplace=1>	him
+       12.0	<laplace=1>	listen
+        5.0	<laplace=1>	hip
+        9.0	<laplace=1>	wondering
+<laplace=1>	        3.0	ADAM
+       11.0	        3.0	hit
+       52.0	<laplace=1>	his
+        4.0	<laplace=1>	major
+        3.0	<laplace=1>	missing*
+        5.0	<laplace=1>	answering
+        4.0	<laplace=1>	dubsack
+        3.0	<laplace=1>	bear
+        3.0	<laplace=1>	potential
+        7.0	<laplace=1>	group
+        8.0	<laplace=1>	Who
+        4.0	<laplace=1>	WANNA
+<laplace=1>	        3.0	0207
+<laplace=1>	        4.0	Order
+        3.0	<laplace=1>	lounge
+        3.0	<laplace=1>	Especially
+        3.0	<laplace=1>	MOST
+        5.0	<laplace=1>	tree
+       25.0	        6.0	Why
+        3.0	<laplace=1>	history
+        4.0	<laplace=1>	Convey
+<laplace=1>	       10.0	txting
+        5.0	<laplace=1>	twice
+        3.0	<laplace=1>	BOUT
+        7.0	<laplace=1>	hurts
+        5.0	<laplace=1>	Gods
+        3.0	<laplace=1>	b’day
+        3.0	<laplace=1>	nydc
+<laplace=1>	        3.0	dbuk
+<laplace=1>	        3.0	6HL
+        3.0	<laplace=1>	Wil
+<laplace=1>	       16.0	Win
+        8.0	<laplace=1>	request
+        3.0	<laplace=1>	Rofl
+        3.0	<laplace=1>	howard
+       14.0	<laplace=1>	their
+        7.0	<laplace=1>	Hiya
+        4.0	<laplace=1>	asap
+        4.0	<laplace=1>	Loving
+        3.0	<laplace=1>	okie
+       13.0	<laplace=1>	point
+<laplace=1>	        4.0	CLAIM
+        3.0	<laplace=1>	infront
+        6.0	<laplace=1>	sounds
+<laplace=1>	        3.0	08718726270
+        9.0	<laplace=1>	hospital
+<laplace=1>	        6.0	80062
+        7.0	<laplace=1>	process
+        4.0	<laplace=1>	clear
+        3.0	<laplace=1>	eighth
+<laplace=1>	        3.0	Nyt
+       14.0	       15.0	Only
+        5.0	<laplace=1>	Silent
+        7.0	<laplace=1>	clean
+<laplace=1>	       33.0	£1
+       48.0	<laplace=1>	Haha
+        3.0	<laplace=1>	MojiBiola
+        4.0	<laplace=1>	meal
+<laplace=1>	       12.0	£3
+<laplace=1>	        5.0	£4
+<laplace=1>	        5.0	Vodafone
+        3.0	<laplace=1>	£6
+       21.0	<laplace=1>	mean
+<laplace=1>	       12.0	valued
+        6.0	<laplace=1>	glad
+        3.0	<laplace=1>	hurry
+       16.0	        4.0	account
+        5.0	<laplace=1>	NAKED
+<laplace=1>	        3.0	vodafone
+        5.0	<laplace=1>	sometime
+       77.0	       43.0	been
+        3.0	<laplace=1>	Left
+        3.0	<laplace=1>	hmm
+        8.0	<laplace=1>	advance
+<laplace=1>	        3.0	Dream
+        4.0	<laplace=1>	thurs
+       17.0	        5.0	trip
+        4.0	<laplace=1>	meetin
+        6.0	<laplace=1>	meds
+        8.0	<laplace=1>	appreciate
+<laplace=1>	        6.0	National
+        3.0	<laplace=1>	watever
+<laplace=1>	       15.0	Congratulations
+     1163.0	      160.0	you
+        4.0	<laplace=1>	soft
+       21.0	<laplace=1>	happen
+        8.0	<laplace=1>	sofa
+<laplace=1>	        3.0	loyal
+        4.0	<laplace=1>	Haiz
+        6.0	<laplace=1>	opportunity
+<laplace=1>	        3.0	REVEAL
+        4.0	<laplace=1>	Said
+        4.0	<laplace=1>	Hahaha
+        3.0	<laplace=1>	sweetie
+        3.0	<laplace=1>	Scotch
+       27.0	       16.0	trying
+<laplace=1>	        8.0	£900
+<laplace=1>	        3.0	Sale
+<laplace=1>	        3.0	21870000>Hi
+        4.0	<laplace=1>	msging
+        3.0	<laplace=1>	hon
+<laplace=1>	        3.0	69866
+       18.0	        4.0	comes
+        6.0	<laplace=1>	hop
+        3.0	<laplace=1>	Missing*
+<laplace=1>	        3.0	Help08718728876
+        3.0	<laplace=1>	hor
+        3.0	<laplace=1>	bottle
+        8.0	        9.0	hot
+<laplace=1>	        3.0	Jackpot
+      123.0	        4.0	how
+<laplace=1>	        4.0	PocketBabe
+<laplace=1>	        3.0	Mailbox
+        4.0	<laplace=1>	innings
+        3.0	<laplace=1>	wedding
+        6.0	<laplace=1>	GOD
+        3.0	<laplace=1>	spare
+        3.0	<laplace=1>	chip
+        3.0	<laplace=1>	Pick
+        3.0	<laplace=1>	calld
+<laplace=1>	        3.0	Upd8
+        3.0	<laplace=1>	thursday
+        3.0	<laplace=1>	POWER
+<laplace=1>	        4.0	POLYPHONIC
+        7.0	<laplace=1>	GOT
+        3.0	<laplace=1>	that€˜s
+       11.0	<laplace=1>	march
+        4.0	        3.0	tells
+<laplace=1>	        8.0	SavaMob
+        4.0	<laplace=1>	popped
+<laplace=1>	        8.0	Half
+        3.0	<laplace=1>	june
+       65.0	        7.0	meet
+       14.0	        8.0	answer
+       13.0	        7.0	calls
+        5.0	<laplace=1>	series
+        3.0	<laplace=1>	SIMPLE
+        3.0	<laplace=1>	telly
+        4.0	        4.0	yrs
+        3.0	<laplace=1>	DREAMS
+        6.0	<laplace=1>	Wot
+        9.0	<laplace=1>	Wow
+        3.0	<laplace=1>	purse
+        3.0	<laplace=1>	ovulation
+        4.0	<laplace=1>	Monday
+        5.0	<laplace=1>	putting
+        4.0	<laplace=1>	bein
+<laplace=1>	        3.0	69888
+        4.0	<laplace=1>	sometimes
+        7.0	        6.0	questions
+        9.0	<laplace=1>	promise
+<laplace=1>	        3.0	subs16+1win150ppmx3
+       13.0	<laplace=1>	Watching
+<laplace=1>	        4.0	50gbp/mtmsg18
+<laplace=1>	        7.0	TnCs
+       16.0	<laplace=1>	hold
+        3.0	<laplace=1>	scotland
+        3.0	<laplace=1>	chinese
+        3.0	<laplace=1>	Mmmmmm
+        3.0	<laplace=1>	underwear
+       37.0	        5.0	talk
+       33.0	       56.0	reply
+<laplace=1>	        4.0	Unsubscribe
+       10.0	<laplace=1>	train
+       10.0	<laplace=1>	Same
+        3.0	<laplace=1>	dedicated
+        3.0	<laplace=1>	planet
+       18.0	       25.0	For
+        5.0	<laplace=1>	hrs
+        3.0	<laplace=1>	count
+        3.0	<laplace=1>	creep
+<laplace=1>	        4.0	2000
+<laplace=1>	        8.0	rcvd
+      101.0	       14.0	take
+        4.0	<laplace=1>	blame
+        3.0	<laplace=1>	otside
+      109.0	        6.0	some
+        3.0	<laplace=1>	blank
+       30.0	       16.0	waiting
+       48.0	        3.0	Well
+<laplace=1>	        3.0	Granite
+        3.0	<laplace=1>	yuo
+<laplace=1>	        3.0	2007
+        3.0	<laplace=1>	yun
+<laplace=1>	        4.0	2005
+<laplace=1>	        9.0	2004
+<laplace=1>	       14.0	2003
+        4.0	<laplace=1>	Prepare
+        5.0	<laplace=1>	passed
+        3.0	<laplace=1>	tank
+      192.0	       49.0	just
+        5.0	        4.0	notice
+        4.0	<laplace=1>	bloody
+        5.0	<laplace=1>	midnight
+        3.0	<laplace=1>	yummy
+        3.0	        3.0	darling
+        3.0	<laplace=1>	idiot
+        5.0	<laplace=1>	tuition
+        3.0	<laplace=1>	killed
+<laplace=1>	       13.0	complimentary
+<laplace=1>	        3.0	Football
+      159.0	<laplace=1>	home
+<laplace=1>	        3.0	OVER
+        3.0	<laplace=1>	print
+        3.0	<laplace=1>	5pm
+        3.0	<laplace=1>	4-some1
+        7.0	<laplace=1>	€“
+       10.0	<laplace=1>	huh
+        4.0	<laplace=1>	hug
+<laplace=1>	        7.0	Delivery
+       69.0	        8.0	Good
+<laplace=1>	        3.0	Fri
+        3.0	<laplace=1>	hols
+        3.0	<laplace=1>	explain
+        3.0	<laplace=1>	hun
+<laplace=1>	        3.0	REALITY
+        5.0	<laplace=1>	answers
+        6.0	<laplace=1>	dropped
+<laplace=1>	        3.0	Remove
+       54.0	        3.0	hope
+       52.0	        4.0	soon
+<laplace=1>	        5.0	txtin
+<laplace=1>	        7.0	W45WQ
+        3.0	<laplace=1>	transfr
+<laplace=1>	        3.0	bulbs
+<laplace=1>	       19.0	750
+        5.0	<laplace=1>	hook
+        3.0	<laplace=1>	melt
+        4.0	<laplace=1>	tape
+        3.0	<laplace=1>	Joanna
+        4.0	<laplace=1>	GUD
+<laplace=1>	        3.0	action
+<laplace=1>	        4.0	125gift
+        5.0	<laplace=1>	Went
+        8.0	        4.0	song
+        3.0	<laplace=1>	Google
+<laplace=1>	        3.0	050703
+       13.0	<laplace=1>	askd
+        4.0	<laplace=1>	Today-sunday
+<laplace=1>	        3.0	Hard
+        5.0	<laplace=1>	cream
+        3.0	<laplace=1>	sensitive
+<laplace=1>	        9.0	iPod
+        4.0	<laplace=1>	bell
+        3.0	<laplace=1>	Japanese
+        8.0	<laplace=1>	heavy
+        3.0	<laplace=1>	Sender
+<laplace=1>	        3.0	M227XY
+       11.0	<laplace=1>	reached
+        6.0	<laplace=1>	asks
+        3.0	<laplace=1>	We€˜re
+        3.0	<laplace=1>	cancelled
+        3.0	<laplace=1>	acting
+        6.0	<laplace=1>	Right
+        5.0	<laplace=1>	deliver
+        5.0	<laplace=1>	Rose
+        3.0	<laplace=1>	ALWAYS
+        4.0	<laplace=1>	Off
+<laplace=1>	        3.0	summer
+       16.0	<laplace=1>	Still
+        4.0	<laplace=1>	eight
+        3.0	<laplace=1>	Sweetheart
+<laplace=1>	        4.0	09066612661
+        5.0	<laplace=1>	file
+<laplace=1>	        3.0	07123456789
+        3.0	        6.0	member
+       12.0	        5.0	XXX
+<laplace=1>	        3.0	PHP
+<laplace=1>	        4.0	Final
+       22.0	<laplace=1>	together
+        3.0	<laplace=1>	illness
+        6.0	<laplace=1>	nigeria
+        7.0	        8.0	within
+       47.0	        8.0	could
+        3.0	<laplace=1>	strike
+        5.0	<laplace=1>	5th
+        7.0	<laplace=1>	torch
+<laplace=1>	        3.0	PIC
+        4.0	<laplace=1>	favourite
+        5.0	<laplace=1>	menu
+        3.0	       29.0	Mobile
+<laplace=1>	       10.0	rental
+        3.0	<laplace=1>	gving
+        3.0	<laplace=1>	PIN
+<laplace=1>	        5.0	786
+       27.0	<laplace=1>	able
+        3.0	<laplace=1>	I’m
+<laplace=1>	        8.0	85023
+       24.0	<laplace=1>	evening
+        4.0	<laplace=1>	Best1
+        7.0	<laplace=1>	return
+<laplace=1>	        4.0	PIX
+        4.0	        3.0	cheaper
+        3.0	<laplace=1>	confuses
+        3.0	<laplace=1>	DIDNT
+        5.0	<laplace=1>	Purity
+       12.0	<laplace=1>	Were
+<laplace=1>	        4.0	RECEIVE
+       28.0	<laplace=1>	smile
+        4.0	<laplace=1>	radio
+<laplace=1>	        3.0	09061744553
+        3.0	<laplace=1>	confused
+<laplace=1>	        5.0	11mths
+<laplace=1>	        3.0	6WU
+       45.0	<laplace=1>	fine
+       49.0	       19.0	find
+        4.0	<laplace=1>	sory
+<laplace=1>	        3.0	FLOWER
+        5.0	       26.0	selected
+        3.0	<laplace=1>	fujitsu
+        4.0	<laplace=1>	citizen
+        5.0	<laplace=1>	Accept
+        5.0	<laplace=1>	sooner
+        3.0	<laplace=1>	drove
+        4.0	<laplace=1>	Oic
+       13.0	<laplace=1>	difficult
+        3.0	<laplace=1>	Whatsup
+       77.0	        6.0	Have
+       10.0	<laplace=1>	sort
+        9.0	<laplace=1>	seriously
+        9.0	        3.0	film
+        5.0	<laplace=1>	fill
+       29.0	        3.0	heart
+       42.0	        6.0	friends
+        7.0	<laplace=1>	yijue
+       15.0	        3.0	forget
+        3.0	<laplace=1>	northampton
+       17.0	        4.0	true
+<laplace=1>	        3.0	Fantasy
+        3.0	<laplace=1>	phoned
+        5.0	<laplace=1>	sore
+<laplace=1>	        3.0	Save
+        3.0	<laplace=1>	position
+        8.0	<laplace=1>	present
+       22.0	        3.0	since
+        7.0	<laplace=1>	problems
+<laplace=1>	        5.0	POBOX84
+        3.0	<laplace=1>	soup
+        6.0	<laplace=1>	arrested
+<laplace=1>	        5.0	5we
+<laplace=1>	        3.0	BOX385
+       16.0	<laplace=1>	Going
+<laplace=1>	        3.0	Symbol
+        5.0	<laplace=1>	derek
+        3.0	       13.0	phones
+       34.0	       10.0	best
+        3.0	<laplace=1>	mess
+        3.0	<laplace=1>	delete
+       31.0	<laplace=1>	hour
+<laplace=1>	        4.0	advise
+        3.0	<laplace=1>	Fyi
+<laplace=1>	        3.0	Eire
+        3.0	<laplace=1>	Geeeee
+        4.0	<laplace=1>	Sister
+<laplace=1>	        4.0	genuine
+       10.0	        4.0	heard
+        3.0	<laplace=1>	falling
+        4.0	<laplace=1>	certainly
+        3.0	<laplace=1>	e-threats
+        3.0	<laplace=1>	Kaiez
+        5.0	<laplace=1>	*smiles*
+        3.0	<laplace=1>	feet*
+<laplace=1>	        3.0	lionm
+<laplace=1>	        3.0	lionp
+       23.0	<laplace=1>	online
+<laplace=1>	        4.0	callback
+<laplace=1>	        3.0	85069
+       12.0	<laplace=1>	Lets
+        3.0	<laplace=1>	Pray
+       51.0	<laplace=1>	coming
+        4.0	<laplace=1>	Each
+        3.0	<laplace=1>	Old
+        3.0	<laplace=1>	NEVER
+        6.0	<laplace=1>	scream
+        3.0	<laplace=1>	frauds
+        6.0	<laplace=1>	cover
+        7.0	<laplace=1>	theatre
+       21.0	<laplace=1>	hows
+        3.0	<laplace=1>	fire
+        7.0	<laplace=1>	umma
+        5.0	<laplace=1>	Kusruthi
+        3.0	<laplace=1>	everybodys
+<laplace=1>	       23.0	£100
+<laplace=1>	        5.0	POD
+        9.0	<laplace=1>	Omg
+        3.0	<laplace=1>	taxi
+<laplace=1>	        3.0	NO-440
+       64.0	<laplace=1>	something
+<laplace=1>	        3.0	CSH11
+        7.0	<laplace=1>	Later
+<laplace=1>	        4.0	rude
+        6.0	<laplace=1>	pilates
+        3.0	<laplace=1>	Weve
+        3.0	<laplace=1>	Evrey
+        3.0	<laplace=1>	funeral
+        7.0	<laplace=1>	except
+        4.0	<laplace=1>	Lvblefrnd
+<laplace=1>	        4.0	83222
+       12.0	<laplace=1>	shower
+        4.0	<laplace=1>	Fighting
+       10.0	<laplace=1>	saturday
+       10.0	<laplace=1>	fact
+<laplace=1>	        3.0	Unkempt
+        4.0	<laplace=1>	fren
+       16.0	<laplace=1>	One
+        3.0	<laplace=1>	fret
+        6.0	<laplace=1>	vomit
+        4.0	<laplace=1>	collecting
+<laplace=1>	        3.0	increments
+        4.0	<laplace=1>	pieces
+<laplace=1>	       13.0	Quiz
+        5.0	<laplace=1>	izzit
+        5.0	<laplace=1>	iam
+        7.0	<laplace=1>	unless
+        4.0	<laplace=1>	birla
+        3.0	<laplace=1>	Under
+<laplace=1>	        3.0	Team
+       54.0	       56.0	free
+        3.0	        3.0	babes
+        5.0	<laplace=1>	KATE
+<laplace=1>	        3.0	GHOST
+        5.0	<laplace=1>	HAD
+       45.0	        4.0	people
+<laplace=1>	       11.0	FreeMsg
+<laplace=1>	        3.0	win-82050
+       22.0	<laplace=1>	actually
+<laplace=1>	        6.0	comuk
+       20.0	<laplace=1>	face
+<laplace=1>	        4.0	max£7
+        3.0	<laplace=1>	trips
+        4.0	<laplace=1>	afraid
+        4.0	<laplace=1>	fish
+       15.0	<laplace=1>	After
+        3.0	<laplace=1>	Laughing
+        4.0	<laplace=1>	invite
+        3.0	<laplace=1>	calculation
+<laplace=1>	        6.0	Videophones
+        9.0	<laplace=1>	ice
+<laplace=1>	        3.0	Click
+        8.0	<laplace=1>	inside
+<laplace=1>	        3.0	£1250
+       11.0	<laplace=1>	Sounds
+<laplace=1>	        3.0	08706091795
+       11.0	<laplace=1>	whenever
+       11.0	<laplace=1>	leaves
+<laplace=1>	        3.0	Weekly
+<laplace=1>	        7.0	zed
+        4.0	        4.0	five
+        3.0	<laplace=1>	ruin
+        5.0	<laplace=1>	lookin
+        4.0	<laplace=1>	wylie
+        3.0	<laplace=1>	impatient
+        5.0	<laplace=1>	celebrate
+        4.0	<laplace=1>	Tear
+        4.0	<laplace=1>	Pleasure
+       44.0	       19.0	please
+<laplace=1>	       27.0	collection
+        3.0	<laplace=1>	spile
+<laplace=1>	        3.0	PT2
+<laplace=1>	        3.0	01223585334
+<laplace=1>	        3.0	0870241182716
+        7.0	<laplace=1>	slept
+       10.0	<laplace=1>	Does
+        3.0	<laplace=1>	staring
+        3.0	<laplace=1>	YEH
+<laplace=1>	        3.0	Gay
+        3.0	<laplace=1>	kills
+        5.0	<laplace=1>	reasons
+<laplace=1>	       16.0	YES
+        9.0	<laplace=1>	father
+        3.0	<laplace=1>	begging
+        5.0	        8.0	update
+        4.0	<laplace=1>	rule
+       15.0	<laplace=1>	chennai
+        6.0	<laplace=1>	Stupid
+        3.0	<laplace=1>	Cheer
+<laplace=1>	        3.0	EuroDisinc
+        5.0	<laplace=1>	Wheres
+        4.0	<laplace=1>	Oru
+        4.0	<laplace=1>	Pain
+        3.0	<laplace=1>	poem
+        3.0	<laplace=1>	hurting
+       21.0	<laplace=1>	wants
+<laplace=1>	        3.0	Phoenix
+       12.0	<laplace=1>	wonder
+        3.0	<laplace=1>	PUB
+       28.0	       33.0	every
+<laplace=1>	        3.0	09071512433
+        3.0	<laplace=1>	*HAVE
+        3.0	<laplace=1>	answered
+       57.0	        4.0	again
+        3.0	<laplace=1>	2marrow
+        3.0	        8.0	Someone
+        3.0	<laplace=1>	HER
+<laplace=1>	        5.0	Pound
+        3.0	<laplace=1>	jason
+<laplace=1>	        3.0	removal
+       10.0	<laplace=1>	HEY
+        5.0	<laplace=1>	aight
+        8.0	<laplace=1>	Parents
+        7.0	        5.0	Check
+        8.0	<laplace=1>	during
+        3.0	<laplace=1>	fair
+        3.0	<laplace=1>	epsilon
+<laplace=1>	        3.0	LCCLTD
+<laplace=1>	        3.0	Gamestar
+        3.0	<laplace=1>	MORNING
+        7.0	       12.0	price
+        4.0	<laplace=1>	dresser
+<laplace=1>	       12.0	games
+<laplace=1>	        3.0	DATEBox1282EssexCM61XN
+<laplace=1>	        3.0	88088
+        3.0	<laplace=1>	welcomes
+<laplace=1>	        9.0	special-call
+        6.0	<laplace=1>	Gee
+        3.0	<laplace=1>	cherish
+        4.0	<laplace=1>	dislikes
+        3.0	<laplace=1>	dressed
+        3.0	<laplace=1>	agree
+        3.0	<laplace=1>	Captain
+       12.0	        8.0	Our
+        4.0	<laplace=1>	doors
+       10.0	<laplace=1>	itself
+       16.0	<laplace=1>	anyone
+<laplace=1>	        6.0	noline
+       10.0	       35.0	Get
+<laplace=1>	        8.0	08718720201
+<laplace=1>	        3.0	5free
+<laplace=1>	       10.0	£150
+        3.0	<laplace=1>	hoped
+        5.0	<laplace=1>	church
+        6.0	<laplace=1>	callertune
+        3.0	<laplace=1>	requests
+        5.0	<laplace=1>	birds
+        5.0	<laplace=1>	GODI
+<laplace=1>	        5.0	FLAG
+<laplace=1>	        3.0	notxt
+        6.0	<laplace=1>	pictures
+<laplace=1>	        9.0	FREEPHONE
+        4.0	<laplace=1>	foreign
+<laplace=1>	        3.0	Cheap
+        6.0	<laplace=1>	fall
+<laplace=1>	       11.0	wkly
+        4.0	<laplace=1>	finishes
+<laplace=1>	        3.0	DOUBLE
+        3.0	<laplace=1>	andros
+        3.0	<laplace=1>	event
+        7.0	<laplace=1>	wherever
+        6.0	<laplace=1>	Lovable
+<laplace=1>	        7.0	Stockport
+        3.0	<laplace=1>	RANDOM
+<laplace=1>	        3.0	ringtoneking
+        4.0	<laplace=1>	HIM
+<laplace=1>	        5.0	7250i
+       44.0	<laplace=1>	nice
+<laplace=1>	        3.0	Mnths
+        3.0	<laplace=1>	HIS
+        5.0	<laplace=1>	cannot
+<laplace=1>	        3.0	Messaging
+        3.0	<laplace=1>	fake
+       28.0	<laplace=1>	forgot
+        4.0	<laplace=1>	runs
+       46.0	        6.0	first
+<laplace=1>	        3.0	07821230901
+        3.0	<laplace=1>	Done
+        4.0	<laplace=1>	perfect
+        4.0	<laplace=1>	prefer
+        5.0	<laplace=1>	preferably
+        9.0	<laplace=1>	Night
+<laplace=1>	        9.0	U-find
+        4.0	        8.0	ONLY
+        3.0	<laplace=1>	clearly
+<laplace=1>	        7.0	SiPix
+<laplace=1>	        3.0	com/index
+        6.0	<laplace=1>	space
+        5.0	        4.0	reference
+       58.0	        7.0	Dont
+<laplace=1>	        5.0	SkilGme
+<laplace=1>	        3.0	Untamed
+<laplace=1>	        3.0	Crazy
+        5.0	        3.0	arrange
+<laplace=1>	        3.0	call09050000327
+        3.0	<laplace=1>	tahan
+      139.0	      114.0	from
+<laplace=1>	        3.0	Spanish
+<laplace=1>	        8.0	spree
+<laplace=1>	        3.0	MEMBERS
+        3.0	<laplace=1>	SUNDAY
+        4.0	<laplace=1>	bottom
+       62.0	<laplace=1>	ill
+       19.0	<laplace=1>	finished
+        3.0	<laplace=1>	in2
+        3.0	<laplace=1>	Gin
+        3.0	<laplace=1>	mails
+<laplace=1>	        4.0	Mobiles
+        8.0	<laplace=1>	frnd
+<laplace=1>	        4.0	Content
+        3.0	<laplace=1>	replacement
+<laplace=1>	        3.0	visionsms
+       10.0	<laplace=1>	comin
+        3.0	<laplace=1>	repair
+        4.0	<laplace=1>	death
+        6.0	<laplace=1>	advice
+<laplace=1>	        5.0	08715705022
+        3.0	        3.0	membership
+        3.0	<laplace=1>	imp
+        3.0	<laplace=1>	studentsthis
+        3.0	<laplace=1>	SAID
+        5.0	       23.0	network
+        3.0	<laplace=1>	terrorist
+        3.0	<laplace=1>	jealous
+        7.0	<laplace=1>	holding
+        4.0	<laplace=1>	moments
+        5.0	<laplace=1>	public
+       10.0	<laplace=1>	paper
+        4.0	<laplace=1>	roommate
+       36.0	       14.0	Thanks
+<laplace=1>	        4.0	80182
+<laplace=1>	        3.0	SkillGame
+        3.0	<laplace=1>	steam
+        7.0	<laplace=1>	track
+        3.0	<laplace=1>	WEEK
+        3.0	<laplace=1>	value
+<laplace=1>	        8.0	inc
+        5.0	<laplace=1>	listening
+        3.0	<laplace=1>	HIYA
+        3.0	<laplace=1>	verified
+        4.0	<laplace=1>	dificult
+<laplace=1>	        5.0	ip4
+        5.0	<laplace=1>	rush
+        3.0	<laplace=1>	bloodblood
+        6.0	<laplace=1>	expensive
+        8.0	<laplace=1>	Theres
+<laplace=1>	        5.0	HMV
+<laplace=1>	        3.0	£250k
+        3.0	<laplace=1>	trade
+        4.0	       11.0	currently
+        8.0	<laplace=1>	round
+       25.0	        4.0	Tell
+        3.0	<laplace=1>	EVENING*
+<laplace=1>	        9.0	poly
+        7.0	<laplace=1>	GOODMORNING
+        3.0	<laplace=1>	Oooh
+        3.0	<laplace=1>	YOR
+       23.0	       24.0	YOU
+        3.0	<laplace=1>	normally
+        3.0	<laplace=1>	truffles
+        5.0	<laplace=1>	Easy
+        4.0	<laplace=1>	*kiss*
+        3.0	        3.0	PICK
+        5.0	        4.0	SURPRISE
+<laplace=1>	        3.0	YESTERDAY
+        3.0	<laplace=1>	building
+        3.0	<laplace=1>	setting
+        4.0	<laplace=1>	score
+        4.0	<laplace=1>	quote
+<laplace=1>	        3.0	Mila
+        8.0	<laplace=1>	poor
+<laplace=1>	        3.0	09058091854
+        3.0	<laplace=1>	farm
+        4.0	<laplace=1>	Might
+<laplace=1>	        3.0	30pp/txt
+        6.0	<laplace=1>	ran
+       13.0	<laplace=1>	Maybe
+        4.0	<laplace=1>	excellent
+       11.0	<laplace=1>	Oops
+        3.0	<laplace=1>	pool
+        4.0	<laplace=1>	GOIN
+<laplace=1>	        6.0	HOT
+        5.0	<laplace=1>	airport
+       11.0	<laplace=1>	exam
+        6.0	<laplace=1>	HOW
+        8.0	<laplace=1>	persons
+        3.0	<laplace=1>	hurried
+        3.0	<laplace=1>	sorted
+        3.0	        3.0	charges
+<laplace=1>	        3.0	Nasdaq
+        3.0	<laplace=1>	*Missing
+<laplace=1>	        4.0	Activate
+        3.0	<laplace=1>	Part
+        3.0	<laplace=1>	*kisses*
+        3.0	<laplace=1>	Bill
+<laplace=1>	       14.0	800
+        3.0	<laplace=1>	placement
+<laplace=1>	       11.0	charged
+        4.0	<laplace=1>	World*
+<laplace=1>	        4.0	shortly
+       15.0	<laplace=1>	isnt
+        7.0	       13.0	weeks
+        5.0	<laplace=1>	throat
+        4.0	<laplace=1>	Doesnt
+        7.0	<laplace=1>	posted
+        3.0	<laplace=1>	dollar
+        5.0	<laplace=1>	Mind
+        3.0	<laplace=1>	Mine
+<laplace=1>	        5.0	4742
+       14.0	        3.0	close
+       16.0	<laplace=1>	God
+<laplace=1>	        3.0	p£3
+<laplace=1>	        4.0	COMUK
+<laplace=1>	        3.0	rcv
+<laplace=1>	       38.0	awarded
+        3.0	<laplace=1>	abj
+        5.0	<laplace=1>	abi
+        5.0	        4.0	photo
+        5.0	<laplace=1>	Personality
+<laplace=1>	        3.0	Lucozade
+       23.0	        3.0	Got
+<laplace=1>	        3.0	itcould
+       13.0	<laplace=1>	swing
+       24.0	<laplace=1>	abt
+       16.0	<laplace=1>	fast
+<laplace=1>	       16.0	MobileUpd8
+       16.0	        6.0	calling
+        6.0	<laplace=1>	ish
+<laplace=1>	        3.0	register
+        6.0	<laplace=1>	acc
+       13.0	<laplace=1>	couple
+        4.0	<laplace=1>	fave
+        3.0	<laplace=1>	jerk
+        4.0	<laplace=1>	moved
+<laplace=1>	        3.0	blonde
+        3.0	<laplace=1>	itU
+<laplace=1>	        6.0	Gr8
+        3.0	<laplace=1>	red
+<laplace=1>	        3.0	ref
+       14.0	        3.0	post
+        3.0	<laplace=1>	reg
+        4.0	<laplace=1>	shortage
+<laplace=1>	        3.0	08712317606
+       36.0	<laplace=1>	finish
+        6.0	<laplace=1>	rem
+<laplace=1>	        7.0	Camera
+       13.0	<laplace=1>	GOOD
+        3.0	<laplace=1>	coping
+        9.0	<laplace=1>	add
+        3.0	<laplace=1>	educational
+<laplace=1>	        5.0	unredeemed
+<laplace=1>	       10.0	Mins
+      185.0	        8.0	its
+        5.0	<laplace=1>	respect
+        3.0	<laplace=1>	shelf
+<laplace=1>	        3.0	ads
+        4.0	<laplace=1>	ache
+        4.0	<laplace=1>	6pm
+        7.0	<laplace=1>	cine
+        6.0	<laplace=1>	shell
+<laplace=1>	        3.0	Bray
+       33.0	        7.0	guys
+        3.0	<laplace=1>	waheed
+        4.0	<laplace=1>	STUPID
+<laplace=1>	        3.0	ONTO
+        8.0	<laplace=1>	trust
+<laplace=1>	        3.0	MOBNO
+        3.0	<laplace=1>	joining
+        6.0	<laplace=1>	searching
+        8.0	        5.0	choose
+        3.0	<laplace=1>	jeans
+        3.0	<laplace=1>	miles
+        4.0	<laplace=1>	behave
+        3.0	<laplace=1>	disturbing
+<laplace=1>	        4.0	previously
+       13.0	<laplace=1>	happiness
+       38.0	<laplace=1>	sorry
+<laplace=1>	        5.0	handset
+       29.0	<laplace=1>	ive
+        3.0	<laplace=1>	bills
+<laplace=1>	       17.0	08000930705
+        3.0	<laplace=1>	HUN
+        5.0	        3.0	WELL
+        3.0	<laplace=1>	practicing
+<laplace=1>	        6.0	Holder
+        3.0	<laplace=1>	BEAUTIFUL
+        4.0	<laplace=1>	Baby
+        3.0	<laplace=1>	jess
+       59.0	       26.0	message
+       16.0	<laplace=1>	aft
+        3.0	<laplace=1>	crap
+        7.0	<laplace=1>	truth
+<laplace=1>	        3.0	861
+        3.0	<laplace=1>	Sleeping
+<laplace=1>	        4.0	Rental
+        5.0	<laplace=1>	AGAIN
+        3.0	<laplace=1>	moves
+<laplace=1>	        9.0	Club
+       14.0	        3.0	Babe
+       12.0	<laplace=1>	dude
+        7.0	<laplace=1>	Carlos
+        3.0	<laplace=1>	7ish
+        3.0	<laplace=1>	Fails
+        6.0	<laplace=1>	age
+        3.0	        3.0	enjoyed
+       15.0	<laplace=1>	college
+<laplace=1>	        3.0	08452810075over18s
+<laplace=1>	        3.0	Cornwall
+       18.0	<laplace=1>	movie
+       12.0	<laplace=1>	ago
+       16.0	        6.0	years
+       59.0	       29.0	number
+       47.0	<laplace=1>	Gud
+        5.0	        3.0	Back
+        3.0	<laplace=1>	property
+<laplace=1>	        6.0	1x150p/wk
+<laplace=1>	       12.0	//www
+        9.0	<laplace=1>	aha
+        7.0	<laplace=1>	DARLIN
+        4.0	<laplace=1>	shorter
+        3.0	<laplace=1>	eggs
+       18.0	        3.0	nothing
+        4.0	<laplace=1>	Havnt
+        3.0	<laplace=1>	testing
+        4.0	<laplace=1>	Tessy
+        5.0	<laplace=1>	handle
+        5.0	<laplace=1>	6th
+        8.0	<laplace=1>	tough
+        3.0	<laplace=1>	happily
+        7.0	<laplace=1>	system
+<laplace=1>	        4.0	Loan
+       11.0	<laplace=1>	Miss
+<laplace=1>	        3.0	XxX
+        3.0	<laplace=1>	silver
+        4.0	<laplace=1>	WENT
+<laplace=1>	       42.0	Nokia
+        3.0	<laplace=1>	blessing
+       49.0	        4.0	other
+        3.0	<laplace=1>	$900
+        3.0	<laplace=1>	Networking
+        3.0	<laplace=1>	city
+        4.0	<laplace=1>	Meeting
+       10.0	<laplace=1>	uncle
+       10.0	        3.0	HAVE
+<laplace=1>	        3.0	moby
+        6.0	<laplace=1>	air
+<laplace=1>	        3.0	t-c
+        3.0	<laplace=1>	courage
+<laplace=1>	        6.0	local
+<laplace=1>	       10.0	10p/min
+        3.0	<laplace=1>	defeat
+<laplace=1>	        3.0	10am-9pm
+        3.0	<laplace=1>	decisions
+       13.0	        7.0	speak
+<laplace=1>	        7.0	Dogging
+       16.0	<laplace=1>	nite
+        3.0	<laplace=1>	Yetunde
+        4.0	       41.0	Text
+        3.0	<laplace=1>	tacos
+        3.0	<laplace=1>	filled
+        3.0	<laplace=1>	spoiled
+<laplace=1>	       18.0	vouchers
+        4.0	<laplace=1>	boat
+        3.0	<laplace=1>	Fear
+        3.0	<laplace=1>	gastroenteritis
+        4.0	        4.0	future
+<laplace=1>	        3.0	Msg150p
+        4.0	<laplace=1>	Including
+        6.0	<laplace=1>	moan
+        3.0	<laplace=1>	royal
+        3.0	<laplace=1>	signing
+        6.0	<laplace=1>	theyre
+       22.0	<laplace=1>	DECIMAL
+        7.0	<laplace=1>	body
+        5.0	       14.0	points
+<laplace=1>	        3.0	07786200117
+        9.0	<laplace=1>	mode
+        3.0	<laplace=1>	*Number
+        3.0	<laplace=1>	amongst
+        3.0	<laplace=1>	COMIN
+<laplace=1>	        4.0	114/14
+        3.0	<laplace=1>	buffet
+        4.0	<laplace=1>	Aftr
+      193.0	       26.0	all
+       48.0	<laplace=1>	always
+        3.0	<laplace=1>	GOODNIGHT
+        9.0	<laplace=1>	read
+       86.0	<laplace=1>	already
+        3.0	<laplace=1>	THANKS
+        7.0	        7.0	Guess
+       15.0	<laplace=1>	touch
+        4.0	<laplace=1>	WERE
+        4.0	<laplace=1>	clock
+       23.0	       10.0	real
+        3.0	<laplace=1>	rumour
+        6.0	<laplace=1>	cafe
+        5.0	<laplace=1>	Transaction
+        4.0	<laplace=1>	telphone
+        3.0	<laplace=1>	monthly
+        5.0	       18.0	collect
+        3.0	<laplace=1>	applebees
+<laplace=1>	        3.0	Costs
+        6.0	<laplace=1>	amt
+        5.0	<laplace=1>	favour
+        3.0	<laplace=1>	simpler
+        3.0	<laplace=1>	ron
+      601.0	      106.0	and
+       65.0	        4.0	Pls
+      107.0	       15.0	today
+        4.0	<laplace=1>	Daddy
+        6.0	<laplace=1>	minuts
+        5.0	<laplace=1>	Stylish
+       20.0	<laplace=1>	saying
+        4.0	<laplace=1>	row
+<laplace=1>	        4.0	89555
+<laplace=1>	        3.0	88222
+        8.0	<laplace=1>	Plz
+        5.0	<laplace=1>	Gravity
+        4.0	<laplace=1>	fifteen
+<laplace=1>	        4.0	THERES
+<laplace=1>	        3.0	recd
+        8.0	<laplace=1>	sucks
+<laplace=1>	        3.0	wallpaper
+<laplace=1>	        3.0	WKENT/150P16+
+        6.0	<laplace=1>	looked
+        4.0	<laplace=1>	responce
+        7.0	        5.0	ans
+        3.0	<laplace=1>	Feel
+       92.0	       24.0	any
+       13.0	        8.0	minute
+<laplace=1>	        8.0	Costa
+        4.0	<laplace=1>	caring
+<laplace=1>	        5.0	singles
+<laplace=1>	        3.0	TEXTBUDDY
+        3.0	<laplace=1>	application
+       11.0	<laplace=1>	shes
+        5.0	<laplace=1>	Looks
+       22.0	        6.0	until
+       12.0	<laplace=1>	semester
+<laplace=1>	        3.0	5249
+<laplace=1>	        4.0	89545
+       11.0	<laplace=1>	reason
+        3.0	<laplace=1>	silently
+        5.0	<laplace=1>	armand
+       40.0	<laplace=1>	thought
+        3.0	<laplace=1>	taste
+        3.0	<laplace=1>	ship
+<laplace=1>	        3.0	Male
+<laplace=1>	        3.0	NOKIA6600
+<laplace=1>	        3.0	08718738001
+        4.0	<laplace=1>	anywhere
+<laplace=1>	        7.0	Max10mins
+        4.0	<laplace=1>	Bstfrnd
+<laplace=1>	        8.0	maximize
+       12.0	<laplace=1>	*grins*
+<laplace=1>	        9.0	08712460324
+<laplace=1>	        6.0	83355
+        3.0	<laplace=1>	jan
+        8.0	<laplace=1>	cake
+<laplace=1>	        5.0	Box39822
+        5.0	<laplace=1>	english
+        7.0	<laplace=1>	Sweet
+        3.0	        3.0	NOTHING
+        4.0	<laplace=1>	gentle
+        3.0	<laplace=1>	jas
+<laplace=1>	        3.0	MTALK
+       21.0	        5.0	shopping
+        3.0	        5.0	app
+        8.0	        3.0	using
+        7.0	<laplace=1>	jay
+        5.0	<laplace=1>	broke
+<laplace=1>	        3.0	Unbreakable
+        9.0	        3.0	Make
+        3.0	<laplace=1>	completed
+        3.0	<laplace=1>	demand
+        4.0	<laplace=1>	alex
+        5.0	<laplace=1>	letter
+<laplace=1>	        3.0	EXPLOSIVE
+        3.0	<laplace=1>	IAS
+<laplace=1>	        7.0	norm150p/tone
+        4.0	<laplace=1>	Melle
+<laplace=1>	        3.0	Bank
+        6.0	<laplace=1>	Wishing
+       14.0	<laplace=1>	Yar
+        4.0	<laplace=1>	handed
+        3.0	<laplace=1>	cookies
+<laplace=1>	        3.0	IBH
+        5.0	       13.0	worth
+        4.0	<laplace=1>	morphine
+        4.0	<laplace=1>	Yay
+       13.0	<laplace=1>	ard
+<laplace=1>	        3.0	Cust
+        3.0	<laplace=1>	IBN
+      297.0	       76.0	are
+        5.0	<laplace=1>	taken
+       26.0	<laplace=1>	came
+        3.0	<laplace=1>	grace
+       64.0	<laplace=1>	where
+        3.0	<laplace=1>	penis
+        6.0	<laplace=1>	Many
+       12.0	        5.0	takes
+        3.0	<laplace=1>	arm
+        4.0	<laplace=1>	kids
+        3.0	<laplace=1>	broken
+        4.0	<laplace=1>	art
+<laplace=1>	       10.0	£200
+        3.0	<laplace=1>	*deep
+        6.0	       16.0	Had
+        3.0	<laplace=1>	Haf
+<laplace=1>	        3.0	021
+      196.0	      175.0	call
+       21.0	        5.0	Great
+        4.0	<laplace=1>	Hai
+        3.0	<laplace=1>	Sleep
+        6.0	        3.0	kick
+<laplace=1>	       13.0	un-redeemed
+<laplace=1>	        7.0	Choose
+<laplace=1>	        4.0	Music
+       80.0	<laplace=1>	ask
+<laplace=1>	        4.0	***********
+<laplace=1>	        3.0	Meet+Greet
+        4.0	<laplace=1>	Hav
+        3.0	<laplace=1>	rub
+<laplace=1>	        3.0	08002888812
+<laplace=1>	        3.0	asp
+       12.0	<laplace=1>	through
+<laplace=1>	       15.0	£250
+        3.0	<laplace=1>	Hrishi
+        3.0	<laplace=1>	THERE
+<laplace=1>	        3.0	Algarve
+<laplace=1>	        5.0	50/week
+<laplace=1>	        3.0	lifetime
+      104.0	<laplace=1>	cant
+       24.0	<laplace=1>	run
+        3.0	<laplace=1>	itwhichturnedinto
+        5.0	<laplace=1>	mother
+        4.0	<laplace=1>	Jokes
+       12.0	       11.0	either
+        7.0	<laplace=1>	ate
+<laplace=1>	        4.0	SUBPOLY
+       20.0	<laplace=1>	yourself
+<laplace=1>	        3.0	Tickets
+        4.0	<laplace=1>	atm
+        3.0	        4.0	results
+<laplace=1>	        4.0	newest
+       24.0	<laplace=1>	those
+       22.0	<laplace=1>	worry
+<laplace=1>	        3.0	09058099801
+        4.0	<laplace=1>	parked
+        4.0	<laplace=1>	Cute
+        4.0	<laplace=1>	Bring
+<laplace=1>	        8.0	62468
+        8.0	<laplace=1>	bold
+        8.0	<laplace=1>	worse
+        7.0	<laplace=1>	screaming
+<laplace=1>	        4.0	4-tc
+        8.0	<laplace=1>	longer
+        3.0	<laplace=1>	everywhere
+       30.0	        9.0	name
+        4.0	<laplace=1>	Long
+        4.0	<laplace=1>	shld
+        4.0	<laplace=1>	selling
+        3.0	<laplace=1>	worst
+       20.0	<laplace=1>	leaving
+<laplace=1>	        3.0	83383
+        4.0	<laplace=1>	Maintain
+        6.0	<laplace=1>	Christmas
+       14.0	<laplace=1>	shop
+        9.0	<laplace=1>	mood
+        4.0	<laplace=1>	distance
+        9.0	<laplace=1>	Yep
+       72.0	<laplace=1>	Yes
+        4.0	<laplace=1>	prospects
+       16.0	        3.0	book
+        3.0	<laplace=1>	truck
+       22.0	<laplace=1>	show
+        4.0	<laplace=1>	Leave
+        7.0	<laplace=1>	Mark
+        3.0	<laplace=1>	shot
+        3.0	<laplace=1>	recession
+        3.0	<laplace=1>	bhaji
+        5.0	<laplace=1>	DOIN
+<laplace=1>	        3.0	mono
+        4.0	<laplace=1>	ave
+        9.0	<laplace=1>	pizza
+       10.0	<laplace=1>	HAPPY
+        8.0	<laplace=1>	street
+<laplace=1>	        7.0	arrive
+<laplace=1>	        3.0	09065989182
+        4.0	        5.0	Shopping
+        3.0	<laplace=1>	hence
+<laplace=1>	        3.0	Pub
+       12.0	<laplace=1>	Hee
+        4.0	<laplace=1>	valentine
+        5.0	<laplace=1>	Put
+        3.0	<laplace=1>	mouth
+       18.0	<laplace=1>	Whats
+        3.0	<laplace=1>	nervous
+        6.0	<laplace=1>	Hes
+        4.0	<laplace=1>	stranger
+        9.0	<laplace=1>	moms
+       93.0	        6.0	Hey
+<laplace=1>	        5.0	tkts
+<laplace=1>	        8.0	Landline
+        4.0	        5.0	fancy
+        3.0	<laplace=1>	birthdate
+        7.0	<laplace=1>	bugis
+<laplace=1>	        3.0	collected
+<laplace=1>	        3.0	28days
+        9.0	<laplace=1>	rent
+        5.0	<laplace=1>	Goodnight
+        3.0	<laplace=1>	FINISH
+<laplace=1>	        4.0	subscribed
+        4.0	<laplace=1>	shirts
+        3.0	<laplace=1>	slice
+        6.0	<laplace=1>	jiu
+        3.0	<laplace=1>	broad
+       29.0	<laplace=1>	princess
+        3.0	        4.0	truly
+       13.0	       43.0	cash
+       12.0	<laplace=1>	case
+        3.0	<laplace=1>	castor
+<laplace=1>	        3.0	50/msg
+<laplace=1>	        3.0	subscriber
+        3.0	<laplace=1>	durban
+<laplace=1>	        8.0	HG/Suite342/2Lands
+<laplace=1>	        7.0	matches
+        9.0	<laplace=1>	sunday
+        6.0	<laplace=1>	cars
+        4.0	<laplace=1>	moon
+<laplace=1>	        3.0	08709222922
+       75.0	       34.0	phone
+<laplace=1>	       22.0	Valid
+        3.0	<laplace=1>	inconsiderate
+        3.0	<laplace=1>	ayn
+        8.0	<laplace=1>	style
+       14.0	<laplace=1>	card
+       62.0	        5.0	care
+<laplace=1>	        7.0	150pm
+        5.0	<laplace=1>	boss
+<laplace=1>	        6.0	XCHAT
+        4.0	<laplace=1>	settle
+        3.0	<laplace=1>	pattern
+        3.0	<laplace=1>	babies
+        6.0	<laplace=1>	pple
+        3.0	<laplace=1>	scrounge
+        3.0	<laplace=1>	madam
+<laplace=1>	        9.0	admirer
+        3.0	<laplace=1>	scold
+        3.0	<laplace=1>	freedom
+        3.0	<laplace=1>	kappa
+        3.0	<laplace=1>	protect
+        5.0	<laplace=1>	cooking
+        4.0	<laplace=1>	stress
+<laplace=1>	        3.0	09064011000
+       74.0	       20.0	more
+        4.0	<laplace=1>	display
+        3.0	<laplace=1>	born
+<laplace=1>	       13.0	anytime
+        7.0	<laplace=1>	Moral
+        4.0	<laplace=1>	morn
+<laplace=1>	        3.0	NAME2
+<laplace=1>	        3.0	NAME1
+        4.0	<laplace=1>	Jstfrnd
+        7.0	<laplace=1>	His
+        4.0	<laplace=1>	iouri
+        4.0	        7.0	Wanna
+        3.0	<laplace=1>	diamonds
+        4.0	<laplace=1>	shut
+       14.0	<laplace=1>	bout
+        7.0	<laplace=1>	Beautiful
+        8.0	        4.0	luck
+        3.0	<laplace=1>	ILL
+        7.0	<laplace=1>	simple
+<laplace=1>	        3.0	TEXTPOD
+        3.0	<laplace=1>	Super
+<laplace=1>	        3.0	09066358152
+        5.0	<laplace=1>	TELL
+        4.0	<laplace=1>	talent
+        3.0	<laplace=1>	Mayb
+        3.0	<laplace=1>	absolutly
+        5.0	<laplace=1>	totally
+        3.0	<laplace=1>	connections
+        5.0	        3.0	DONE
+        3.0	<laplace=1>	package
+<laplace=1>	        3.0	unsub
+        3.0	<laplace=1>	forgiven
+        4.0	<laplace=1>	king
+       14.0	<laplace=1>	kind
+        6.0	<laplace=1>	timing
+<laplace=1>	        4.0	postcode
+       19.0	<laplace=1>	Dunno
+        3.0	<laplace=1>	Vodka
+       17.0	<laplace=1>	both
+       14.0	        8.0	important
+       21.0	        3.0	most
+        5.0	<laplace=1>	Missing
+        4.0	<laplace=1>	ACCEPT
+        4.0	<laplace=1>	transfer
+<laplace=1>	        3.0	Eerie
+       26.0	<laplace=1>	Love
+        3.0	        5.0	daily
+        5.0	<laplace=1>	affection
+       44.0	<laplace=1>	job
+        4.0	<laplace=1>	eaten
+        3.0	<laplace=1>	correction
+        6.0	<laplace=1>	eatin
+<laplace=1>	        5.0	largest
+        5.0	<laplace=1>	Princess
+        3.0	<laplace=1>	jiayin
+        4.0	<laplace=1>	malaria
+        3.0	<laplace=1>	INR
+        5.0	<laplace=1>	bowl
+<laplace=1>	        3.0	Hlp
+       11.0	<laplace=1>	Shall
+<laplace=1>	        5.0	fromm
+        4.0	<laplace=1>	takin
+        3.0	<laplace=1>	causing
+        4.0	<laplace=1>	*WaitU
+        3.0	<laplace=1>	billion
+        4.0	<laplace=1>	Atlanta
+        5.0	<laplace=1>	joy
+       16.0	<laplace=1>	sad
+        9.0	<laplace=1>	miracle
+<laplace=1>	        3.0	GENDER
+<laplace=1>	        4.0	profit
+       11.0	<laplace=1>	rest
+       12.0	<laplace=1>	move
+        6.0	<laplace=1>	amount
+<laplace=1>	        5.0	original
+        3.0	<laplace=1>	album
+       23.0	<laplace=1>	sat
+        3.0	<laplace=1>	30ish
+       23.0	<laplace=1>	saw
+        3.0	<laplace=1>	snogs
+       12.0	<laplace=1>	Hmm
+       51.0	        4.0	also
+       80.0	<laplace=1>	say
+       28.0	        3.0	enough
+       12.0	<laplace=1>	gets
+       23.0	<laplace=1>	afternoon
+        4.0	<laplace=1>	favor
+        3.0	<laplace=1>	front
+<laplace=1>	        7.0	flights
+      182.0	       77.0	You
+        3.0	<laplace=1>	simply
+<laplace=1>	       33.0	Claim
+        5.0	       40.0	customer
+<laplace=1>	        8.0	custcare
+        4.0	<laplace=1>	plane
+<laplace=1>	        3.0	89693
+        6.0	<laplace=1>	stupid
+       29.0	<laplace=1>	bad
+        6.0	       12.0	Stop
+        8.0	<laplace=1>	bag
+        4.0	<laplace=1>	boys
+        8.0	<laplace=1>	awake
+        3.0	<laplace=1>	Black
+        6.0	        3.0	gettin
+       14.0	<laplace=1>	kiss
+        6.0	<laplace=1>	bak
+        7.0	       12.0	offer
+        3.0	<laplace=1>	ruining
+        3.0	<laplace=1>	bar
+        4.0	<laplace=1>	bat
+<laplace=1>	        4.0	08000938767
+<laplace=1>	        3.0	ldew
+       21.0	<laplace=1>	sch
+        6.0	        4.0	cinema
+        5.0	<laplace=1>	bay
+        7.0	<laplace=1>	BIRTHDAY
+        3.0	<laplace=1>	violated
+        3.0	       14.0	mates
+        3.0	<laplace=1>	wipro
+        5.0	        3.0	personal
+       15.0	<laplace=1>	angry
+<laplace=1>	        3.0	Hot
+        6.0	<laplace=1>	HEART
+        3.0	<laplace=1>	GMGNGEGNT
+      136.0	        6.0	How
+<laplace=1>	        3.0	Strong-Buy
+        3.0	<laplace=1>	delay
+        3.0	<laplace=1>	aburo
+       12.0	<laplace=1>	plans
+        4.0	<laplace=1>	SOMETHING
+        4.0	<laplace=1>	cannt
+        4.0	<laplace=1>	boye
+        5.0	<laplace=1>	Jada
+       18.0	<laplace=1>	drive
+<laplace=1>	        4.0	87021
+        9.0	<laplace=1>	deal
+        5.0	<laplace=1>	strong
+        6.0	<laplace=1>	jst
+        9.0	<laplace=1>	dead
+        8.0	<laplace=1>	eyes
+       15.0	<laplace=1>	sea
+<laplace=1>	        3.0	92H
+        6.0	<laplace=1>	sec
+      116.0	       10.0	see
+        6.0	<laplace=1>	sed
+        3.0	<laplace=1>	responsibility
+        3.0	<laplace=1>	930
+<laplace=1>	        8.0	national
+        3.0	<laplace=1>	sem
+<laplace=1>	        3.0	indicate
+<laplace=1>	        3.0	customers
+       64.0	<laplace=1>	dear
+       12.0	<laplace=1>	Abiola
+        5.0	<laplace=1>	sen
+       19.0	<laplace=1>	set
+<laplace=1>	        3.0	dogging
+        7.0	        3.0	joined
+<laplace=1>	        3.0	fastest
+<laplace=1>	        3.0	4882
+        3.0	<laplace=1>	jobs
+<laplace=1>	        7.0	sex
+       20.0	<laplace=1>	words
+        4.0	<laplace=1>	medicine
+        6.0	        7.0	entered
+<laplace=1>	        3.0	4403LDNW1A7RW18
+        5.0	<laplace=1>	Near
+        3.0	<laplace=1>	battle
+       11.0	<laplace=1>	awesome
+        3.0	<laplace=1>	refilled
+<laplace=1>	        3.0	Promo
+       11.0	<laplace=1>	Year
+        3.0	<laplace=1>	gifted
+        3.0	<laplace=1>	difficulties
+        3.0	<laplace=1>	MINE
+       57.0	<laplace=1>	Yeah
+<laplace=1>	        3.0	Drinks
+        3.0	<laplace=1>	river
+       28.0	<laplace=1>	bed
+        5.0	<laplace=1>	rooms
+        4.0	<laplace=1>	DOWN
+       21.0	<laplace=1>	jus
+       10.0	<laplace=1>	ITS
+<laplace=1>	        3.0	09064019014
+        3.0	<laplace=1>	ben
+        7.0	<laplace=1>	lemme
+       20.0	<laplace=1>	juz
+        5.0	<laplace=1>	bet
+        8.0	        4.0	Need
+        3.0	<laplace=1>	shipping
+        3.0	<laplace=1>	*Sent
+       12.0	       57.0	contact
+        3.0	<laplace=1>	excuses
+<laplace=1>	       11.0	Latest
+<laplace=1>	        6.0	87077
+<laplace=1>	        4.0	WC1N3XX
+        3.0	<laplace=1>	Kallis
+        4.0	<laplace=1>	teasing
+<laplace=1>	        3.0	INFORMATION
+        4.0	<laplace=1>	l8r
+<laplace=1>	        3.0	CLUB
+        5.0	<laplace=1>	sha
+        8.0	<laplace=1>	shd
+<laplace=1>	        3.0	09066362231
+       77.0	<laplace=1>	she
+        4.0	<laplace=1>	Yun
+       44.0	<laplace=1>	Yup
+        4.0	<laplace=1>	IVE
+        4.0	<laplace=1>	macho
+       12.0	<laplace=1>	party
+       26.0	        4.0	little
+<laplace=1>	       14.0	87066
+        8.0	        7.0	lucky
+        7.0	<laplace=1>	however
+        4.0	<laplace=1>	Immediately
+        8.0	<laplace=1>	deep
+        9.0	<laplace=1>	booked
+        3.0	<laplace=1>	shy
+        4.0	<laplace=1>	BABY
+        3.0	<laplace=1>	greetings
+        4.0	<laplace=1>	Msg*
+       45.0	        5.0	getting
+        6.0	<laplace=1>	sim
+        3.0	<laplace=1>	aunt
+        5.0	<laplace=1>	MISS
+<laplace=1>	       20.0	await
+       12.0	<laplace=1>	Huh
+        4.0	<laplace=1>	Solve
+       11.0	<laplace=1>	BABE
+       18.0	<laplace=1>	sis
+       19.0	<laplace=1>	sir
+<laplace=1>	        4.0	150ppermessSubscription
+        8.0	<laplace=1>	sit
+<laplace=1>	        7.0	AGE
+       49.0	       10.0	over
+        3.0	<laplace=1>	brilliant
+        3.0	<laplace=1>	living
+       13.0	<laplace=1>	frnds
+        3.0	<laplace=1>	practical
+<laplace=1>	        3.0	41685
+        5.0	<laplace=1>	wearing
+        3.0	<laplace=1>	AGO
+<laplace=1>	        4.0	Euro2004
+        5.0	<laplace=1>	obviously
+        5.0	<laplace=1>	7th
+        3.0	<laplace=1>	football
+       37.0	<laplace=1>	dinner
+        6.0	<laplace=1>	realy
+        3.0	<laplace=1>	congrats
+<laplace=1>	        4.0	LdnW15H
+        3.0	<laplace=1>	Mandan
+        6.0	<laplace=1>	BACK
+        3.0	<laplace=1>	avoid
+<laplace=1>	        4.0	bid
+       34.0	<laplace=1>	big
+<laplace=1>	        4.0	45239
+        5.0	<laplace=1>	bin
+       13.0	<laplace=1>	Which
+        3.0	        9.0	TEXT
+       10.0	<laplace=1>	sick
+       40.0	<laplace=1>	bit
+        4.0	<laplace=1>	fightng
+       25.0	<laplace=1>	thanks
+<laplace=1>	        3.0	improved
+<laplace=1>	        4.0	8WP
+<laplace=1>	        3.0	CDGT
+<laplace=1>	        8.0	biz
+<laplace=1>	        3.0	Msgs
+        3.0	<laplace=1>	recognise
+<laplace=1>	        3.0	warranty
+        8.0	<laplace=1>	model
+       12.0	       10.0	join
+        3.0	<laplace=1>	reduce
+        4.0	<laplace=1>	sentence
+<laplace=1>	        3.0	free-send
+        4.0	<laplace=1>	satisfied
+       78.0	        8.0	tomorrow
+<laplace=1>	        6.0	videochat
+        5.0	<laplace=1>	hella
+       16.0	<laplace=1>	drink
+        7.0	<laplace=1>	India
+<laplace=1>	        3.0	Yahoo
+        3.0	<laplace=1>	MADE
+        3.0	<laplace=1>	slp
+        5.0	<laplace=1>	john
+        6.0	<laplace=1>	hello
+        3.0	<laplace=1>	begin
+<laplace=1>	        4.0	Germany
+        7.0	<laplace=1>	works
+        3.0	<laplace=1>	brought
+<laplace=1>	        4.0	StarWars3
+        4.0	<laplace=1>	alive
+<laplace=1>	        5.0	Ibiza
+       25.0	        6.0	weekend
+<laplace=1>	        8.0	camcorder
+       10.0	<laplace=1>	frens
+       19.0	<laplace=1>	thinking
+        4.0	<laplace=1>	finishing
+        4.0	<laplace=1>	Margaret
+       24.0	<laplace=1>	world
+        3.0	<laplace=1>	vale
+       20.0	<laplace=1>	theres
+        4.0	<laplace=1>	Ptbo
+       12.0	        8.0	sms
+        4.0	<laplace=1>	hopefully
+       27.0	<laplace=1>	everything
+        8.0	        6.0	urgent
+        3.0	<laplace=1>	table
+       14.0	<laplace=1>	side
+        3.0	<laplace=1>	bread
+<laplace=1>	        4.0	pence
+       12.0	<laplace=1>	break
+       21.0	<laplace=1>	missed
+       18.0	<laplace=1>	change
+        3.0	<laplace=1>	restaurant
+        4.0	<laplace=1>	tirupur
+        5.0	<laplace=1>	joke
+<laplace=1>	        5.0	Gift
+        5.0	<laplace=1>	report
+        4.0	<laplace=1>	Toll
+        5.0	<laplace=1>	married
+        4.0	<laplace=1>	Vettam
+        9.0	        3.0	ALL
+        4.0	<laplace=1>	auto
+        3.0	<laplace=1>	constant
+        3.0	<laplace=1>	Cardiff
+        3.0	<laplace=1>	FEEL
+        6.0	<laplace=1>	surfing
+        7.0	        3.0	sign
+        3.0	<laplace=1>	several
+       12.0	<laplace=1>	Alright
+        3.0	<laplace=1>	Didnt
+       31.0	<laplace=1>	office
+       16.0	<laplace=1>	Nothing
+        5.0	<laplace=1>	instituitions
+        3.0	<laplace=1>	plaza
+        9.0	        3.0	download
+        5.0	<laplace=1>	high
+        4.0	<laplace=1>	falls
+        3.0	<laplace=1>	tirunelvali
+        4.0	<laplace=1>	phne
+        7.0	<laplace=1>	directly
+        4.0	<laplace=1>	Something
+       11.0	<laplace=1>	different
+        3.0	<laplace=1>	officially
+        3.0	<laplace=1>	Executive
+        7.0	<laplace=1>	kano
+        3.0	<laplace=1>	ttyl
+        3.0	<laplace=1>	poker
+<laplace=1>	        5.0	Terms
+        3.0	       12.0	Double
+<laplace=1>	        3.0	EURO2004
+        3.0	<laplace=1>	Xuhui
+<laplace=1>	        8.0	Tone
+        9.0	        4.0	AND
+        3.0	<laplace=1>	attached
+        3.0	<laplace=1>	jolt
+        8.0	<laplace=1>	parents
+       23.0	<laplace=1>	birthday
+        3.0	<laplace=1>	Before
+        4.0	<laplace=1>	Dictionary
+        3.0	<laplace=1>	behind
+<laplace=1>	        3.0	2stop
+        3.0	<laplace=1>	boo
+        6.0	<laplace=1>	box
+        3.0	<laplace=1>	mental
+        3.0	<laplace=1>	installing
+       20.0	<laplace=1>	boy
+        3.0	<laplace=1>	karaoke
+        3.0	<laplace=1>	upstairs
+<laplace=1>	        5.0	1/2
+        4.0	<laplace=1>	loses
+        3.0	<laplace=1>	1-u
+        5.0	<laplace=1>	Height
+        3.0	<laplace=1>	Winning
+<laplace=1>	        3.0	console
+       12.0	       20.0	chance
+        4.0	<laplace=1>	5min
+        6.0	<laplace=1>	social
+        3.0	<laplace=1>	sells
+        3.0	<laplace=1>	nature
+        6.0	<laplace=1>	interesting
+<laplace=1>	        4.0	cross
+        3.0	<laplace=1>	control
+        3.0	<laplace=1>	loxahatchee
+<laplace=1>	       16.0	100
+        5.0	<laplace=1>	earth
+<laplace=1>	        3.0	week-stop
+<laplace=1>	        3.0	Linerental
+        3.0	<laplace=1>	sry
+        3.0	<laplace=1>	dancing
+<laplace=1>	        7.0	vary
+       10.0	<laplace=1>	Friends
+        4.0	<laplace=1>	mummy
+<laplace=1>	        3.0	age23
+        3.0	<laplace=1>	fighting
+<laplace=1>	        3.0	10K
+       11.0	<laplace=1>	somewhere
+<laplace=1>	        3.0	09061743386
+<laplace=1>	        7.0	Saturday
+        4.0	<laplace=1>	I€˜ll
+<laplace=1>	        3.0	113
+<laplace=1>	        3.0	msgs@150p
+       11.0	<laplace=1>	Never
+        3.0	<laplace=1>	horrible
+        3.0	<laplace=1>	skyped
+       33.0	       12.0	friend
+<laplace=1>	        3.0	61200
+<laplace=1>	        5.0	9AE
+        4.0	<laplace=1>	bro
+<laplace=1>	        3.0	prompts
+        4.0	<laplace=1>	alcohol
+<laplace=1>	       10.0	std
+        9.0	<laplace=1>	tonite
+        4.0	<laplace=1>	pleasure
+<laplace=1>	        3.0	moreFrmMob
+       65.0	<laplace=1>	morning
+        3.0	<laplace=1>	accept
+        4.0	<laplace=1>	str
+<laplace=1>	        4.0	121
+<laplace=1>	       15.0	10p
+        6.0	        5.0	2day
+        4.0	<laplace=1>	Iam
+        9.0	        3.0	ARE
+        3.0	<laplace=1>	luvs
+        4.0	<laplace=1>	2morrow
+<laplace=1>	        4.0	e-tlp
+        3.0	<laplace=1>	appreciated
+        4.0	<laplace=1>	xxxx
+        4.0	<laplace=1>	Anyways
+        3.0	<laplace=1>	MRNG
+        4.0	<laplace=1>	stops
+<laplace=1>	        5.0	conditions
+        9.0	<laplace=1>	lessons
+        3.0	<laplace=1>	sub
+        3.0	        6.0	access
+        3.0	<laplace=1>	jogging
+       14.0	<laplace=1>	sun
+        6.0	<laplace=1>	sup
+        3.0	<laplace=1>	serving
+        4.0	        3.0	current
+        3.0	<laplace=1>	secretary
+        3.0	<laplace=1>	managed
+<laplace=1>	        4.0	fancies
+        3.0	<laplace=1>	key
+<laplace=1>	        7.0	UNLIMITED
+        5.0	<laplace=1>	surprised
+        3.0	<laplace=1>	LONG
+        3.0	<laplace=1>	Alwys
+        6.0	<laplace=1>	stopped
+        6.0	<laplace=1>	silent
+        3.0	<laplace=1>	addicted
+        3.0	<laplace=1>	8am
+        3.0	<laplace=1>	btw
+        6.0	<laplace=1>	cartoon
+       20.0	<laplace=1>	makes
+       11.0	<laplace=1>	loads
+        4.0	        5.0	store
+        3.0	<laplace=1>	beloved
+<laplace=1>	        3.0	REPLY
+       11.0	<laplace=1>	confirm
+        5.0	<laplace=1>	bud
+        5.0	<laplace=1>	hill
+        4.0	<laplace=1>	JEN
+<laplace=1>	        5.0	145
+<laplace=1>	        3.0	Subs
+<laplace=1>	        3.0	Ring
+<laplace=1>	        3.0	447801259231
+        3.0	<laplace=1>	contacts
+       21.0	<laplace=1>	story
+        3.0	<laplace=1>	laughing
+      283.0	        8.0	but
+       28.0	<laplace=1>	bus
+        3.0	<laplace=1>	Vijay
+<laplace=1>	       24.0	GUARANTEED
+<laplace=1>	        3.0	textoperator
+       56.0	<laplace=1>	buy
+       15.0	<laplace=1>	available
+<laplace=1>	        9.0	150
+        3.0	<laplace=1>	Tease
+<laplace=1>	       36.0	£1000
+<laplace=1>	        3.0	153
+        9.0	<laplace=1>	swt
+        4.0	<laplace=1>	Idk
+        3.0	<laplace=1>	makin
+        3.0	<laplace=1>	instantly
+<laplace=1>	       17.0	Identifier
+<laplace=1>	        3.0	OptOut
+        3.0	<laplace=1>	parco
+        9.0	<laplace=1>	Goodmorning
+<laplace=1>	        3.0	VIOLET
+<laplace=1>	        3.0	callcost
+        9.0	<laplace=1>	wishes
+<laplace=1>	        3.0	Duchess
+        4.0	<laplace=1>	fills
+        4.0	<laplace=1>	vava
+<laplace=1>	        3.0	films
+<laplace=1>	        4.0	voicemail
+<laplace=1>	       26.0	16+
+        3.0	<laplace=1>	vaazhthukkal
+        3.0	<laplace=1>	AVE
+<laplace=1>	        3.0	call2optout/LF56
+        7.0	<laplace=1>	especially
+<laplace=1>	        3.0	169
+       25.0	<laplace=1>	once
+        3.0	<laplace=1>	hint
+        3.0	<laplace=1>	vivek
+        4.0	<laplace=1>	sing
+        3.0	<laplace=1>	KeralaCircle
+<laplace=1>	        8.0	horny
+        4.0	<laplace=1>	LOOK
+<laplace=1>	       10.0	£350
+       86.0	<laplace=1>	doing
+        3.0	<laplace=1>	speeding
+        3.0	<laplace=1>	swatch
+        3.0	<laplace=1>	figures
+<laplace=1>	        5.0	records
+        7.0	<laplace=1>	idea
+        4.0	<laplace=1>	pending
+        5.0	<laplace=1>	thangam
+        3.0	<laplace=1>	kid
+<laplace=1>	        3.0	09061702893
+      103.0	        5.0	What
+<laplace=1>	        3.0	177
+<laplace=1>	        4.0	Bored
+<laplace=1>	        4.0	News
+       16.0	<laplace=1>	missing
+        4.0	<laplace=1>	successful
+        8.0	<laplace=1>	normal
+       11.0	<laplace=1>	lovely
+        9.0	<laplace=1>	figure
+<laplace=1>	        3.0	British
+<laplace=1>	        7.0	age16
+<laplace=1>	       20.0	18+
+        5.0	<laplace=1>	Neva
+<laplace=1>	        3.0	RALLY
+        5.0	<laplace=1>	bye
+        3.0	<laplace=1>	stone
+        3.0	<laplace=1>	deus
+<laplace=1>	        3.0	Travel
+        4.0	<laplace=1>	embarassed
+        5.0	<laplace=1>	nights
+        9.0	        3.0	ones
+<laplace=1>	       10.0	specially
+        3.0	<laplace=1>	Hugs
+        3.0	<laplace=1>	bluff
+        4.0	<laplace=1>	gentleman
+<laplace=1>	       17.0	Account
+       25.0	        6.0	reach
+<laplace=1>	        3.0	LOST
+        6.0	<laplace=1>	childish
+        3.0	<laplace=1>	fringe
+<laplace=1>	       24.0	Orange
+        6.0	        3.0	Give
+        4.0	<laplace=1>	inches
+        4.0	<laplace=1>	seconds
+        8.0	<laplace=1>	road
+        4.0	<laplace=1>	children
+        3.0	        5.0	review
+<laplace=1>	        3.0	2stoptxt
+        7.0	<laplace=1>	weather
+        5.0	<laplace=1>	sight
+        5.0	<laplace=1>	teeth
+        7.0	<laplace=1>	nobody
+       22.0	       11.0	between
+        4.0	<laplace=1>	guide
+<laplace=1>	        5.0	inclusive
+        3.0	<laplace=1>	natural
+        3.0	<laplace=1>	rightly
+        4.0	<laplace=1>	MATE
+<laplace=1>	        5.0	3qxj9
+        4.0	<laplace=1>	Gardener
+        6.0	<laplace=1>	forwarded
+        4.0	<laplace=1>	Honey
+        4.0	<laplace=1>	Swtheart
+        3.0	        6.0	following
+<laplace=1>	        3.0	Next
+        3.0	<laplace=1>	wkend
+        8.0	<laplace=1>	WORK
+        4.0	<laplace=1>	scared
+        3.0	<laplace=1>	racing
+<laplace=1>	        5.0	flag
+        3.0	<laplace=1>	gods
+        6.0	<laplace=1>	wear
+        3.0	<laplace=1>	range
+        3.0	<laplace=1>	mesages
+        5.0	<laplace=1>	weak
+        9.0	<laplace=1>	rock
+       27.0	        3.0	LOVE
+<laplace=1>	        4.0	50perWKsub
+       14.0	<laplace=1>	seeing
+        3.0	<laplace=1>	Tomarrow
+        4.0	<laplace=1>	anythin
+        3.0	<laplace=1>	lovingly
+        6.0	<laplace=1>	flat
+        3.0	<laplace=1>	xavier
+       56.0	        6.0	place
+        3.0	<laplace=1>	regular
+        5.0	        3.0	informed
+        4.0	<laplace=1>	bigger
+       13.0	<laplace=1>	tired
+        4.0	<laplace=1>	suggest
+        6.0	<laplace=1>	lead
+        5.0	<laplace=1>	expect
+<laplace=1>	        6.0	Play
+        6.0	<laplace=1>	site
+       44.0	        4.0	When
+       14.0	<laplace=1>	knw
+        6.0	<laplace=1>	Sometimes
+        3.0	<laplace=1>	prescription
+        4.0	<laplace=1>	Chinese
+        6.0	<laplace=1>	loverboy
+        5.0	<laplace=1>	haha
+        3.0	<laplace=1>	argument
+        3.0	<laplace=1>	utter
+        7.0	<laplace=1>	Keep
+      148.0	<laplace=1>	Ill
+<laplace=1>	        4.0	Summer
+<laplace=1>	        4.0	SPECIAL
+        4.0	<laplace=1>	Anytime
+<laplace=1>	        3.0	growing
+        3.0	<laplace=1>	Rain
+        3.0	<laplace=1>	deciding
+      113.0	       59.0	only
+       71.0	<laplace=1>	should
+        8.0	<laplace=1>	lect
+        3.0	<laplace=1>	Asking
+        3.0	<laplace=1>	Facebook
+<laplace=1>	        3.0	ringtone-get
+<laplace=1>	        3.0	MUNSTERS
+        3.0	<laplace=1>	taylor
+        3.0	<laplace=1>	tap
+        3.0	<laplace=1>	individual
+       26.0	<laplace=1>	goes
+        7.0	<laplace=1>	tat
+        8.0	<laplace=1>	towards
+        6.0	<laplace=1>	regards
+        3.0	<laplace=1>	lovers
+<laplace=1>	        3.0	0578
+<laplace=1>	        3.0	Active
+<laplace=1>	        3.0	chances
+       36.0	<laplace=1>	person
+<laplace=1>	       22.0	SAE
+<laplace=1>	        7.0	SK38xh
+       11.0	<laplace=1>	safe
+        5.0	<laplace=1>	files
+<laplace=1>	        3.0	herself
+<laplace=1>	        3.0	SAM
+       59.0	       42.0	week
+<laplace=1>	        3.0	CustCare
+        3.0	<laplace=1>	SAT
+        3.0	<laplace=1>	SAY
+<laplace=1>	        8.0	Sunshine
+        5.0	<laplace=1>	don€˜t
+        3.0	<laplace=1>	Shuhui
+        3.0	        3.0	cam
+        6.0	<laplace=1>	cal
+      275.0	       26.0	can
+       22.0	<laplace=1>	hair
+<laplace=1>	       20.0	award
+       42.0	<laplace=1>	car
+       35.0	        7.0	ready
+        3.0	<laplace=1>	sigh*
+        7.0	<laplace=1>	marriage
+        3.0	<laplace=1>	TOMORROW
+        4.0	<laplace=1>	cat
+        3.0	<laplace=1>	HOLIDAY
+       10.0	<laplace=1>	weed
+       76.0	<laplace=1>	said
+        4.0	<laplace=1>	village
+        4.0	<laplace=1>	stamps
+        4.0	       11.0	player
+        3.0	<laplace=1>	greatest
+        3.0	<laplace=1>	ultimatum
+        5.0	<laplace=1>	cleaning
+        3.0	<laplace=1>	reboot
+<laplace=1>	        3.0	satisfy
+        5.0	<laplace=1>	cbe
+        5.0	<laplace=1>	february
+        5.0	        6.0	match
+        4.0	<laplace=1>	Raji
+        7.0	<laplace=1>	fault
+        4.0	<laplace=1>	Police
+        3.0	<laplace=1>	____
+        4.0	<laplace=1>	BAK
+        3.0	        3.0	played
+       70.0	<laplace=1>	really
+        3.0	<laplace=1>	clothes
+<laplace=1>	        3.0	M221BP
+<laplace=1>	        3.0	logo/pic
+<laplace=1>	        3.0	0776xxxxxxx
+        4.0	<laplace=1>	Minnaminunginte
+        3.0	<laplace=1>	response
+        3.0	<laplace=1>	Raj
+<laplace=1>	        8.0	Welcome
+
+
+TEMPO DE CONSTRUÇÃO DO MODELO: 0.22 seconds
+
+===cross-validation ===
+
+INSTANCIAS CLASSIFICADAS CORRETAMENTE        5476               98.5069 %
+INSTANCIAS CLASSIFICADAS INCORRETAMENTE        83                1.4931 %
+Estatística Kappa                           0.9356
+TOTAL DE INSTÂNCIAS                         5559     
+
+=== ACURÁCIA DA CLASSE DETALHADA ===
+
+                 Precision  F-Média  Class
+                 0,991      0,991    0
+                 0,947      0,944    1
+média.          0,985      0,983         
+
+===Matriz de Confusão ===
+
+    a    b   <-- classified as
+ 4773   39 |    a = 0
+   44  703 |    b = 1
+

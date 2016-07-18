@@ -1,0 +1,261 @@
+@relation 'smsSpamCollection'
+
+@attribute Text string
+@attribute class-att {0,1}
+
+@data
+
+' Hope you are having a good week. Just checking in',0
+' K..give back my thanks.',0
+' Am also doing in cbe only. But have to pay.',0
+' "complimentary 4 STAR Ibiza Holiday or £10000 cash needs your URGENT collection. 09066364349 NOW from Landline not to lose out! Box434SK38WP150PPM18+"',1
+' okmail: Dear Dave this is your final notice to collect your 4* Tenerife Holiday or #5000 CASH award! Call 09061743806 from landline. TCs SAE Box326 CW25WX 150ppm',1
+' Aiya we discuss later lar... Pick u up at 4 is it?',0
+' Are you this much buzy',0
+' Please ask mummy to call father',0
+' Marvel Mobile Play the official Ultimate Spider-man game (£4.50) on ur mobile right now. Text SPIDER to 83338 for the game & we ll send u a FREE 8Ball wallpaper',1
+' "fyi Im at usf now swing by the room whenever"',0
+' "Sure thing big man. i have hockey elections at 6 shouldn€˜t go on longer than an hour though"',0
+' I anything lor...',0
+' "By march ending i should be ready. But will call you for sure. The problem is that my capital never complete. How far with you. Hows work and the ladies"',0
+' "Hmm well night night "',0
+' K Ill be sure to get up before noon and see whats what',0
+' Ha ha cool cool chikku chikku:-):-DB-)',0
+' Darren was saying dat if u meeting da ge den we dun meet 4 dinner. Cos later u leave xy will feel awkward. Den u meet him 4 lunch lor.',0
+' He dint tell anything. He is angry on me that why you told to abi.',0
+' Up to u... u wan come then come lor... But i din c any stripes skirt...',0
+' "U can WIN £100 of Music Gift Vouchers every week starting NOW Txt the word DRAW to 87066 TsCs www.ldew.com SkillGame1Winaweek age16.150ppermessSubscription"',1
+' 2mro i am not coming to gym machan. Goodnight.',0
+' ARR birthday today:) i wish him to get more oscar.',0
+' Reading gud habit.. Nan bari hudgi yorge pataistha ertini kano:-)',0
+' "I sent my scores to sophas and i had to do secondary application for a few schools. I think if you are thinking of applying do a research on cost also. Contact joke ogunrinde her school is one me the less expensive ones"',0
+' "Could you not read me my Love ? I answered you"',0
+' So what did the bank say about the money?',0
+' Well if Im that desperate Ill just call armand again',0
+' "Fuuuuck I need to stop sleepin sup"',0
+' So hows the weather over there?',0
+' Ok thanx...',0
+' Ok.ok ok..then..whats ur todays plan',0
+' 1Apple/Day=No Doctor. 1Tulsi Leaf/Day=No Cancer. 1Lemon/Day=No Fat. 1Cup Milk/day=No Bone Problms 3 Litres Watr/Day=No Diseases Snd ths 2 Whom U Care..:-)',0
+' "Sorry Ill call later"',0
+' Will do. Was exhausted on train this morning. Too much wine and pie. You sleep well too',0
+' U have won a nokia 6230 plus a free digital camera. This is what u get when u win our FREE auction. To take part send NOKIA to 83383 now. POBOX114/14TCR/W1 16',1
+' Ron say fri leh. N he said ding tai feng cant make reservations. But he said wait lor.',0
+' "Call me when you/carlos is/are here my phones vibrate is acting up and I might not hear texts"',0
+' Oh k :)why you got job then whats up?',0
+' "SPJanuary Male Sale! Hot Gay chat now cheaper call 08709222922. National rate from 1.5p/min cheap to 7.8p/min peak! To stop texts call 08712460324 (10p/min)"',1
+' Yeah you should. I think you can use your gt atm now to register. Not sure but if theres anyway i can help let me know. But when you do be sure you are ready.',0
+' Nationwide auto centre (or something like that) on Newport road. I liked them there',0
+' He is there. You call and meet him',0
+' Yeah sure Ill leave in a min',0
+' URGENT! Your Mobile number has been awarded with a £2000 prize GUARANTEED. Call 09061790121 from land line. Claim 3030. Valid 12hrs only 150ppm',1
+' "Mah b Ill pick it up tomorrow"',0
+' Then she dun believe wat?',0
+' Ive sent u my part..',0
+' Hey so whats the plan this sat? ',0
+' Can you just come in for a sec? Theres somebody here I want you to see',0
+' Yup. Izzit still raining heavily cos im in e mrt i cant c outside.',0
+' "I think were going to finns now come"',0
+' Our Prasanth ettans mother passed away last night. Just pray for her and family.',0
+' "Enjoy the showers of possessiveness poured on u by ur loved ones bcoz in this world of lies it is a golden gift to be loved truly.."',0
+' Hes really into skateboarding now despite the fact that he gets thrown off of it and winds up with bandages all over his arms every five minutes',0
+' You please give us connection today itself before  DECIMAL  or refund the bill',0
+' Congratulations ur awarded 500 of CD vouchers or 125gift guaranteed & Free entry 2 100 wkly draw txt MUSIC to 87066 TnCs www.Ldew.com1win150ppmx3age16',1
+' Mum not going robinson already.',0
+' Got meh... When?',0
+' We are both fine. Thanks',0
+' "awesome how do I deal with the gate? Charles told me last night but uh yeah"',0
+' "I thought id get him a watch just cos thats the kind of thing u get4an18th. And he loves so much!"',0
+' Have a safe trip to Nigeria. Wish you happiness and very soon company to share moments with',0
+' Hey! do u fancy meetin me at 4 at cha – hav a lil beverage on me. if not txt or ring me and we can meet up l8r. quite tired got in at 3 v.pist ;) love Pete x x x',0
+' "no i *didnt* mean to post it. I wrote it and like so many other times ive ritten stuff to you i let it sit there. it WAS what i was feeling at the time. I was angry. Before i left i hit send then stop. It wasnt there. I checked on my phone when i got to my car. It wasnt there. You said you didnt sleep you were bored. So why wouldnt THAT be the time to clean fold laundry etc.? At least make the bed?"',0
+' "If you want to mapquest it or something look up usf dogwood drive thats the tiny street where the parking lot is"',0
+' "Ha ha nan yalrigu heltini..Iyo kothi chikku u shared many things wit me..so far i didnt told any body and even uttered a word abt u.. If ur trusting me so much how can i tell these to others.. Plz nxt time dont use those words to me..ok chikku:-);-)B-)"',0
+' Becoz its  #  jan whn al the post ofice is in holiday so she cn go fr the post ofice...got it duffer',0
+' Good. do you think you could send me some pix? I would love to see your top and bottom...',0
+' Beautiful Truth against Gravity.. Read carefully: Our heart feels light when someone is in it.. But it feels very heavy when someone leaves it.. GOOD NIGHT',0
+' "Buzz! Hey my Love ! I think of you and hope your day goes well. Did you sleep in ? I miss you babe. I long for the moment we are together again*loving smile*"',0
+' Lara said she can loan me  # .',0
+' Dunno leh cant remember mayb lor. So wat time r we meeting tmr?',0
+' So wats ur opinion abt him and how abt is character?',0
+' Oh oh... Wasted... Den muz chiong on sat n sun liao...',0
+' Are you at work right now ?',0
+' Bring home some Wendy =D',0
+' Ok going to sleep. Hope i can meet her.',0
+' Allo! We have braved the buses and taken on the trains and triumphed. I mean we€˜re in b€˜ham. Have a jolly good rest of week',0
+' Hmmm:)how many players selected?',0
+' You flippin out yet?',0
+' Your board is working fine. The issue of overheating is also reslove. But still software inst is pending. I will come around 8o clock.',0
+' URGENT! Your Mobile number has been awarded with a £2000 prize GUARANTEED. Call 09061790121 from land line. Claim 3030. Valid 12hrs only 150ppm',1
+' 1000s of girls many local 2 u who r virgins 2 this & r ready 2 4fil ur every sexual need. Can u 4fil theirs? text CUTE to 69911(£1.50p. m)',1
+' "Nope. Since ayo travelled he has forgotten his guy"',0
+' Hey tmr maybe can meet you at yck',0
+' Ok im coming home now.',0
+' u called dad oredi...',0
+' "Alright Ill head out in a few minutes text me where to meet you"',0
+' *deep sigh* ... I miss you :-( ... I am really surprised you havent gone to the net cafe yet to get to me ... Dont you miss me?',0
+' Will be office around 4 pm. Now i am going hospital.',0
+' ASKED 3MOBILE IF 0870 CHATLINES INCLU IN FREE MINS. INDIA CUST SERVs SED YES. L8ER GOT MEGA BILL. 3 DONT CARE. BAILIFF DUE IN DAYS. I O £250 3 WANT £800',1
+' Yup bathe liao...',0
+' I am getting threats from your sales executive Shifad as i raised complaint against him. Its an official message.',0
+' S.this will increase the chance of winning.',0
+' How are you doing. Hows the queen. Are you going for the royal wedding',0
+' Dear reached railway. What happen to you',0
+' Probably gonna swing by in a wee bit',0
+' K k pa Had your lunch aha.',0
+' Whom you waited for yesterday',0
+' "Urgent Urgent! We have 800 FREE flights to Europe to give away call B4 10th Sept & take a friend 4 FREE. Call now to claim on 09050000555. BA128NNFWFLY150ppm"',1
+' "For ur chance to win a £250 wkly shopping spree TXT: SHOP to 80878. Ts&Cs www.txt-2-shop.com custcare 08715705022 1x150p/wk"',1
+' Ok give me 5 minutes I think I see her. BTW youre my alibi. You were cutting my hair the whole time.',0
+' At home by the way',0
+' Have a good evening! Ttyl',0
+' Am watching house €“ very entertaining €“ am getting the whole hugh laurie thing €“ even with the stick €“ indeed especially with the stick.',0
+' But my family not responding for anything. Now am in room not went to home for diwali but no one called me and why not coming. It makes me feel like died.',0
+' "So many people seems to be special at first sight But only very few will remain special to you till your last sight.. Maintain them till life ends.. take cr da"',0
+' Shes good. How are you. Where r u working now',0
+' Ya i knw u vl giv..its ok thanks kano..anyway enjoy wit ur family wit 1st salary..:-);-)',0
+' "Lol you forgot it eh ? Yes Ill bring it in babe"',0
+' Wow so healthy. Old airport rd lor. Cant thk of anything else. But ill b bathing my dog later.',0
+' This is the 2nd time we have tried to contact u. U have won the £1450 prize to claim just call 09053750005 b4 310303. T&Cs/stop SMS 08718725756. 140ppm',1
+' have got * few things to do. may be in * pub later.',0
+' Wat u doing now?',0
+' "Im a guy browsin is compulsory"',0
+' No i am not having not any movies in my laptop',0
+' What should i eat fo lunch senor',0
+' "Thank You for calling.Forgot to say Happy Onam to you Sirji.I am fine here and remembered you when i met an insurance person.Meet You in Qatar Insha Allah.Rakhesh ex Tata AIG who joined TISSCOTayseer."',0
+' No im not gonna be able to. || too late notice. || ill be home in a few weeks anyway. || what are the plans',0
+' AH POOR BABY!HOPE URFEELING BETTERSN LUV! PROBTHAT OVERDOSE OF WORK HEY GO CAREFUL SPK 2 U SN LOTS OF LOVEJEN XXX.',0
+' Please dont say like that. Hi hi hi',0
+' Really? I crashed out cuddled on my sofa.',0
+' Dont show yourself. How far. Put new pictures up on facebook.',0
+' I know! Grumpy old people. My mom was like you better not be lying. Then again I am always the one to play jokes...',0
+' Boo Im on my way to my moms. Shes making tortilla soup. Yummmm',0
+' What not under standing.',0
+' "So you think i should actually talk to him? Not call his boss in the morning? I went to this place last year and he told me where i could go and get my car fixed cheaper. He kept telling me today how much he hoped i would come back in how he always regretted not getting my number etc."',0
+' Pls tell nelson that the bbs are no longer comin. The money i was expecting aint coming',0
+' I didnt get anything da',0
+' I want snow. Its just freezing and windy.',0
+' Bishan lar nearer... No need buy so early cos if buy now i gotta park my car...',0
+' You stayin out of trouble stranger!!saw Dave the other day he’s sorted now!still with me bloke when u gona get a girl MR!ur mum still Thinks we will get 2GETHA! ',0
+' "Ive got  #  any way I could pick up?"',0
+' Fancy a shag? I do.Interested? sextextuk.com txt XXUK SUZY to 69876. Txts cost 1.50 per msg. TnCs on website. X',1
+' U can call me now...',0
+' Eatin my lunch...',0
+' "What will we do in the shower baby?"',0
+' Leave it wif me lar... u wan to carry meh so heavy... Is da num 98321561 familiar to u?',0
+' No just send to you. Bec you in temple na.',0
+' After completed degree. There is no use in joining finance.',0
+' Hi! You just spoke to MANEESHA V. Wed like to know if you were satisfied with the experience. Reply Toll Free with Yes or No.',0
+' alright tylers got a minor crisis and has to be home sooner than he thought so be here asap',0
+' Do I? I thought I put it back in the box',0
+' I have many dependents',0
+' "Once a fishrman woke early in d mrng. It was very dark. He waited a while & found a sack ful of stones. He strtd throwin thm in2 d sea 2 pass time. Atlast he had jus 1stone sun rose up & he found out tht those r nt stones those were diamonds. Moral:Dont wake up early in d mrng GOOD night"',0
+' "Hello.How u doing?What u been up 2?When will u b moving out of the flat cos I will need to arrange to pick up the lamp etc. Take care. Hello caroline!"',0
+' Hello darlin ive finished college now so txt me when u finish if u can love Kate xxx',0
+' "Jus chillaxin what up"',0
+' No break time one... How... I come out n get my stuff fr u?',0
+' Dear Dave this is your final notice to collect your 4* Tenerife Holiday or #5000 CASH award! Call 09061743806 from landline. TCs SAE Box326 CW25WX 150ppm',1
+' Ok... Let u noe when i leave my house.',0
+' Ive been searching for the right words to thank you for this breather. I promise i wont take your help for granted and will fulfil my promise. You have been wonderful and a blessing at all times.',0
+' Midnight at the earliest',0
+' Pls ask macho how much is budget for bb bold 2 is cos i saw a new one for  #  dollars.',0
+' U should make a fb list',0
+' "Princess is your kitty shaved or natural?"',0
+' "Ahhhh...just woken up!had a bad dream about u thoso i dont like u right now :) i didnt know anything about comedy night but i guess im up for it."',0
+' Hes an adult and would learn from the experience. Theres no real danger. I just dont like peeps using drugs they dont need. But no comment',0
+' U have a secret admirer who is looking 2 make contact with U-find out who they R*reveal who thinks UR so special-call on 09058094565',1
+' "You know wot people wear. T shirts jumpers hat belt is all we know. We r at Cribbs"',0
+' Me fine..absolutly fine',0
+' How much are we getting?',0
+' Did you try making another butt.',0
+' +123 Congratulations - in this weeks competition draw u have won the £1450 prize to claim just call 09050002311 b4280703. T&Cs/stop SMS 08718727868. Over 18 only 150ppm',1
+' I am sorry it hurt you.',0
+' Show ur colours! Euro 2004 2-4-1 Offer! Get an England Flag & 3Lions tone on ur phone! Click on the following service message for info!',1
+' Ok. C u then.',0
+' Ok leave no need to ask',0
+' Pansy! Youve been living in a jungle for two years! Its my driving you should be more worried about!',0
+' I remain unconvinced that this isnt an elaborate test of my willpower',0
+' You have been specially selected to receive a 2000 pound award! Call 08712402050 BEFORE the lines close. Cost 10ppm. 16+. T&Cs apply. AG Promo',1
+' "Sorry I missed you babe. I was up late and slept in. I hope you enjoy your driving lesson boytoy. I miss you too ... *teasing kiss*"',0
+' 8007 25p 4 Alfie Moons Children in Need song on ur mob. Tell ur m8s. Txt TONE CHARITY to 8007 for nokias or POLY CHARITY for polys :zed 08701417012 profit 2 charity ',1
+' Mm have some kanji dont eat anything heavy ok',0
+' I dont have any of your file in my bag..i was in work when you called me.i ll tell you if i find anything in my room.',0
+' Ya very nice. . .be ready on thursday',0
+' Anything lar...',0
+' Oh thanks a lot..i already bought 2 eggs ..',0
+' I know complain num only..bettr directly go to bsnl offc nd apply for it..',0
+' No no. I will check all rooms befor activities',0
+' No pic. Please re-send.',0
+' cThen i thk shd b enuff.. Still got conclusion n contents pg n references.. Ill b doing da contents pg n cover pg..',0
+' I donno if they are scorable',0
+' "Send ur birthdate with month and year I will tel u ur LIFE PARTNERS name. and the method of calculation. Reply must."',0
+' BOO BABE! U ENJOYIN YOURJOB? U SEEMED 2 B GETTIN ON WELL HUNNY!HOPE URE OK?TAKE CARE & I’LLSPEAK 2U SOONLOTS OF LOVEME XXXX.',0
+' Have you finished work yet? :)',0
+' Sunshine Quiz Wkly Q! Win a top Sony DVD player if u know which country the Algarve is in? Txt ansr to 82277. £1.50 SP:Tyrone',1
+' Send a logo 2 ur lover - 2 names joined by a heart. Txt LOVE NAME1 NAME2 MOBNO eg LOVE ADAM EVE 07123456789 to 87077 Yahoo! POBox36504W45WQ TxtNO 4 no ads 150p.',1
+' Gud mrng dear hav a nice day',0
+' You are a very very very very bad girl. Or lady.',0
+' In e msg jus now. U said thanks for gift.',0
+' its still not working. And this time i also tried adding zeros. That was the savings. The checking is  # ',0
+' Aiyah e rain like quite big leh. If drizzling i can at least run home.',0
+' I have gone into get info bt dont know what to do',0
+' Thats a shame! Maybe cld meet for few hrs tomo?',0
+' "Urgent! call 09066612661 from landline. Your complementary 4* Tenerife Holiday or £10000 cash await collection SAE T&Cs PO Box 3 WA14 2PX 150ppm 18+ Sender: Hol Offer"',1
+' Yupz... Ive oredi booked slots 4 my weekends liao... ',0
+' Is that on the telly? No its Brdget Jones!',0
+' "Sorry man my accounts dry or I would if you want we could trade back half or I could buy some stuff with my credit card"',0
+' "WELL DONE! Your 4* Costa Del Sol Holiday or £5000 await collection. Call 09050090044 Now toClaim. SAE TCs POBox334 Stockport SK38xh Cost£1.50/pm Max10mins"',1
+' FREE MSG:We billed your mobile number by mistake from shortcode 83332.Please call 08081263000 to have charges refunded.This call will be free from a BT landline',1
+' "Gal n boy walking in d park. gal-can i hold ur hand? boy-y? do u think i would run away? gal-no jst wana c how it feels walking in heaven with an prince..GN:-)"',0
+' "Come to me slave. Your doing it again ... Going into your shell and unconsciously avoiding me ... You are making me unhappy :-("',0
+' If he started searching he will get job in few days.he have great potential and talent.',0
+' "As in missionary hook up doggy hook up standing...|"',0
+' Ok anyway no need to change with what you said',0
+' #  great loxahatchee xmas tree burning update: you can totally see stars here',0
+' hope things went well at doctors ;) reminds me i still need 2go.did u c d little thing i left in the lounge?',0
+' ELLO BABE U OK?',0
+' u go home liao? Ask dad to pick me up at 6...',0
+' u say until like dat i dun buy ericsson oso cannot oredi lar...',0
+' Oooh I got plenty of those!',0
+' Whats a feathery bowa? Is that something guys have that I dont know about?',0
+' "Aight Ill grab something to eat too text me when youre back at mu"',0
+' wiskey Brandy Rum Gin Beer Vodka Scotch Shampain Wine KUDIyarasu dhina vaazhthukkal. ..',0
+' Sun ah... Thk mayb can if dun have anythin on... Thk have to book e lesson... E pilates is at orchard mrt u noe hor...  ',0
+' I dont know but Im raping dudes at poker',0
+' When is school starting. Where will you stay. Whats the weather like. And the food. Do you have a social support system like friends in the school. All these things are important.',0
+' Mm not entirely sure i understood that text but hey. Ho. Which weekend?',0
+' "Last Chance! Claim ur £150 worth of discount vouchers today! Text SHOP to 85023 now! SavaMob offers mobile! T Cs SavaMob POBOX84 M263UZ. £3.00 Sub. 16"',1
+' You are gorgeous! keep those pix cumming :) thank you!',0
+' Prabha..im soryda..realy..frm heart im sory',0
+' It took Mr owl 3 licks',0
+' No no. I will check all rooms befor activities',0
+' Alright took the morphine. Back in yo.',0
+' No:-)i got rumour that you going to buy apartment in chennai:-)',0
+' Youve already got a flaky parent. Itsnot supposed to be the childs job to support the parent...not until theyre The Ride age anyway. Im supposed to be there to support you. And now ive hurt you. unintentional. But hurt nonetheless.',0
+' Lol ok your forgiven :)',0
+' Hi :)finally i completed the course:)',0
+' Jamster! To get your free wallpaper text HEART to 88888 now! T&C apply. 16 only. Need Help? Call 08701213186.',1
+' at bruce b downs & fletcher now',0
+' "Urgent! call 09066350750 from your landline. Your complimentary 4* Ibiza Holiday or 10000 cash await collection SAE T&Cs PO BOX 434 SK3 8WP 150 ppm 18+ "',1
+' Yes I posted a couple of pics on fb. Theres still snow outside too. Im just waking up :)',0
+' Well. Balls. Time to make calls',0
+' How about getting in touch with folks waiting for company? Just txt back your NAME and AGE to opt in! Enjoy the community (150p/SMS)',1
+' "Awesome be there in a minute"',0
+' Hey ive booked the 2 lessons on sun liao...',0
+' S..antha num corrct dane',0
+' Is it ok if I stay the night here? Xavier has a sleeping bag and Im getting tired',0
+' O. Well uv causes mutations. Sunscreen is like essential thesedays',0
+' Boooo you always work. Just quit.',0
+' "Can you please ask macho what his price range is does he want something new or used plus it he only interfued in the blackberry bold  #  or any bb"',0
+' In which place i can get rooms cheap:-)',0
+' So why didnt you holla?',0
+' "In case you wake up wondering where I am I forgot I have to take care of something for grandma today should be done before the parade"',0
+' Hai priya are you right. What doctor said pa. Where are you.',0
+' Is she replying. Has boye changed his phone number',0
+' At what time are you coming.',0
+' I hope your pee burns tonite.',0
+' BIG BROTHER ALERT! The computer has selected u for 10k cash or #150 voucher. Call 09064018838. NTT PO Box CRO1327 18+ BT Landline Cost 150ppm mobiles vary',1
+' For sale - arsenal dartboard. Good condition but no doubles or trebles!',1
+' "4 tacos + 1 rajas burrito right?"',0
+' At the funeral home with Audrey and dad',0
+' Hurry home ',0

@@ -1,0 +1,4446 @@
+INSTÂNCIAS:    254
+ATRIBUTOS:   2
+          cross-validation
+
+=== CLASSIFICAÇÃO DO MODELO (training set) ===
+
+@atributo class-att {0,1}
+@atributo # numeric
+@atributo & numeric
+@atributo * numeric
+@atributo *deep numeric
+@atributo *didnt* numeric
+@atributo *teasing numeric
+@atributo + numeric
+@atributo - numeric
+@atributo -db- numeric
+@atributo 1 numeric
+@atributo 1apple/day=no numeric
+@atributo 1cup numeric
+@atributo 1lemon/day=no numeric
+@atributo 1st numeric
+@atributo 1stone numeric
+@atributo 1tulsi numeric
+@atributo 2 numeric
+@atributo 2getha numeric
+@atributo 2go numeric
+@atributo 2mro numeric
+@atributo 2u numeric
+@atributo 3 numeric
+@atributo 4 numeric
+@atributo 5 numeric
+@atributo 6 numeric
+@atributo 8o numeric
+@atributo 98321561 numeric
+@atributo =d numeric
+@atributo a numeric
+@atributo abi numeric
+@atributo able numeric
+@atributo about numeric
+@atributo absolutly numeric
+@atributo abt numeric
+@atributo accounts numeric
+@atributo acting numeric
+@atributo activities numeric
+@atributo actually numeric
+@atributo adding numeric
+@atributo adult numeric
+@atributo after numeric
+@atributo again numeric
+@atributo again*loving numeric
+@atributo against numeric
+@atributo age numeric
+@atributo ah numeric
+@atributo aha numeric
+@atributo ahhhh numeric
+@atributo aig numeric
+@atributo aight numeric
+@atributo aint numeric
+@atributo airport numeric
+@atributo aiya numeric
+@atributo aiyah numeric
+@atributo al numeric
+@atributo alibi numeric
+@atributo all numeric
+@atributo allah numeric
+@atributo allo numeric
+@atributo already numeric
+@atributo alright numeric
+@atributo also numeric
+@atributo always numeric
+@atributo am numeric
+@atributo an numeric
+@atributo and numeric
+@atributo angry numeric
+@atributo another numeric
+@atributo answered numeric
+@atributo antha numeric
+@atributo any numeric
+@atributo anythin numeric
+@atributo anything numeric
+@atributo anyway numeric
+@atributo apartment numeric
+@atributo application numeric
+@atributo apply numeric
+@atributo applying numeric
+@atributo are numeric
+@atributo armand numeric
+@atributo arms numeric
+@atributo around numeric
+@atributo arr numeric
+@atributo arrange numeric
+@atributo as numeric
+@atributo asap numeric
+@atributo ask numeric
+@atributo at numeric
+@atributo atlast numeric
+@atributo atm numeric
+@atributo audrey numeric
+@atributo auto numeric
+@atributo avoiding numeric
+@atributo away numeric
+@atributo awesome numeric
+@atributo awkward numeric
+@atributo ayo numeric
+@atributo b numeric
+@atributo b- numeric
+@atributo babe numeric
+@atributo baby numeric
+@atributo back numeric
+@atributo bad numeric
+@atributo bag numeric
+@atributo balls numeric
+@atributo bandages numeric
+@atributo bank numeric
+@atributo bari numeric
+@atributo bathe numeric
+@atributo bathing numeric
+@atributo bb numeric
+@atributo bbs numeric
+@atributo bcoz numeric
+@atributo be numeric
+@atributo beautiful numeric
+@atributo bec numeric
+@atributo becoz numeric
+@atributo bed numeric
+@atributo been numeric
+@atributo beer numeric
+@atributo befor numeric
+@atributo before numeric
+@atributo believe numeric
+@atributo belt numeric
+@atributo better numeric
+@atributo bettersn numeric
+@atributo bettr numeric
+@atributo beverage numeric
+@atributo big numeric
+@atributo bill numeric
+@atributo birthdate numeric
+@atributo birthday numeric
+@atributo bishan numeric
+@atributo bit numeric
+@atributo blackberry numeric
+@atributo blessing numeric
+@atributo bloke numeric
+@atributo board numeric
+@atributo body numeric
+@atributo bold numeric
+@atributo bone numeric
+@atributo boo numeric
+@atributo book numeric
+@atributo booked numeric
+@atributo boooo numeric
+@atributo bored numeric
+@atributo boss numeric
+@atributo both numeric
+@atributo bottom numeric
+@atributo bought numeric
+@atributo bowa numeric
+@atributo box numeric
+@atributo boy numeric
+@atributo boy-y numeric
+@atributo boye numeric
+@atributo boytoy numeric
+@atributo brandy numeric
+@atributo braved numeric
+@atributo brdget numeric
+@atributo break numeric
+@atributo breather numeric
+@atributo bring numeric
+@atributo browsin numeric
+@atributo bruce numeric
+@atributo bsnl numeric
+@atributo bt numeric
+@atributo btw numeric
+@atributo budget numeric
+@atributo burning numeric
+@atributo burns numeric
+@atributo burrito numeric
+@atributo buses numeric
+@atributo but numeric
+@atributo butt numeric
+@atributo buy numeric
+@atributo buzy numeric
+@atributo buzz numeric
+@atributo by numeric
+@atributo b€˜ham numeric
+@atributo c numeric
+@atributo cafe numeric
+@atributo calculation numeric
+@atributo call numeric
+@atributo called numeric
+@atributo calling numeric
+@atributo calls numeric
+@atributo can numeric
+@atributo cancer numeric
+@atributo cannot numeric
+@atributo cant numeric
+@atributo capital numeric
+@atributo car numeric
+@atributo card numeric
+@atributo care numeric
+@atributo careful numeric
+@atributo carefully numeric
+@atributo caroline numeric
+@atributo carry numeric
+@atributo case numeric
+@atributo causes numeric
+@atributo cbe numeric
+@atributo centre numeric
+@atributo cha numeric
+@atributo chance numeric
+@atributo change numeric
+@atributo changed numeric
+@atributo character numeric
+@atributo charles numeric
+@atributo cheap numeric
+@atributo cheaper numeric
+@atributo check numeric
+@atributo checked numeric
+@atributo checking numeric
+@atributo chennai numeric
+@atributo chikku numeric
+@atributo childs numeric
+@atributo chillaxin numeric
+@atributo chiong numeric
+@atributo cld numeric
+@atributo clean numeric
+@atributo clock numeric
+@atributo cn numeric
+@atributo college numeric
+@atributo come numeric
+@atributo comedy numeric
+@atributo comin numeric
+@atributo coming numeric
+@atributo comment numeric
+@atributo company numeric
+@atributo complain numeric
+@atributo complaint numeric
+@atributo complete numeric
+@atributo completed numeric
+@atributo compulsory numeric
+@atributo conclusion numeric
+@atributo connection numeric
+@atributo contact numeric
+@atributo contents numeric
+@atributo cool numeric
+@atributo corrct numeric
+@atributo cos numeric
+@atributo cost numeric
+@atributo could numeric
+@atributo couple numeric
+@atributo course numeric
+@atributo cover numeric
+@atributo cr numeric
+@atributo crashed numeric
+@atributo credit numeric
+@atributo cribbs numeric
+@atributo crisis numeric
+@atributo cthen numeric
+@atributo cuddled numeric
+@atributo cumming numeric
+@atributo cutting numeric
+@atributo d numeric
+@atributo da numeric
+@atributo dad numeric
+@atributo dane numeric
+@atributo danger numeric
+@atributo dark numeric
+@atributo darlin numeric
+@atributo darren numeric
+@atributo dat numeric
+@atributo dave numeric
+@atributo day numeric
+@atributo days numeric
+@atributo deal numeric
+@atributo dear numeric
+@atributo decimal numeric
+@atributo degree numeric
+@atributo den numeric
+@atributo dependents numeric
+@atributo desperate numeric
+@atributo despite numeric
+@atributo dhina numeric
+@atributo diamonds numeric
+@atributo did numeric
+@atributo didnt numeric
+@atributo died numeric
+@atributo din numeric
+@atributo ding numeric
+@atributo dinner numeric
+@atributo dint numeric
+@atributo directly numeric
+@atributo discuss numeric
+@atributo diseases numeric
+@atributo diwali numeric
+@atributo do numeric
+@atributo doctor numeric
+@atributo doctors numeric
+@atributo does numeric
+@atributo dog numeric
+@atributo doggy numeric
+@atributo dogwood numeric
+@atributo doing numeric
+@atributo dollars numeric
+@atributo done numeric
+@atributo donno numeric
+@atributo dont numeric
+@atributo downs numeric
+@atributo dream numeric
+@atributo drive numeric
+@atributo driving numeric
+@atributo drizzling numeric
+@atributo drugs numeric
+@atributo dry numeric
+@atributo dudes numeric
+@atributo duffer numeric
+@atributo dun numeric
+@atributo dunno numeric
+@atributo e numeric
+@atributo earliest numeric
+@atributo early numeric
+@atributo eat numeric
+@atributo eatin numeric
+@atributo eggs numeric
+@atributo eh numeric
+@atributo elaborate numeric
+@atributo elections numeric
+@atributo ello numeric
+@atributo else numeric
+@atributo ending numeric
+@atributo ends numeric
+@atributo enjoy numeric
+@atributo enjoyin numeric
+@atributo entertaining numeric
+@atributo entirely numeric
+@atributo enuff numeric
+@atributo ericsson numeric
+@atributo ertini numeric
+@atributo especially numeric
+@atributo essential numeric
+@atributo etc numeric
+@atributo ettans numeric
+@atributo even numeric
+@atributo evening numeric
+@atributo every numeric
+@atributo ex numeric
+@atributo executive numeric
+@atributo exhausted numeric
+@atributo expecting numeric
+@atributo expensive numeric
+@atributo experience numeric
+@atributo facebook numeric
+@atributo fact numeric
+@atributo familiar numeric
+@atributo family numeric
+@atributo fancy numeric
+@atributo far numeric
+@atributo fat numeric
+@atributo father numeric
+@atributo fb numeric
+@atributo feathery numeric
+@atributo feel numeric
+@atributo feeling numeric
+@atributo feels numeric
+@atributo feng numeric
+@atributo few numeric
+@atributo file numeric
+@atributo finally numeric
+@atributo finance numeric
+@atributo find numeric
+@atributo fine numeric
+@atributo finish numeric
+@atributo finished numeric
+@atributo finns numeric
+@atributo first numeric
+@atributo fishrman numeric
+@atributo five numeric
+@atributo fixed numeric
+@atributo flaky numeric
+@atributo flat numeric
+@atributo fletcher numeric
+@atributo flippin numeric
+@atributo fo numeric
+@atributo fold numeric
+@atributo food numeric
+@atributo for numeric
+@atributo forgiven numeric
+@atributo forgot numeric
+@atributo forgotten numeric
+@atributo found numeric
+@atributo fr numeric
+@atributo free numeric
+@atributo freezing numeric
+@atributo fri numeric
+@atributo friends numeric
+@atributo frm numeric
+@atributo from numeric
+@atributo ful numeric
+@atributo fulfil numeric
+@atributo funeral numeric
+@atributo fuuuuck numeric
+@atributo fyi numeric
+@atributo gal numeric
+@atributo gal-can numeric
+@atributo gal-no numeric
+@atributo gate numeric
+@atributo ge numeric
+@atributo get numeric
+@atributo get4an18th numeric
+@atributo gets numeric
+@atributo gettin numeric
+@atributo getting numeric
+@atributo gift numeric
+@atributo gin numeric
+@atributo girl numeric
+@atributo giv numeric
+@atributo give numeric
+@atributo gn numeric
+@atributo go numeric
+@atributo goes numeric
+@atributo going numeric
+@atributo golden numeric
+@atributo gona numeric
+@atributo gone numeric
+@atributo gonna numeric
+@atributo good numeric
+@atributo goodnight numeric
+@atributo gorgeous numeric
+@atributo got numeric
+@atributo gotta numeric
+@atributo grab numeric
+@atributo grandma numeric
+@atributo granted numeric
+@atributo gravity numeric
+@atributo great numeric
+@atributo grumpy numeric
+@atributo gt numeric
+@atributo gud numeric
+@atributo guess numeric
+@atributo guy numeric
+@atributo guys numeric
+@atributo gym numeric
+@atributo ha numeric
+@atributo habit numeric
+@atributo had numeric
+@atributo hai numeric
+@atributo hair numeric
+@atributo half numeric
+@atributo hand numeric
+@atributo happen numeric
+@atributo happiness numeric
+@atributo happy numeric
+@atributo has numeric
+@atributo hat numeric
+@atributo hav numeric
+@atributo have numeric
+@atributo havent numeric
+@atributo having numeric
+@atributo he numeric
+@atributo head numeric
+@atributo healthy numeric
+@atributo hear numeric
+@atributo heart numeric
+@atributo heaven numeric
+@atributo heavily numeric
+@atributo heavy numeric
+@atributo hello numeric
+@atributo help numeric
+@atributo heltini numeric
+@atributo her numeric
+@atributo here numeric
+@atributo hes numeric
+@atributo hey numeric
+@atributo he’s numeric
+@atributo hi numeric
+@atributo him numeric
+@atributo his numeric
+@atributo hit numeric
+@atributo hmm numeric
+@atributo hmmm numeric
+@atributo ho numeric
+@atributo hockey numeric
+@atributo hold numeric
+@atributo holiday numeric
+@atributo holla numeric
+@atributo home numeric
+@atributo hook numeric
+@atributo hope numeric
+@atributo hoped numeric
+@atributo hor numeric
+@atributo hospital numeric
+@atributo hour numeric
+@atributo house numeric
+@atributo how numeric
+@atributo hows numeric
+@atributo hrs numeric
+@atributo hudgi numeric
+@atributo hugh numeric
+@atributo hunny numeric
+@atributo hurry numeric
+@atributo hurt numeric
+@atributo i numeric
+@atributo id numeric
+@atributo if numeric
+@atributo ill numeric
+@atributo im numeric
+@atributo important numeric
+@atributo in numeric
+@atributo in2 numeric
+@atributo increase numeric
+@atributo indeed numeric
+@atributo info numeric
+@atributo insha numeric
+@atributo inst numeric
+@atributo insurance numeric
+@atributo interfued numeric
+@atributo into numeric
+@atributo is numeric
+@atributo is/are numeric
+@atributo isnt numeric
+@atributo issue numeric
+@atributo it numeric
+@atributo its numeric
+@atributo itself numeric
+@atributo itsnot numeric
+@atributo ive numeric
+@atributo iyo numeric
+@atributo izzit numeric
+@atributo i’llspeak numeric
+@atributo jan numeric
+@atributo job numeric
+@atributo joined numeric
+@atributo joining numeric
+@atributo joke numeric
+@atributo jokes numeric
+@atributo jolly numeric
+@atributo jones numeric
+@atributo jst numeric
+@atributo jumpers numeric
+@atributo jungle numeric
+@atributo jus numeric
+@atributo just numeric
+@atributo k numeric
+@atributo kanji numeric
+@atributo kano numeric
+@atributo kate numeric
+@atributo keep numeric
+@atributo kept numeric
+@atributo kind numeric
+@atributo kiss* numeric
+@atributo kitty numeric
+@atributo know numeric
+@atributo knw numeric
+@atributo kothi numeric
+@atributo kudiyarasu numeric
+@atributo l8r numeric
+@atributo ladies numeric
+@atributo lady numeric
+@atributo lamp numeric
+@atributo laptop numeric
+@atributo lar numeric
+@atributo lara numeric
+@atributo last numeric
+@atributo late numeric
+@atributo later numeric
+@atributo laundry numeric
+@atributo laurie numeric
+@atributo leaf/day=no numeric
+@atributo learn numeric
+@atributo least numeric
+@atributo leave numeric
+@atributo leaves numeric
+@atributo left numeric
+@atributo leh numeric
+@atributo less numeric
+@atributo lesson numeric
+@atributo lessons numeric
+@atributo let numeric
+@atributo liao numeric
+@atributo licks numeric
+@atributo lies numeric
+@atributo life numeric
+@atributo light numeric
+@atributo like numeric
+@atributo liked numeric
+@atributo lil numeric
+@atributo list numeric
+@atributo litres numeric
+@atributo little numeric
+@atributo living numeric
+@atributo ll numeric
+@atributo loan numeric
+@atributo lol numeric
+@atributo long numeric
+@atributo longer numeric
+@atributo look numeric
+@atributo lor numeric
+@atributo lot numeric
+@atributo lots numeric
+@atributo lounge numeric
+@atributo love numeric
+@atributo loved numeric
+@atributo lovejen numeric
+@atributo loveme numeric
+@atributo loves numeric
+@atributo loxahatchee numeric
+@atributo lunch numeric
+@atributo luv numeric
+@atributo lying numeric
+@atributo machan numeric
+@atributo macho numeric
+@atributo mah numeric
+@atributo maintain numeric
+@atributo make numeric
+@atributo makes numeric
+@atributo making numeric
+@atributo man numeric
+@atributo maneesha numeric
+@atributo many numeric
+@atributo mapquest numeric
+@atributo march numeric
+@atributo may numeric
+@atributo mayb numeric
+@atributo maybe numeric
+@atributo me numeric
+@atributo mean numeric
+@atributo meet numeric
+@atributo meetin numeric
+@atributo meeting numeric
+@atributo meh numeric
+@atributo message numeric
+@atributo met numeric
+@atributo method numeric
+@atributo midnight numeric
+@atributo might numeric
+@atributo milk/day=no numeric
+@atributo min numeric
+@atributo minor numeric
+@atributo minute numeric
+@atributo minutes numeric
+@atributo miss numeric
+@atributo missed numeric
+@atributo missionary numeric
+@atributo mm numeric
+@atributo mom numeric
+@atributo moment numeric
+@atributo moments numeric
+@atributo moms numeric
+@atributo money numeric
+@atributo month numeric
+@atributo moral numeric
+@atributo more numeric
+@atributo morning numeric
+@atributo morphine numeric
+@atributo mother numeric
+@atributo movies numeric
+@atributo moving numeric
+@atributo mr numeric
+@atributo mrng numeric
+@atributo mrt numeric
+@atributo msg numeric
+@atributo mu numeric
+@atributo much numeric
+@atributo mum numeric
+@atributo mummy numeric
+@atributo must numeric
+@atributo mutations numeric
+@atributo muz numeric
+@atributo my numeric
+@atributo n numeric
+@atributo na numeric
+@atributo name numeric
+@atributo nan numeric
+@atributo nationwide numeric
+@atributo natural numeric
+@atributo nd numeric
+@atributo nearer numeric
+@atributo need numeric
+@atributo nelson numeric
+@atributo net numeric
+@atributo never numeric
+@atributo new numeric
+@atributo newport numeric
+@atributo nice numeric
+@atributo nigeria numeric
+@atributo night numeric
+@atributo no numeric
+@atributo noe numeric
+@atributo nonetheless numeric
+@atributo noon numeric
+@atributo nope numeric
+@atributo not numeric
+@atributo notice numeric
+@atributo now numeric
+@atributo nt numeric
+@atributo num numeric
+@atributo number numeric
+@atributo nxt numeric
+@atributo o numeric
+@atributo of numeric
+@atributo off numeric
+@atributo offc numeric
+@atributo office numeric
+@atributo official numeric
+@atributo ofice numeric
+@atributo ogunrinde numeric
+@atributo oh numeric
+@atributo ok numeric
+@atributo old numeric
+@atributo on numeric
+@atributo onam numeric
+@atributo once numeric
+@atributo one numeric
+@atributo ones numeric
+@atributo only numeric
+@atributo oooh numeric
+@atributo opinion numeric
+@atributo or numeric
+@atributo orchard numeric
+@atributo oredi numeric
+@atributo oscar numeric
+@atributo oso numeric
+@atributo other numeric
+@atributo others numeric
+@atributo our numeric
+@atributo out numeric
+@atributo outside numeric
+@atributo over numeric
+@atributo overdose numeric
+@atributo overheating numeric
+@atributo owl numeric
+@atributo pa numeric
+@atributo pansy numeric
+@atributo parade numeric
+@atributo parent numeric
+@atributo park numeric
+@atributo parking numeric
+@atributo part numeric
+@atributo partners numeric
+@atributo pass numeric
+@atributo passed numeric
+@atributo pataistha numeric
+@atributo pay numeric
+@atributo pee numeric
+@atributo peeps numeric
+@atributo pending numeric
+@atributo people numeric
+@atributo person numeric
+@atributo pete numeric
+@atributo pg numeric
+@atributo phone numeric
+@atributo phones numeric
+@atributo pic numeric
+@atributo pick numeric
+@atributo pics numeric
+@atributo pictures numeric
+@atributo pie numeric
+@atributo pilates numeric
+@atributo pist numeric
+@atributo pix numeric
+@atributo place numeric
+@atributo plan numeric
+@atributo plans numeric
+@atributo play numeric
+@atributo players numeric
+@atributo please numeric
+@atributo plenty numeric
+@atributo pls numeric
+@atributo plus numeric
+@atributo plz numeric
+@atributo pm numeric
+@atributo poker numeric
+@atributo poor numeric
+@atributo possessiveness numeric
+@atributo post numeric
+@atributo posted numeric
+@atributo potential numeric
+@atributo poured numeric
+@atributo prabha numeric
+@atributo prasanth numeric
+@atributo pray numeric
+@atributo price numeric
+@atributo prince numeric
+@atributo princess numeric
+@atributo priya numeric
+@atributo probably numeric
+@atributo problem numeric
+@atributo problms numeric
+@atributo probthat numeric
+@atributo promise numeric
+@atributo pub numeric
+@atributo put numeric
+@atributo qatar numeric
+@atributo queen numeric
+@atributo quit numeric
+@atributo quite numeric
+@atributo r numeric
+@atributo railway numeric
+@atributo rain numeric
+@atributo raining numeric
+@atributo raised numeric
+@atributo rajas numeric
+@atributo rakhesh numeric
+@atributo range numeric
+@atributo raping numeric
+@atributo rd numeric
+@atributo re-send numeric
+@atributo reached numeric
+@atributo read numeric
+@atributo reading numeric
+@atributo ready numeric
+@atributo real numeric
+@atributo really numeric
+@atributo realy numeric
+@atributo references numeric
+@atributo refund numeric
+@atributo register numeric
+@atributo regretted numeric
+@atributo remain numeric
+@atributo remember numeric
+@atributo remembered numeric
+@atributo reminds numeric
+@atributo reply numeric
+@atributo replying numeric
+@atributo research numeric
+@atributo reservations numeric
+@atributo reslove numeric
+@atributo responding numeric
+@atributo rest numeric
+@atributo ride numeric
+@atributo right numeric
+@atributo ring numeric
+@atributo ritten numeric
+@atributo road numeric
+@atributo robinson numeric
+@atributo ron numeric
+@atributo room numeric
+@atributo rooms numeric
+@atributo rose numeric
+@atributo royal numeric
+@atributo rum numeric
+@atributo rumour numeric
+@atributo run numeric
+@atributo s numeric
+@atributo sack numeric
+@atributo safe numeric
+@atributo said numeric
+@atributo salary numeric
+@atributo sales numeric
+@atributo sat numeric
+@atributo satisfied numeric
+@atributo savings numeric
+@atributo saw numeric
+@atributo say numeric
+@atributo saying numeric
+@atributo school numeric
+@atributo schools numeric
+@atributo scorable numeric
+@atributo scores numeric
+@atributo scotch numeric
+@atributo sea numeric
+@atributo searching numeric
+@atributo sec numeric
+@atributo secondary numeric
+@atributo see numeric
+@atributo seemed numeric
+@atributo seems numeric
+@atributo selected numeric
+@atributo send numeric
+@atributo senor numeric
+@atributo sent numeric
+@atributo shame numeric
+@atributo shampain numeric
+@atributo share numeric
+@atributo shared numeric
+@atributo shaved numeric
+@atributo shd numeric
+@atributo she numeric
+@atributo shell numeric
+@atributo shes numeric
+@atributo shifad numeric
+@atributo shirts numeric
+@atributo should numeric
+@atributo shouldn€˜t numeric
+@atributo show numeric
+@atributo shower numeric
+@atributo showers numeric
+@atributo sigh* numeric
+@atributo sight numeric
+@atributo since numeric
+@atributo sirji numeric
+@atributo sit numeric
+@atributo skateboarding numeric
+@atributo skirt numeric
+@atributo slave numeric
+@atributo sleep numeric
+@atributo sleepin numeric
+@atributo sleeping numeric
+@atributo slept numeric
+@atributo slots numeric
+@atributo smile* numeric
+@atributo sn numeric
+@atributo snd numeric
+@atributo snow numeric
+@atributo so numeric
+@atributo social numeric
+@atributo sofa numeric
+@atributo software numeric
+@atributo some numeric
+@atributo somebody numeric
+@atributo someone numeric
+@atributo something numeric
+@atributo soon numeric
+@atributo sooner numeric
+@atributo soonlots numeric
+@atributo sophas numeric
+@atributo sorry numeric
+@atributo sorted numeric
+@atributo sory numeric
+@atributo soryda numeric
+@atributo soup numeric
+@atributo special numeric
+@atributo spk numeric
+@atributo spoke numeric
+@atributo standing numeric
+@atributo stars numeric
+@atributo started numeric
+@atributo starting numeric
+@atributo stay numeric
+@atributo stayin numeric
+@atributo stick numeric
+@atributo still numeric
+@atributo stones numeric
+@atributo stop numeric
+@atributo stranger numeric
+@atributo street numeric
+@atributo stripes numeric
+@atributo strtd numeric
+@atributo stuff numeric
+@atributo sun numeric
+@atributo sunscreen numeric
+@atributo sup numeric
+@atributo support numeric
+@atributo supposed numeric
+@atributo sure numeric
+@atributo surprised numeric
+@atributo swing numeric
+@atributo system numeric
+@atributo t numeric
+@atributo tacos numeric
+@atributo tai numeric
+@atributo take numeric
+@atributo taken numeric
+@atributo talent numeric
+@atributo talk numeric
+@atributo tata numeric
+@atributo tel numeric
+@atributo tell numeric
+@atributo telling numeric
+@atributo telly numeric
+@atributo temple numeric
+@atributo test numeric
+@atributo text numeric
+@atributo texts numeric
+@atributo than numeric
+@atributo thank numeric
+@atributo thanks numeric
+@atributo thanx numeric
+@atributo that numeric
+@atributo thats numeric
+@atributo the numeric
+@atributo them numeric
+@atributo then numeric
+@atributo there numeric
+@atributo theres numeric
+@atributo these numeric
+@atributo thesedays numeric
+@atributo they numeric
+@atributo theyre numeric
+@atributo thing numeric
+@atributo things numeric
+@atributo think numeric
+@atributo thinking numeric
+@atributo thinks numeric
+@atributo this numeric
+@atributo thk numeric
+@atributo thm numeric
+@atributo those numeric
+@atributo thoso numeric
+@atributo though numeric
+@atributo thought numeric
+@atributo threats numeric
+@atributo throwin numeric
+@atributo thrown numeric
+@atributo ths numeric
+@atributo tht numeric
+@atributo thursday numeric
+@atributo till numeric
+@atributo time numeric
+@atributo times numeric
+@atributo tiny numeric
+@atributo tired numeric
+@atributo tisscotayseer numeric
+@atributo tmr numeric
+@atributo to numeric
+@atributo today numeric
+@atributo todays numeric
+@atributo together numeric
+@atributo told numeric
+@atributo toll numeric
+@atributo tomo numeric
+@atributo tomorrow numeric
+@atributo tonite numeric
+@atributo too numeric
+@atributo took numeric
+@atributo top numeric
+@atributo tortilla numeric
+@atributo totally numeric
+@atributo trade numeric
+@atributo train numeric
+@atributo trains numeric
+@atributo travelled numeric
+@atributo tree numeric
+@atributo tried numeric
+@atributo trip numeric
+@atributo triumphed numeric
+@atributo trouble numeric
+@atributo truly numeric
+@atributo trusting numeric
+@atributo truth numeric
+@atributo try numeric
+@atributo ttyl numeric
+@atributo two numeric
+@atributo txt numeric
+@atributo tylers numeric
+@atributo u numeric
+@atributo uh numeric
+@atributo unconsciously numeric
+@atributo unconvinced numeric
+@atributo under numeric
+@atributo understood numeric
+@atributo unhappy numeric
+@atributo unintentional numeric
+@atributo until numeric
+@atributo up numeric
+@atributo update numeric
+@atributo ur numeric
+@atributo ure numeric
+@atributo urfeeling numeric
+@atributo us numeric
+@atributo use numeric
+@atributo used numeric
+@atributo usf numeric
+@atributo using numeric
+@atributo uttered numeric
+@atributo uv numeric
+@atributo v numeric
+@atributo vaazhthukkal numeric
+@atributo very numeric
+@atributo vibrate numeric
+@atributo vl numeric
+@atributo vodka numeric
+@atributo wait numeric
+@atributo waited numeric
+@atributo wake numeric
+@atributo waking numeric
+@atributo walking numeric
+@atributo wan numeric
+@atributo wana numeric
+@atributo want numeric
+@atributo was numeric
+@atributo wasnt numeric
+@atributo wasted numeric
+@atributo wat numeric
+@atributo watch numeric
+@atributo watching numeric
+@atributo watr/day=no numeric
+@atributo wats numeric
+@atributo way numeric
+@atributo we numeric
+@atributo wear numeric
+@atributo weather numeric
+@atributo wed numeric
+@atributo wedding numeric
+@atributo wee numeric
+@atributo week numeric
+@atributo weekend numeric
+@atributo weekends numeric
+@atributo weeks numeric
+@atributo well numeric
+@atributo wendy numeric
+@atributo went numeric
+@atributo were numeric
+@atributo we€˜re numeric
+@atributo what numeric
+@atributo whats numeric
+@atributo when numeric
+@atributo whenever numeric
+@atributo where numeric
+@atributo which numeric
+@atributo while numeric
+@atributo whn numeric
+@atributo who numeric
+@atributo whole numeric
+@atributo whom numeric
+@atributo why numeric
+@atributo wif numeric
+@atributo will numeric
+@atributo willpower numeric
+@atributo winds numeric
+@atributo windy numeric
+@atributo wine numeric
+@atributo winning numeric
+@atributo wish numeric
+@atributo wiskey numeric
+@atributo wit numeric
+@atributo with numeric
+@atributo woke numeric
+@atributo woken numeric
+@atributo wonderful numeric
+@atributo wondering numeric
+@atributo wont numeric
+@atributo word numeric
+@atributo words numeric
+@atributo work numeric
+@atributo working numeric
+@atributo world numeric
+@atributo worried numeric
+@atributo wot numeric
+@atributo would numeric
+@atributo wouldnt numeric
+@atributo wow numeric
+@atributo wrote numeric
+@atributo x numeric
+@atributo xavier numeric
+@atributo xmas numeric
+@atributo xxx numeric
+@atributo xxxx numeric
+@atributo xy numeric
+@atributo ya numeric
+@atributo yalrigu numeric
+@atributo yck numeric
+@atributo yeah numeric
+@atributo year numeric
+@atributo years numeric
+@atributo yes numeric
+@atributo yesterday numeric
+@atributo yet numeric
+@atributo yo numeric
+@atributo yorge numeric
+@atributo you numeric
+@atributo you/carlos numeric
+@atributo your numeric
+@atributo youre numeric
+@atributo yourjob numeric
+@atributo yourself numeric
+@atributo youve numeric
+@atributo yummmm numeric
+@atributo yup numeric
+@atributo yupz numeric
+@atributo zeros numeric
+@atributo | numeric
+@atributo || numeric
+@atributo – numeric
+@atributo €“ numeric
+@atributo #150 numeric
+@atributo #5000 numeric
+@atributo +123 numeric
+@atributo 00 numeric
+@atributo 07123456789 numeric
+@atributo 08081263000 numeric
+@atributo 0870 numeric
+@atributo 08701213186 numeric
+@atributo 08701417012 numeric
+@atributo 08709222922 numeric
+@atributo 08712402050 numeric
+@atributo 08712460324 numeric
+@atributo 08715705022 numeric
+@atributo 08718725756 numeric
+@atributo 08718727868 numeric
+@atributo 09050000555 numeric
+@atributo 09050002311 numeric
+@atributo 09050090044 numeric
+@atributo 09053750005 numeric
+@atributo 09058094565 numeric
+@atributo 09061743806 numeric
+@atributo 09061790121 numeric
+@atributo 09064018838 numeric
+@atributo 09066350750 numeric
+@atributo 09066364349 numeric
+@atributo 09066612661 numeric
+@atributo 100 numeric
+@atributo 10000 numeric
+@atributo 1000s numeric
+@atributo 10k numeric
+@atributo 10p/min numeric
+@atributo 10ppm numeric
+@atributo 10th numeric
+@atributo 125gift numeric
+@atributo 12hrs numeric
+@atributo 140ppm numeric
+@atributo 150 numeric
+@atributo 150p numeric
+@atributo 150p/sms numeric
+@atributo 150ppermesssubscription numeric
+@atributo 150ppm numeric
+@atributo 16 numeric
+@atributo 16+ numeric
+@atributo 18 numeric
+@atributo 18+ numeric
+@atributo 1x150p/wk numeric
+@atributo 2-4-1 numeric
+@atributo 2000 numeric
+@atributo 2004 numeric
+@atributo 25p numeric
+@atributo 2nd numeric
+@atributo 2px numeric
+@atributo 3030 numeric
+@atributo 310303 numeric
+@atributo 3lions numeric
+@atributo 3mobile numeric
+@atributo 4* numeric
+@atributo 434 numeric
+@atributo 4fil numeric
+@atributo 50 numeric
+@atributo 50/pm numeric
+@atributo 500 numeric
+@atributo 50p numeric
+@atributo 5p/min numeric
+@atributo 6230 numeric
+@atributo 69876 numeric
+@atributo 69911 numeric
+@atributo 7 numeric
+@atributo 800 numeric
+@atributo 8007 numeric
+@atributo 80878 numeric
+@atributo 82277 numeric
+@atributo 83332 numeric
+@atributo 83338 numeric
+@atributo 83383 numeric
+@atributo 85023 numeric
+@atributo 87066 numeric
+@atributo 87077 numeric
+@atributo 88888 numeric
+@atributo 8ball numeric
+@atributo 8p/min numeric
+@atributo 8wp numeric
+@atributo adam numeric
+@atributo admirer numeric
+@atributo ads numeric
+@atributo ag numeric
+@atributo age16 numeric
+@atributo alert numeric
+@atributo alfie numeric
+@atributo algarve numeric
+@atributo ansr numeric
+@atributo arsenal numeric
+@atributo asked numeric
+@atributo auction numeric
+@atributo await numeric
+@atributo award numeric
+@atributo awarded numeric
+@atributo b4 numeric
+@atributo b4280703 numeric
+@atributo ba128nnfwfly150ppm numeric
+@atributo bailiff numeric
+@atributo billed numeric
+@atributo box326 numeric
+@atributo box434sk38wp150ppm18+ numeric
+@atributo brother numeric
+@atributo camera numeric
+@atributo cash numeric
+@atributo cd numeric
+@atributo charges numeric
+@atributo charity numeric
+@atributo chat numeric
+@atributo chatlines numeric
+@atributo children numeric
+@atributo claim numeric
+@atributo click numeric
+@atributo close numeric
+@atributo collect numeric
+@atributo collection numeric
+@atributo colours numeric
+@atributo com numeric
+@atributo com1win150ppmx3age16 numeric
+@atributo community numeric
+@atributo competition numeric
+@atributo complementary numeric
+@atributo complimentary numeric
+@atributo computer numeric
+@atributo condition numeric
+@atributo congratulations numeric
+@atributo costa numeric
+@atributo cost£1 numeric
+@atributo country numeric
+@atributo cro1327 numeric
+@atributo cs numeric
+@atributo cust numeric
+@atributo custcare numeric
+@atributo cute numeric
+@atributo cw25wx numeric
+@atributo dartboard numeric
+@atributo del numeric
+@atributo digital numeric
+@atributo discount numeric
+@atributo doubles numeric
+@atributo draw numeric
+@atributo due numeric
+@atributo dvd numeric
+@atributo eg numeric
+@atributo england numeric
+@atributo entry numeric
+@atributo euro numeric
+@atributo europe numeric
+@atributo eve numeric
+@atributo final numeric
+@atributo flag numeric
+@atributo flights numeric
+@atributo folks numeric
+@atributo following numeric
+@atributo friend numeric
+@atributo game numeric
+@atributo gay numeric
+@atributo girls numeric
+@atributo guaranteed numeric
+@atributo hol numeric
+@atributo hot numeric
+@atributo ibiza numeric
+@atributo inclu numeric
+@atributo india numeric
+@atributo interested numeric
+@atributo jamster numeric
+@atributo l8er numeric
+@atributo land numeric
+@atributo landline numeric
+@atributo ldew numeric
+@atributo line numeric
+@atributo lines numeric
+@atributo local numeric
+@atributo logo numeric
+@atributo looking numeric
+@atributo lose numeric
+@atributo lover numeric
+@atributo m numeric
+@atributo m263uz numeric
+@atributo m8s numeric
+@atributo male numeric
+@atributo marvel numeric
+@atributo max10mins numeric
+@atributo mega numeric
+@atributo mins numeric
+@atributo mistake numeric
+@atributo mob numeric
+@atributo mobile numeric
+@atributo mobiles numeric
+@atributo mobno numeric
+@atributo moons numeric
+@atributo music numeric
+@atributo name1 numeric
+@atributo name2 numeric
+@atributo names numeric
+@atributo national numeric
+@atributo needs numeric
+@atributo nokia numeric
+@atributo nokias numeric
+@atributo ntt numeric
+@atributo offer numeric
+@atributo offers numeric
+@atributo okmail numeric
+@atributo opt numeric
+@atributo peak numeric
+@atributo per numeric
+@atributo player numeric
+@atributo po numeric
+@atributo pobox114/14tcr/w1 numeric
+@atributo pobox334 numeric
+@atributo pobox36504w45wq numeric
+@atributo pobox84 numeric
+@atributo poly numeric
+@atributo polys numeric
+@atributo pound numeric
+@atributo ppm numeric
+@atributo prize numeric
+@atributo profit numeric
+@atributo promo numeric
+@atributo q numeric
+@atributo quiz numeric
+@atributo r*reveal numeric
+@atributo rate numeric
+@atributo receive numeric
+@atributo refunded numeric
+@atributo sae numeric
+@atributo sale numeric
+@atributo savamob numeric
+@atributo secret numeric
+@atributo sed numeric
+@atributo sender numeric
+@atributo sept numeric
+@atributo service numeric
+@atributo servs numeric
+@atributo sextextuk numeric
+@atributo sexual numeric
+@atributo shag numeric
+@atributo shop numeric
+@atributo shopping numeric
+@atributo shortcode numeric
+@atributo sk3 numeric
+@atributo sk38xh numeric
+@atributo skillgame1winaweek numeric
+@atributo sms numeric
+@atributo sol numeric
+@atributo song numeric
+@atributo sony numeric
+@atributo sp numeric
+@atributo special-call numeric
+@atributo specially numeric
+@atributo spider numeric
+@atributo spider-man numeric
+@atributo spjanuary numeric
+@atributo spree numeric
+@atributo star numeric
+@atributo stockport numeric
+@atributo sub numeric
+@atributo sunshine numeric
+@atributo suzy numeric
+@atributo t&c numeric
+@atributo t&cs numeric
+@atributo t&cs/stop numeric
+@atributo tcs numeric
+@atributo tenerife numeric
+@atributo theirs numeric
+@atributo tncs numeric
+@atributo toclaim numeric
+@atributo tone numeric
+@atributo touch numeric
+@atributo trebles numeric
+@atributo ts&cs numeric
+@atributo tscs numeric
+@atributo txt-2-shop numeric
+@atributo txtno numeric
+@atributo txts numeric
+@atributo tyrone numeric
+@atributo u-find numeric
+@atributo ultimate numeric
+@atributo urgent numeric
+@atributo valid numeric
+@atributo vary numeric
+@atributo virgins numeric
+@atributo voucher numeric
+@atributo vouchers numeric
+@atributo wa14 numeric
+@atributo waiting numeric
+@atributo wallpaper numeric
+@atributo website numeric
+@atributo win numeric
+@atributo wkly numeric
+@atributo won numeric
+@atributo worth numeric
+@atributo www numeric
+@atributo xxuk numeric
+@atributo yahoo numeric
+@atributo zed numeric
+@atributo £1 numeric
+@atributo £100 numeric
+@atributo £10000 numeric
+@atributo £1450 numeric
+@atributo £150 numeric
+@atributo £2000 numeric
+@atributo £250 numeric
+@atributo £3 numeric
+@atributo £4 numeric
+@atributo £5000 numeric
+@atributo £800 numeric
+
+@data
+
+
+REGRESSÃO LOGÍSTICA
+                              Class
+Variable                          0
+===================================
+#                            1.6459
+&                           -6.7984
+*                            1.0422
+*deep                        1.0422
+*didnt*                      1.0422
+*teasing                     1.0422
++                            1.0422
+-                           -1.6952
+-db-                         1.0422
+1                           -5.6241
+1apple/day=no                1.0422
+1cup                         1.0422
+1lemon/day=no                1.0422
+1st                          1.0422
+1stone                       1.0422
+1tulsi                       1.0422
+2                           -4.1841
+2getha                       1.0422
+2go                          1.0422
+2mro                         1.0422
+2u                           1.0422
+3                           -3.2468
+4                           -4.0233
+5                            1.0422
+6                             1.196
+8o                           1.0422
+98321561                     1.0422
+=d                           1.0422
+a                           -4.5073
+abi                          1.0422
+able                         1.0422
+about                        -0.877
+absolutly                    1.0422
+abt                           1.196
+accounts                     1.0422
+acting                       1.0422
+activities                    1.196
+actually                     1.0422
+adding                       1.0422
+adult                        1.0422
+after                        1.0422
+again                        1.3105
+again*loving                 1.0422
+against                       1.196
+age                         -3.5506
+ah                            1.196
+aha                          1.0422
+ahhhh                        1.0422
+aig                          1.0422
+aight                        1.0422
+aint                         1.0422
+airport                      1.0422
+aiya                         1.0422
+aiyah                        1.0422
+al                           1.0422
+alibi                        1.0422
+all                          1.5718
+allah                        1.0422
+allo                         1.0422
+already                      1.3105
+alright                      1.3105
+also                         1.4069
+always                       1.3105
+am                           1.9765
+an                          -0.2204
+and                          2.5297
+angry                         1.196
+another                      1.0422
+answered                     1.0422
+antha                        1.0422
+any                          1.5718
+anythin                      1.0422
+anything                     1.7841
+anyway                       1.4928
+apartment                    1.0422
+application                  1.0422
+apply                       -5.6241
+applying                     1.0422
+are                          2.3961
+armand                       1.0422
+arms                         1.0422
+around                        1.196
+arr                          1.0422
+arrange                      1.0422
+as                            1.196
+asap                         1.0422
+ask                          1.4928
+at                           2.5137
+atlast                       1.0422
+atm                          1.0422
+audrey                       1.0422
+auto                         1.0422
+avoiding                     1.0422
+away                        -2.1568
+awesome                       1.196
+awkward                      1.0422
+ayo                          1.0422
+b                            1.5718
+b-                           1.0422
+babe                         1.4928
+baby                          1.196
+back                        -0.2204
+bad                           1.196
+bag                           1.196
+balls                        1.0422
+bandages                     1.0422
+bank                         1.0422
+bari                         1.0422
+bathe                        1.0422
+bathing                      1.0422
+bb                            1.196
+bbs                          1.0422
+bcoz                         1.0422
+be                           1.2145
+beautiful                    1.0422
+bec                          1.0422
+becoz                        1.0422
+bed                          1.0422
+been                        -4.6661
+beer                         1.0422
+befor                         1.196
+before                       -0.877
+believe                      1.0422
+belt                         1.0422
+better                       1.0422
+bettersn                     1.0422
+bettr                        1.0422
+beverage                     1.0422
+big                         -2.1568
+bill                        -3.5506
+birthdate                    1.0422
+birthday                     1.0422
+bishan                       1.0422
+bit                          1.0422
+blackberry                   1.0422
+blessing                     1.0422
+bloke                        1.0422
+board                        1.0422
+body                         1.0422
+bold                          1.196
+bone                         1.0422
+boo                           1.196
+book                         1.0422
+booked                        1.196
+boooo                        1.0422
+bored                        1.0422
+boss                         1.0422
+both                         1.0422
+bottom                       1.0422
+bought                       1.0422
+bowa                         1.0422
+box                         -6.9685
+boy                          1.0422
+boy-y                        1.0422
+boye                         1.0422
+boytoy                       1.0422
+brandy                       1.0422
+braved                       1.0422
+brdget                       1.0422
+break                        1.0422
+breather                     1.0422
+bring                         1.196
+browsin                      1.0422
+bruce                        1.0422
+bsnl                         1.0422
+bt                          -5.6241
+btw                          1.0422
+budget                       1.0422
+burning                      1.0422
+burns                        1.0422
+burrito                      1.0422
+buses                        1.0422
+but                          1.2145
+butt                         1.0422
+buy                          1.4069
+buzy                         1.0422
+buzz                         1.0422
+by                          -2.0867
+b€˜ham                       1.0422
+c                            1.4928
+cafe                         1.0422
+calculation                  1.0422
+call                       -10.9907
+called                       1.3105
+calling                      1.0422
+calls                        1.0422
+can                          0.0173
+cancer                       1.0422
+cannot                       1.0422
+cant                         1.4069
+capital                      1.0422
+car                          1.3105
+card                         1.0422
+care                         -0.877
+careful                      1.0422
+carefully                    1.0422
+caroline                     1.0422
+carry                        1.0422
+case                         1.0422
+causes                       1.0422
+cbe                          1.0422
+centre                       1.0422
+cha                          1.0422
+chance                      -5.6241
+change                       1.0422
+changed                      1.0422
+character                    1.0422
+charles                      1.0422
+cheap                       -3.5506
+cheaper                     -3.5506
+check                         1.196
+checked                      1.0422
+checking                      1.196
+chennai                      1.0422
+chikku                        1.196
+childs                       1.0422
+chillaxin                    1.0422
+chiong                       1.0422
+cld                          1.0422
+clean                        1.0422
+clock                        1.0422
+cn                           1.0422
+college                      1.0422
+come                         1.6459
+comedy                       1.0422
+comin                        1.0422
+coming                       1.4928
+comment                      1.0422
+company                     -3.5506
+complain                     1.0422
+complaint                    1.0422
+complete                     1.0422
+completed                     1.196
+compulsory                   1.0422
+conclusion                   1.0422
+connection                   1.0422
+contact                     -5.6241
+contents                     1.0422
+cool                         1.0422
+corrct                       1.0422
+cos                          1.5718
+cost                        -6.9685
+could                        1.4928
+couple                       1.0422
+course                       1.0422
+cover                        1.0422
+cr                           1.0422
+crashed                      1.0422
+credit                       1.0422
+cribbs                       1.0422
+crisis                       1.0422
+cthen                        1.0422
+cuddled                      1.0422
+cumming                      1.0422
+cutting                      1.0422
+d                            1.3105
+da                           1.4928
+dad                          1.3105
+dane                         1.0422
+danger                       1.0422
+dark                         1.0422
+darlin                       1.0422
+darren                       1.0422
+dat                           1.196
+dave                        -5.6241
+day                          1.3105
+days                        -3.5506
+deal                         1.0422
+dear                        -4.1767
+decimal                      1.0422
+degree                       1.0422
+den                           1.196
+dependents                   1.0422
+desperate                    1.0422
+despite                      1.0422
+dhina                        1.0422
+diamonds                     1.0422
+did                          1.4069
+didnt                        1.4928
+died                         1.0422
+din                          1.0422
+ding                         1.0422
+dinner                       1.0422
+dint                         1.0422
+directly                     1.0422
+discuss                      1.0422
+diseases                     1.0422
+diwali                       1.0422
+do                           0.7937
+doctor                        1.196
+doctors                      1.0422
+does                         1.0422
+dog                          1.0422
+doggy                        1.0422
+dogwood                      1.0422
+doing                        1.5718
+dollars                      1.0422
+done                        -3.5506
+donno                        1.0422
+dont                         0.7937
+downs                        1.0422
+dream                        1.0422
+drive                        1.0422
+driving                       1.196
+drizzling                    1.0422
+drugs                        1.0422
+dry                          1.0422
+dudes                        1.0422
+duffer                       1.0422
+dun                          1.4069
+dunno                        1.0422
+e                            1.4069
+earliest                     1.0422
+early                         1.196
+eat                          1.3105
+eatin                        1.0422
+eggs                         1.0422
+eh                           1.0422
+elaborate                    1.0422
+elections                    1.0422
+ello                         1.0422
+else                         1.0422
+ending                       1.0422
+ends                         1.0422
+enjoy                       -1.3849
+enjoyin                      1.0422
+entertaining                 1.0422
+entirely                     1.0422
+enuff                        1.0422
+ericsson                     1.0422
+ertini                       1.0422
+especially                   1.0422
+essential                    1.0422
+etc                          1.3105
+ettans                       1.0422
+even                          1.196
+evening                      1.0422
+every                       -5.6241
+ex                           1.0422
+executive                    1.0422
+exhausted                    1.0422
+expecting                    1.0422
+expensive                    1.0422
+experience                    1.196
+facebook                     1.0422
+fact                         1.0422
+familiar                     1.0422
+family                       1.3105
+fancy                       -3.5506
+far                          1.3105
+fat                          1.0422
+father                       1.0422
+fb                            1.196
+feathery                     1.0422
+feel                          1.196
+feeling                      1.0422
+feels                         1.196
+feng                         1.0422
+few                          1.6459
+file                         1.0422
+finally                      1.0422
+finance                      1.0422
+find                         1.0422
+fine                         1.4069
+finish                       1.0422
+finished                      1.196
+finns                        1.0422
+first                        1.0422
+fishrman                     1.0422
+five                         1.0422
+fixed                        1.0422
+flaky                        1.0422
+flat                         1.0422
+fletcher                     1.0422
+flippin                      1.0422
+fo                           1.0422
+fold                         1.0422
+food                         1.0422
+for                         -3.5384
+forgiven                     1.0422
+forgot                       1.3105
+forgotten                    1.0422
+found                        1.0422
+fr                            1.196
+free                       -10.2043
+freezing                     1.0422
+fri                          1.0422
+friends                      1.0422
+frm                          1.0422
+from                        -10.515
+ful                          1.0422
+fulfil                       1.0422
+funeral                      1.0422
+fuuuuck                      1.0422
+fyi                          1.0422
+gal                          1.0422
+gal-can                      1.0422
+gal-no                       1.0422
+gate                         1.0422
+ge                           1.0422
+get                         -1.4711
+get4an18th                   1.0422
+gets                         1.0422
+gettin                       1.0422
+getting                     -0.5075
+gift                        -2.1568
+gin                          1.0422
+girl                          1.196
+giv                          1.0422
+give                        -1.3849
+gn                           1.0422
+go                           1.5718
+goes                         1.0422
+going                        1.6459
+golden                       1.0422
+gona                         1.0422
+gone                          1.196
+gonna                         1.196
+good                         0.0134
+goodnight                    1.0422
+gorgeous                     1.0422
+got                          0.7937
+gotta                        1.0422
+grab                         1.0422
+grandma                      1.0422
+granted                      1.0422
+gravity                      1.0422
+great                         1.196
+grumpy                       1.0422
+gt                           1.0422
+gud                           1.196
+guess                        1.0422
+guy                           1.196
+guys                         1.0422
+gym                          1.0422
+ha                            1.196
+habit                        1.0422
+had                          1.4069
+hai                          1.0422
+hair                         1.0422
+half                         1.0422
+hand                         1.0422
+happen                       1.0422
+happiness                    1.0422
+happy                        1.0422
+has                          -3.953
+hat                          1.0422
+hav                           1.196
+have                        -3.5384
+havent                       1.0422
+having                        1.196
+he                           1.9138
+head                         1.0422
+healthy                      1.0422
+hear                         1.0422
+heart                       -4.1767
+heaven                       1.0422
+heavily                      1.0422
+heavy                        1.3105
+hello                         1.196
+help                        -2.1568
+heltini                      1.0422
+her                          1.4069
+here                         1.5718
+hes                           1.196
+hey                          1.6459
+he’s                         1.0422
+hi                           1.3105
+him                          1.6459
+his                          1.4928
+hit                          1.0422
+hmm                          1.0422
+hmmm                         1.0422
+ho                           1.0422
+hockey                       1.0422
+hold                         1.0422
+holiday                     -9.5518
+holla                        1.0422
+home                         1.8498
+hook                         1.0422
+hope                         1.7164
+hoped                        1.0422
+hor                          1.0422
+hospital                     1.0422
+hour                         1.0422
+house                         1.196
+how                          1.0166
+hows                         1.3105
+hrs                          1.0422
+hudgi                        1.0422
+hugh                         1.0422
+hunny                        1.0422
+hurry                        1.0422
+hurt                          1.196
+i                            5.8216
+id                           1.0422
+if                           0.3941
+ill                          1.9138
+im                           2.0381
+important                    1.0422
+in                           0.4765
+in2                          1.0422
+increase                     1.0422
+indeed                       1.0422
+info                        -3.5506
+insha                        1.0422
+inst                         1.0422
+insurance                    1.0422
+interfued                    1.0422
+into                         1.3105
+is                          -1.4346
+is/are                       1.0422
+isnt                         1.0422
+issue                        1.0422
+it                           2.5137
+its                          1.6459
+itself                       1.0422
+itsnot                       1.0422
+ive                          1.7164
+iyo                          1.0422
+izzit                        1.0422
+i’llspeak                    1.0422
+jan                          1.0422
+job                          1.3105
+joined                      -3.5506
+joining                      1.0422
+joke                         1.0422
+jokes                        1.0422
+jolly                        1.0422
+jones                        1.0422
+jst                          1.0422
+jumpers                      1.0422
+jungle                       1.0422
+jus                          1.3105
+just                        -1.2685
+k                            1.4069
+kanji                        1.0422
+kano                          1.196
+kate                         1.0422
+keep                         1.0422
+kept                         1.0422
+kind                         1.0422
+kiss*                        1.0422
+kitty                        1.0422
+know                         0.3815
+knw                          1.0422
+kothi                        1.0422
+kudiyarasu                   1.0422
+l8r                          1.0422
+ladies                       1.0422
+lady                         1.0422
+lamp                         1.0422
+laptop                       1.0422
+lar                          1.4928
+lara                         1.0422
+last                         -0.877
+late                          1.196
+later                        1.4928
+laundry                      1.0422
+laurie                       1.0422
+leaf/day=no                  1.0422
+learn                        1.0422
+least                         1.196
+leave                        1.4928
+leaves                       1.0422
+left                          1.196
+leh                          1.3105
+less                         1.0422
+lesson                        1.196
+lessons                      1.0422
+let                          1.3105
+liao                         1.4928
+licks                        1.0422
+lies                         1.0422
+life                          1.196
+light                        1.0422
+like                         1.9765
+liked                        1.0422
+lil                          1.0422
+list                         1.0422
+litres                       1.0422
+little                       1.0422
+living                       1.0422
+ll                          -3.5506
+loan                         1.0422
+lol                           1.196
+long                         1.0422
+longer                        1.196
+look                         1.0422
+lor                          1.5718
+lot                           1.196
+lots                         1.0422
+lounge                       1.0422
+love                        -0.5075
+loved                        1.0422
+lovejen                      1.0422
+loveme                       1.0422
+loves                        1.0422
+loxahatchee                  1.0422
+lunch                        1.4069
+luv                          1.0422
+lying                        1.0422
+machan                       1.0422
+macho                         1.196
+mah                          1.0422
+maintain                     1.0422
+make                         -0.877
+makes                        1.0422
+making                       1.3105
+man                           1.196
+maneesha                     1.0422
+many                        -0.5075
+mapquest                     1.0422
+march                        1.0422
+may                          1.0422
+mayb                          1.196
+maybe                         1.196
+me                           2.7499
+mean                          1.196
+meet                         1.7164
+meetin                       1.0422
+meeting                       1.196
+meh                           1.196
+message                     -3.5506
+met                          1.0422
+method                       1.0422
+midnight                     1.0422
+might                        1.0422
+milk/day=no                  1.0422
+min                          1.0422
+minor                        1.0422
+minute                       1.0422
+minutes                      1.3105
+miss                         1.3105
+missed                       1.0422
+missionary                   1.0422
+mm                            1.196
+mom                          1.0422
+moment                       1.0422
+moments                      1.0422
+moms                         1.0422
+money                         1.196
+month                        1.0422
+moral                        1.0422
+more                          1.196
+morning                       1.196
+morphine                     1.0422
+mother                       1.0422
+movies                       1.0422
+moving                       1.0422
+mr                            1.196
+mrng                          1.196
+mrt                           1.196
+msg                         -5.6241
+mu                           1.0422
+much                         1.6459
+mum                           1.196
+mummy                        1.0422
+must                         1.0422
+mutations                    1.0422
+muz                          1.0422
+my                           2.8095
+n                            1.4928
+na                           1.0422
+name                        -3.5506
+nan                           1.196
+nationwide                   1.0422
+natural                      1.0422
+nd                           1.0422
+nearer                       1.0422
+need                         -2.555
+nelson                       1.0422
+net                          1.0422
+never                        1.0422
+new                          1.3105
+newport                      1.0422
+nice                          1.196
+nigeria                      1.0422
+night                        1.6459
+no                           0.5063
+noe                           1.196
+nonetheless                  1.0422
+noon                         1.0422
+nope                         1.0422
+not                          1.1181
+notice                      -5.6241
+now                         -4.7226
+nt                           1.0422
+num                          1.3105
+number                      -5.6166
+nxt                          1.0422
+o                           -3.5506
+of                          -0.8688
+off                          1.0422
+offc                         1.0422
+office                       1.0422
+official                    -3.5506
+ofice                        1.0422
+ogunrinde                    1.0422
+oh                           1.3105
+ok                           2.2188
+old                           1.196
+on                          -2.4887
+onam                         1.0422
+once                         1.0422
+one                          1.4928
+ones                          1.196
+only                        -5.0954
+oooh                         1.0422
+opinion                      1.0422
+or                          -7.6139
+orchard                      1.0422
+oredi                        1.3105
+oscar                        1.0422
+oso                          1.0422
+other                         1.196
+others                       1.0422
+our                         -2.1568
+out                         -1.3629
+outside                       1.196
+over                        -2.1568
+overdose                     1.0422
+overheating                  1.0422
+owl                          1.0422
+pa                            1.196
+pansy                        1.0422
+parade                       1.0422
+parent                       1.0422
+park                          1.196
+parking                      1.0422
+part                        -3.5506
+partners                     1.0422
+pass                         1.0422
+passed                       1.0422
+pataistha                    1.0422
+pay                          1.0422
+pee                          1.0422
+peeps                        1.0422
+pending                      1.0422
+people                       1.3105
+person                       1.0422
+pete                         1.0422
+pg                           1.0422
+phone                       -2.1568
+phones                       1.0422
+pic                          1.0422
+pick                         1.4928
+pics                         1.0422
+pictures                     1.0422
+pie                          1.0422
+pilates                      1.0422
+pist                         1.0422
+pix                           1.196
+place                         1.196
+plan                          1.196
+plans                        1.0422
+play                        -3.5506
+players                      1.0422
+please                      -0.5075
+plenty                       1.0422
+pls                           1.196
+plus                        -3.5506
+plz                          1.0422
+pm                           1.0422
+poker                        1.0422
+poor                         1.0422
+possessiveness               1.0422
+post                          1.196
+posted                       1.0422
+potential                    1.0422
+poured                       1.0422
+prabha                       1.0422
+prasanth                     1.0422
+pray                         1.0422
+price                        1.0422
+prince                       1.0422
+princess                     1.0422
+priya                        1.0422
+probably                     1.0422
+problem                      1.0422
+problms                      1.0422
+probthat                     1.0422
+promise                      1.0422
+pub                          1.0422
+put                           1.196
+qatar                        1.0422
+queen                        1.0422
+quit                         1.0422
+quite                         1.196
+r                            -0.877
+railway                      1.0422
+rain                         1.0422
+raining                      1.0422
+raised                       1.0422
+rajas                        1.0422
+rakhesh                      1.0422
+range                        1.0422
+raping                       1.0422
+rd                           1.0422
+re-send                      1.0422
+reached                      1.0422
+read                          1.196
+reading                      1.0422
+ready                       -1.3849
+real                         1.0422
+really                       1.3105
+realy                        1.0422
+references                   1.0422
+refund                       1.0422
+register                     1.0422
+regretted                    1.0422
+remain                        1.196
+remember                     1.0422
+remembered                   1.0422
+reminds                      1.0422
+reply                         1.196
+replying                     1.0422
+research                     1.0422
+reservations                 1.0422
+reslove                      1.0422
+responding                   1.0422
+rest                         1.0422
+ride                         1.0422
+right                       -0.5075
+ring                         1.0422
+ritten                       1.0422
+road                         1.0422
+robinson                     1.0422
+ron                          1.0422
+room                         1.3105
+rooms                        1.3105
+rose                         1.0422
+royal                        1.0422
+rum                          1.0422
+rumour                       1.0422
+run                           1.196
+s                             1.196
+sack                         1.0422
+safe                         1.0422
+said                         1.5718
+salary                       1.0422
+sales                        1.0422
+sat                           1.196
+satisfied                    1.0422
+savings                      1.0422
+saw                           1.196
+say                          1.4928
+saying                       1.0422
+school                        1.196
+schools                      1.0422
+scorable                     1.0422
+scores                       1.0422
+scotch                       1.0422
+sea                          1.0422
+searching                     1.196
+sec                          1.0422
+secondary                    1.0422
+see                          1.4928
+seemed                       1.0422
+seems                        1.0422
+selected                    -5.6241
+send                         -3.953
+senor                        1.0422
+sent                          1.196
+shame                        1.0422
+shampain                     1.0422
+share                        1.0422
+shared                       1.0422
+shaved                       1.0422
+shd                          1.0422
+she                          1.4069
+shell                        1.0422
+shes                          1.196
+shifad                       1.0422
+shirts                       1.0422
+should                       1.6459
+shouldn€˜t                   1.0422
+show                        -3.5506
+shower                       1.0422
+showers                      1.0422
+sigh*                        1.0422
+sight                        1.0422
+since                        1.0422
+sirji                        1.0422
+sit                          1.0422
+skateboarding                1.0422
+skirt                        1.0422
+slave                        1.0422
+sleep                        1.4069
+sleepin                      1.0422
+sleeping                     1.0422
+slept                        1.0422
+slots                        1.0422
+smile*                       1.0422
+sn                           1.0422
+snd                          1.0422
+snow                          1.196
+so                           1.3066
+social                       1.0422
+sofa                         1.0422
+software                     1.0422
+some                         1.4069
+somebody                     1.0422
+someone                      1.0422
+something                    1.5718
+soon                         1.0422
+sooner                       1.0422
+soonlots                     1.0422
+sophas                       1.0422
+sorry                        1.4069
+sorted                       1.0422
+sory                         1.0422
+soryda                       1.0422
+soup                         1.0422
+special                      1.0422
+spk                          1.0422
+spoke                        1.0422
+standing                      1.196
+stars                        1.0422
+started                      1.0422
+starting                    -3.5506
+stay                          1.196
+stayin                       1.0422
+stick                        1.0422
+still                        1.6459
+stones                       1.0422
+stop                        -2.1568
+stranger                     1.0422
+street                       1.0422
+stripes                      1.0422
+strtd                        1.0422
+stuff                        1.3105
+sun                          1.4069
+sunscreen                    1.0422
+sup                          1.0422
+support                       1.196
+supposed                     1.0422
+sure                         1.5718
+surprised                    1.0422
+swing                         1.196
+system                       1.0422
+t                           -3.5506
+tacos                        1.0422
+tai                          1.0422
+take                        -2.0867
+taken                        1.0422
+talent                       1.0422
+talk                         1.0422
+tata                         1.0422
+tel                          1.0422
+tell                         -0.877
+telling                      1.0422
+telly                        1.0422
+temple                       1.0422
+test                         1.0422
+text                        -5.8193
+texts                       -3.5506
+than                          1.196
+thank                        1.3105
+thanks                       1.4928
+thanx                        1.0422
+that                          2.099
+thats                        1.3105
+the                         -1.2562
+them                          1.196
+then                         1.6459
+there                        1.6459
+theres                       1.4069
+these                         1.196
+thesedays                    1.0422
+they                        -2.1568
+theyre                       1.0422
+thing                        1.4069
+things                       1.4069
+think                        1.7164
+thinking                     1.0422
+thinks                      -3.5506
+this                        -5.4864
+thk                          1.3105
+thm                          1.0422
+those                        1.4069
+thoso                        1.0422
+though                       1.0422
+thought                      1.3105
+threats                      1.0422
+throwin                      1.0422
+thrown                       1.0422
+ths                          1.0422
+tht                          1.0422
+thursday                     1.0422
+till                         1.0422
+time                         0.3815
+times                         1.196
+tiny                         1.0422
+tired                         1.196
+tisscotayseer                1.0422
+tmr                           1.196
+to                          -9.2019
+today                        -0.877
+todays                       1.0422
+together                     1.0422
+told                         1.4069
+toll                         1.0422
+tomo                         1.0422
+tomorrow                     1.0422
+tonite                       1.0422
+too                          1.4928
+took                          1.196
+top                         -3.5506
+tortilla                     1.0422
+totally                      1.0422
+trade                        1.0422
+train                        1.0422
+trains                       1.0422
+travelled                    1.0422
+tree                         1.0422
+tried                       -3.5506
+trip                         1.0422
+triumphed                    1.0422
+trouble                      1.0422
+truly                        1.0422
+trusting                     1.0422
+truth                        1.0422
+try                          1.0422
+ttyl                         1.0422
+two                          1.0422
+txt                         -9.8964
+tylers                       1.0422
+u                           -2.6821
+uh                           1.0422
+unconsciously                1.0422
+unconvinced                  1.0422
+under                        1.0422
+understood                   1.0422
+unhappy                      1.0422
+unintentional                1.0422
+until                         1.196
+up                           2.4549
+update                       1.0422
+ur                          -7.2951
+ure                          1.0422
+urfeeling                    1.0422
+us                           1.0422
+use                          1.3105
+used                         1.0422
+usf                           1.196
+using                        1.0422
+uttered                      1.0422
+uv                           1.0422
+v                             1.196
+vaazhthukkal                 1.0422
+very                         1.6459
+vibrate                      1.0422
+vl                           1.0422
+vodka                        1.0422
+wait                         1.0422
+waited                        1.196
+wake                          1.196
+waking                       1.0422
+walking                      1.0422
+wan                           1.196
+wana                         1.0422
+want                        -0.5075
+was                          1.7841
+wasnt                        1.0422
+wasted                       1.0422
+wat                          1.3105
+watch                        1.0422
+watching                     1.0422
+watr/day=no                  1.0422
+wats                         1.0422
+way                          1.3105
+we                          -2.1842
+wear                         1.0422
+weather                       1.196
+wed                          1.0422
+wedding                      1.0422
+wee                          1.0422
+week                        -2.1568
+weekend                      1.0422
+weekends                     1.0422
+weeks                       -3.5506
+well                         0.2106
+wendy                        1.0422
+went                         1.3105
+were                         1.4928
+we€˜re                       1.0422
+what                         1.1181
+whats                        1.5718
+when                         0.9089
+whenever                     1.0422
+where                        1.6459
+which                       -2.1568
+while                        1.0422
+whn                          1.0422
+who                         -5.6241
+whole                         1.196
+whom                          1.196
+why                          1.4928
+wif                          1.0422
+will                         1.2145
+willpower                    1.0422
+winds                        1.0422
+windy                        1.0422
+wine                          1.196
+winning                      1.0422
+wish                          1.196
+wiskey                       1.0422
+wit                           1.196
+with                        -2.1842
+woke                         1.0422
+woken                        1.0422
+wonderful                    1.0422
+wondering                    1.0422
+wont                         1.0422
+word                        -3.5506
+words                         1.196
+work                         1.5718
+working                      1.3105
+world                        1.0422
+worried                      1.0422
+wot                          1.0422
+would                        1.4928
+wouldnt                      1.0422
+wow                          1.0422
+wrote                        1.0422
+x                           -3.5506
+xavier                       1.0422
+xmas                         1.0422
+xxx                           1.196
+xxxx                         1.0422
+xy                           1.0422
+ya                            1.196
+yalrigu                      1.0422
+yck                          1.0422
+yeah                         1.3105
+year                          1.196
+years                        1.0422
+yes                         -1.3849
+yesterday                    1.0422
+yet                          1.3105
+yo                           1.0422
+yorge                        1.0422
+you                          4.4389
+you/carlos                   1.0422
+your                        -6.8542
+youre                         1.196
+yourjob                      1.0422
+yourself                     1.0422
+youve                         1.196
+yummmm                       1.0422
+yup                           1.196
+yupz                         1.0422
+zeros                        1.0422
+|                            1.0422
+||                           1.0422
+–                            1.0422
+€“                           1.0422
+#150                          -7.23
+#5000                       -8.2973
++123                          -7.23
+00                            -7.23
+07123456789                   -7.23
+08081263000                   -7.23
+0870                          -7.23
+08701213186                   -7.23
+08701417012                   -7.23
+08709222922                   -7.23
+08712402050                   -7.23
+08712460324                   -7.23
+08715705022                   -7.23
+08718725756                   -7.23
+08718727868                   -7.23
+09050000555                   -7.23
+09050002311                   -7.23
+09050090044                   -7.23
+09053750005                   -7.23
+09058094565                   -7.23
+09061743806                 -8.2973
+09061790121                 -8.2973
+09064018838                   -7.23
+09066350750                   -7.23
+09066364349                   -7.23
+09066612661                   -7.23
+100                           -7.23
+10000                         -7.23
+1000s                         -7.23
+10k                           -7.23
+10p/min                       -7.23
+10ppm                         -7.23
+10th                          -7.23
+125gift                       -7.23
+12hrs                       -8.2973
+140ppm                        -7.23
+150                           -7.23
+150p                          -7.23
+150p/sms                      -7.23
+150ppermesssubscription       -7.23
+150ppm                     -11.4181
+16                          -9.0913
+16+                           -7.23
+18                            -7.23
+18+                         -9.0913
+1x150p/wk                     -7.23
+2-4-1                         -7.23
+2000                          -7.23
+2004                          -7.23
+25p                           -7.23
+2nd                           -7.23
+2px                           -7.23
+3030                        -8.2973
+310303                        -7.23
+3lions                        -7.23
+3mobile                       -7.23
+4*                         -10.3562
+434                           -7.23
+4fil                          -7.23
+50                          -9.0913
+50/pm                         -7.23
+500                           -7.23
+50p                           -7.23
+5p/min                        -7.23
+6230                          -7.23
+69876                         -7.23
+69911                         -7.23
+7                             -7.23
+800                           -7.23
+8007                          -7.23
+80878                         -7.23
+82277                         -7.23
+83332                         -7.23
+83338                         -7.23
+83383                         -7.23
+85023                         -7.23
+87066                       -8.2973
+87077                         -7.23
+88888                         -7.23
+8ball                         -7.23
+8p/min                        -7.23
+8wp                           -7.23
+adam                          -7.23
+admirer                       -7.23
+ads                           -7.23
+ag                            -7.23
+age16                         -7.23
+alert                         -7.23
+alfie                         -7.23
+algarve                       -7.23
+ansr                          -7.23
+arsenal                       -7.23
+asked                         -7.23
+auction                       -7.23
+await                       -9.0913
+award                       -9.0913
+awarded                     -9.0913
+b4                          -8.2973
+b4280703                      -7.23
+ba128nnfwfly150ppm            -7.23
+bailiff                       -7.23
+billed                        -7.23
+box326                      -8.2973
+box434sk38wp150ppm18+         -7.23
+brother                       -7.23
+camera                        -7.23
+cash                       -10.9041
+cd                            -7.23
+charges                       -7.23
+charity                       -7.23
+chat                          -7.23
+chatlines                     -7.23
+children                      -7.23
+claim                      -10.9041
+click                         -7.23
+close                         -7.23
+collect                     -8.2973
+collection                  -9.7603
+colours                       -7.23
+com                         -9.0913
+com1win150ppmx3age16          -7.23
+community                     -7.23
+competition                   -7.23
+complementary                 -7.23
+complimentary               -8.2973
+computer                      -7.23
+condition                     -7.23
+congratulations             -8.2973
+costa                         -7.23
+cost£1                        -7.23
+country                       -7.23
+cro1327                       -7.23
+cs                            -7.23
+cust                          -7.23
+custcare                      -7.23
+cute                          -7.23
+cw25wx                      -8.2973
+dartboard                     -7.23
+del                           -7.23
+digital                       -7.23
+discount                      -7.23
+doubles                       -7.23
+draw                        -9.0913
+due                           -7.23
+dvd                           -7.23
+eg                            -7.23
+england                       -7.23
+entry                         -7.23
+euro                          -7.23
+europe                        -7.23
+eve                           -7.23
+final                       -8.2973
+flag                          -7.23
+flights                       -7.23
+folks                         -7.23
+following                     -7.23
+friend                        -7.23
+game                          -7.23
+gay                           -7.23
+girls                         -7.23
+guaranteed                  -9.0913
+hol                           -7.23
+hot                           -7.23
+ibiza                       -8.2973
+inclu                         -7.23
+india                         -7.23
+interested                    -7.23
+jamster                       -7.23
+l8er                          -7.23
+land                        -8.2973
+landline                   -11.4181
+ldew                        -8.2973
+line                        -8.2973
+lines                         -7.23
+local                         -7.23
+logo                          -7.23
+looking                       -7.23
+lose                          -7.23
+lover                         -7.23
+m                             -7.23
+m263uz                        -7.23
+m8s                           -7.23
+male                          -7.23
+marvel                        -7.23
+max10mins                     -7.23
+mega                          -7.23
+mins                          -7.23
+mistake                       -7.23
+mob                           -7.23
+mobile                     -10.3562
+mobiles                       -7.23
+mobno                         -7.23
+moons                         -7.23
+music                       -8.2973
+name1                         -7.23
+name2                         -7.23
+names                         -7.23
+national                      -7.23
+needs                         -7.23
+nokia                         -7.23
+nokias                        -7.23
+ntt                           -7.23
+offer                       -8.2973
+offers                        -7.23
+okmail                        -7.23
+opt                           -7.23
+peak                          -7.23
+per                           -7.23
+player                        -7.23
+po                          -9.0913
+pobox114/14tcr/w1             -7.23
+pobox334                      -7.23
+pobox36504w45wq               -7.23
+pobox84                       -7.23
+poly                          -7.23
+polys                         -7.23
+pound                         -7.23
+ppm                           -7.23
+prize                       -9.7603
+profit                        -7.23
+promo                         -7.23
+q                             -7.23
+quiz                          -7.23
+r*reveal                      -7.23
+rate                          -7.23
+receive                       -7.23
+refunded                      -7.23
+sae                        -10.3562
+sale                        -8.2973
+savamob                       -7.23
+secret                        -7.23
+sed                           -7.23
+sender                        -7.23
+sept                          -7.23
+service                       -7.23
+servs                         -7.23
+sextextuk                     -7.23
+sexual                        -7.23
+shag                          -7.23
+shop                        -8.2973
+shopping                      -7.23
+shortcode                     -7.23
+sk3                           -7.23
+sk38xh                        -7.23
+skillgame1winaweek            -7.23
+sms                         -8.2973
+sol                           -7.23
+song                          -7.23
+sony                          -7.23
+sp                            -7.23
+special-call                  -7.23
+specially                     -7.23
+spider                        -7.23
+spider-man                    -7.23
+spjanuary                     -7.23
+spree                         -7.23
+star                          -7.23
+stockport                     -7.23
+sub                           -7.23
+sunshine                      -7.23
+suzy                          -7.23
+t&c                           -7.23
+t&cs                        -9.0913
+t&cs/stop                   -8.2973
+tcs                         -9.0913
+tenerife                    -9.0913
+theirs                        -7.23
+tncs                        -8.2973
+toclaim                       -7.23
+tone                        -8.2973
+touch                         -7.23
+trebles                       -7.23
+ts&cs                         -7.23
+tscs                          -7.23
+txt-2-shop                    -7.23
+txtno                         -7.23
+txts                          -7.23
+tyrone                        -7.23
+u-find                        -7.23
+ultimate                      -7.23
+urgent                     -10.9041
+valid                       -8.2973
+vary                          -7.23
+virgins                       -7.23
+voucher                       -7.23
+vouchers                    -9.0913
+wa14                          -7.23
+waiting                       -7.23
+wallpaper                   -8.2973
+website                       -7.23
+win                         -9.7603
+wkly                        -9.0913
+won                         -9.0913
+worth                         -7.23
+www                         -9.0913
+xxuk                          -7.23
+yahoo                         -7.23
+zed                           -7.23
+£1                          -8.2973
+£100                          -7.23
+£10000                      -8.2973
+£1450                       -8.2973
+£150                          -7.23
+£2000                       -8.2973
+£250                        -8.2973
+£3                            -7.23
+£4                            -7.23
+£5000                         -7.23
+£800                          -7.23
+Intercept                   42.7409
+
+
+Odds Ratios...
+                              Class
+Variable                          0
+===================================
+#                            5.1854
+&                            0.0011
+*                            2.8353
+*deep                        2.8353
+*didnt*                      2.8353
+*teasing                     2.8353
++                            2.8353
+-                            0.1836
+-db-                         2.8353
+1                            0.0036
+1apple/day=no                2.8353
+1cup                         2.8353
+1lemon/day=no                2.8353
+1st                          2.8353
+1stone                       2.8353
+1tulsi                       2.8353
+2                            0.0152
+2getha                       2.8353
+2go                          2.8353
+2mro                         2.8353
+2u                           2.8353
+3                            0.0389
+4                            0.0179
+5                            2.8353
+6                            3.3069
+8o                           2.8353
+98321561                     2.8353
+=d                           2.8353
+a                             0.011
+abi                          2.8353
+able                         2.8353
+about                         0.416
+absolutly                    2.8353
+abt                          3.3069
+accounts                     2.8353
+acting                       2.8353
+activities                   3.3069
+actually                     2.8353
+adding                       2.8353
+adult                        2.8353
+after                        2.8353
+again                        3.7079
+again*loving                 2.8353
+against                      3.3069
+age                          0.0287
+ah                           3.3069
+aha                          2.8353
+ahhhh                        2.8353
+aig                          2.8353
+aight                        2.8353
+aint                         2.8353
+airport                      2.8353
+aiya                         2.8353
+aiyah                        2.8353
+al                           2.8353
+alibi                        2.8353
+all                          4.8151
+allah                        2.8353
+allo                         2.8353
+already                      3.7079
+alright                      3.7079
+also                         4.0832
+always                       3.7079
+am                           7.2174
+an                           0.8022
+and                         12.5493
+angry                        3.3069
+another                      2.8353
+answered                     2.8353
+antha                        2.8353
+any                          4.8151
+anythin                      2.8353
+anything                     5.9544
+anyway                       4.4494
+apartment                    2.8353
+application                  2.8353
+apply                        0.0036
+applying                     2.8353
+are                         10.9801
+armand                       2.8353
+arms                         2.8353
+around                       3.3069
+arr                          2.8353
+arrange                      2.8353
+as                           3.3069
+asap                         2.8353
+ask                          4.4494
+at                          12.3503
+atlast                       2.8353
+atm                          2.8353
+audrey                       2.8353
+auto                         2.8353
+avoiding                     2.8353
+away                         0.1157
+awesome                      3.3069
+awkward                      2.8353
+ayo                          2.8353
+b                            4.8151
+b-                           2.8353
+babe                         4.4494
+baby                         3.3069
+back                         0.8022
+bad                          3.3069
+bag                          3.3069
+balls                        2.8353
+bandages                     2.8353
+bank                         2.8353
+bari                         2.8353
+bathe                        2.8353
+bathing                      2.8353
+bb                           3.3069
+bbs                          2.8353
+bcoz                         2.8353
+be                           3.3684
+beautiful                    2.8353
+bec                          2.8353
+becoz                        2.8353
+bed                          2.8353
+been                         0.0094
+beer                         2.8353
+befor                        3.3069
+before                        0.416
+believe                      2.8353
+belt                         2.8353
+better                       2.8353
+bettersn                     2.8353
+bettr                        2.8353
+beverage                     2.8353
+big                          0.1157
+bill                         0.0287
+birthdate                    2.8353
+birthday                     2.8353
+bishan                       2.8353
+bit                          2.8353
+blackberry                   2.8353
+blessing                     2.8353
+bloke                        2.8353
+board                        2.8353
+body                         2.8353
+bold                         3.3069
+bone                         2.8353
+boo                          3.3069
+book                         2.8353
+booked                       3.3069
+boooo                        2.8353
+bored                        2.8353
+boss                         2.8353
+both                         2.8353
+bottom                       2.8353
+bought                       2.8353
+bowa                         2.8353
+box                          0.0009
+boy                          2.8353
+boy-y                        2.8353
+boye                         2.8353
+boytoy                       2.8353
+brandy                       2.8353
+braved                       2.8353
+brdget                       2.8353
+break                        2.8353
+breather                     2.8353
+bring                        3.3069
+browsin                      2.8353
+bruce                        2.8353
+bsnl                         2.8353
+bt                           0.0036
+btw                          2.8353
+budget                       2.8353
+burning                      2.8353
+burns                        2.8353
+burrito                      2.8353
+buses                        2.8353
+but                          3.3684
+butt                         2.8353
+buy                          4.0832
+buzy                         2.8353
+buzz                         2.8353
+by                           0.1241
+b€˜ham                       2.8353
+c                            4.4494
+cafe                         2.8353
+calculation                  2.8353
+call                              0
+called                       3.7079
+calling                      2.8353
+calls                        2.8353
+can                          1.0175
+cancer                       2.8353
+cannot                       2.8353
+cant                         4.0832
+capital                      2.8353
+car                          3.7079
+card                         2.8353
+care                          0.416
+careful                      2.8353
+carefully                    2.8353
+caroline                     2.8353
+carry                        2.8353
+case                         2.8353
+causes                       2.8353
+cbe                          2.8353
+centre                       2.8353
+cha                          2.8353
+chance                       0.0036
+change                       2.8353
+changed                      2.8353
+character                    2.8353
+charles                      2.8353
+cheap                        0.0287
+cheaper                      0.0287
+check                        3.3069
+checked                      2.8353
+checking                     3.3069
+chennai                      2.8353
+chikku                       3.3069
+childs                       2.8353
+chillaxin                    2.8353
+chiong                       2.8353
+cld                          2.8353
+clean                        2.8353
+clock                        2.8353
+cn                           2.8353
+college                      2.8353
+come                         5.1854
+comedy                       2.8353
+comin                        2.8353
+coming                       4.4494
+comment                      2.8353
+company                      0.0287
+complain                     2.8353
+complaint                    2.8353
+complete                     2.8353
+completed                    3.3069
+compulsory                   2.8353
+conclusion                   2.8353
+connection                   2.8353
+contact                      0.0036
+contents                     2.8353
+cool                         2.8353
+corrct                       2.8353
+cos                          4.8151
+cost                         0.0009
+could                        4.4494
+couple                       2.8353
+course                       2.8353
+cover                        2.8353
+cr                           2.8353
+crashed                      2.8353
+credit                       2.8353
+cribbs                       2.8353
+crisis                       2.8353
+cthen                        2.8353
+cuddled                      2.8353
+cumming                      2.8353
+cutting                      2.8353
+d                            3.7079
+da                           4.4494
+dad                          3.7079
+dane                         2.8353
+danger                       2.8353
+dark                         2.8353
+darlin                       2.8353
+darren                       2.8353
+dat                          3.3069
+dave                         0.0036
+day                          3.7079
+days                         0.0287
+deal                         2.8353
+dear                         0.0153
+decimal                      2.8353
+degree                       2.8353
+den                          3.3069
+dependents                   2.8353
+desperate                    2.8353
+despite                      2.8353
+dhina                        2.8353
+diamonds                     2.8353
+did                          4.0832
+didnt                        4.4494
+died                         2.8353
+din                          2.8353
+ding                         2.8353
+dinner                       2.8353
+dint                         2.8353
+directly                     2.8353
+discuss                      2.8353
+diseases                     2.8353
+diwali                       2.8353
+do                           2.2116
+doctor                       3.3069
+doctors                      2.8353
+does                         2.8353
+dog                          2.8353
+doggy                        2.8353
+dogwood                      2.8353
+doing                        4.8151
+dollars                      2.8353
+done                         0.0287
+donno                        2.8353
+dont                         2.2116
+downs                        2.8353
+dream                        2.8353
+drive                        2.8353
+driving                      3.3069
+drizzling                    2.8353
+drugs                        2.8353
+dry                          2.8353
+dudes                        2.8353
+duffer                       2.8353
+dun                          4.0832
+dunno                        2.8353
+e                            4.0832
+earliest                     2.8353
+early                        3.3069
+eat                          3.7079
+eatin                        2.8353
+eggs                         2.8353
+eh                           2.8353
+elaborate                    2.8353
+elections                    2.8353
+ello                         2.8353
+else                         2.8353
+ending                       2.8353
+ends                         2.8353
+enjoy                        0.2503
+enjoyin                      2.8353
+entertaining                 2.8353
+entirely                     2.8353
+enuff                        2.8353
+ericsson                     2.8353
+ertini                       2.8353
+especially                   2.8353
+essential                    2.8353
+etc                          3.7079
+ettans                       2.8353
+even                         3.3069
+evening                      2.8353
+every                        0.0036
+ex                           2.8353
+executive                    2.8353
+exhausted                    2.8353
+expecting                    2.8353
+expensive                    2.8353
+experience                   3.3069
+facebook                     2.8353
+fact                         2.8353
+familiar                     2.8353
+family                       3.7079
+fancy                        0.0287
+far                          3.7079
+fat                          2.8353
+father                       2.8353
+fb                           3.3069
+feathery                     2.8353
+feel                         3.3069
+feeling                      2.8353
+feels                        3.3069
+feng                         2.8353
+few                          5.1854
+file                         2.8353
+finally                      2.8353
+finance                      2.8353
+find                         2.8353
+fine                         4.0832
+finish                       2.8353
+finished                     3.3069
+finns                        2.8353
+first                        2.8353
+fishrman                     2.8353
+five                         2.8353
+fixed                        2.8353
+flaky                        2.8353
+flat                         2.8353
+fletcher                     2.8353
+flippin                      2.8353
+fo                           2.8353
+fold                         2.8353
+food                         2.8353
+for                          0.0291
+forgiven                     2.8353
+forgot                       3.7079
+forgotten                    2.8353
+found                        2.8353
+fr                           3.3069
+free                              0
+freezing                     2.8353
+fri                          2.8353
+friends                      2.8353
+frm                          2.8353
+from                              0
+ful                          2.8353
+fulfil                       2.8353
+funeral                      2.8353
+fuuuuck                      2.8353
+fyi                          2.8353
+gal                          2.8353
+gal-can                      2.8353
+gal-no                       2.8353
+gate                         2.8353
+ge                           2.8353
+get                          0.2297
+get4an18th                   2.8353
+gets                         2.8353
+gettin                       2.8353
+getting                       0.602
+gift                         0.1157
+gin                          2.8353
+girl                         3.3069
+giv                          2.8353
+give                         0.2503
+gn                           2.8353
+go                           4.8151
+goes                         2.8353
+going                        5.1854
+golden                       2.8353
+gona                         2.8353
+gone                         3.3069
+gonna                        3.3069
+good                         1.0135
+goodnight                    2.8353
+gorgeous                     2.8353
+got                          2.2116
+gotta                        2.8353
+grab                         2.8353
+grandma                      2.8353
+granted                      2.8353
+gravity                      2.8353
+great                        3.3069
+grumpy                       2.8353
+gt                           2.8353
+gud                          3.3069
+guess                        2.8353
+guy                          3.3069
+guys                         2.8353
+gym                          2.8353
+ha                           3.3069
+habit                        2.8353
+had                          4.0832
+hai                          2.8353
+hair                         2.8353
+half                         2.8353
+hand                         2.8353
+happen                       2.8353
+happiness                    2.8353
+happy                        2.8353
+has                          0.0192
+hat                          2.8353
+hav                          3.3069
+have                         0.0291
+havent                       2.8353
+having                       3.3069
+he                           6.7788
+head                         2.8353
+healthy                      2.8353
+hear                         2.8353
+heart                        0.0153
+heaven                       2.8353
+heavily                      2.8353
+heavy                        3.7079
+hello                        3.3069
+help                         0.1157
+heltini                      2.8353
+her                          4.0832
+here                         4.8151
+hes                          3.3069
+hey                          5.1854
+he’s                         2.8353
+hi                           3.7079
+him                          5.1854
+his                          4.4494
+hit                          2.8353
+hmm                          2.8353
+hmmm                         2.8353
+ho                           2.8353
+hockey                       2.8353
+hold                         2.8353
+holiday                      0.0001
+holla                        2.8353
+home                         6.3585
+hook                         2.8353
+hope                         5.5642
+hoped                        2.8353
+hor                          2.8353
+hospital                     2.8353
+hour                         2.8353
+house                        3.3069
+how                          2.7638
+hows                         3.7079
+hrs                          2.8353
+hudgi                        2.8353
+hugh                         2.8353
+hunny                        2.8353
+hurry                        2.8353
+hurt                         3.3069
+i                          337.5261
+id                           2.8353
+if                            1.483
+ill                          6.7788
+im                           7.6763
+important                    2.8353
+in                           1.6105
+in2                          2.8353
+increase                     2.8353
+indeed                       2.8353
+info                         0.0287
+insha                        2.8353
+inst                         2.8353
+insurance                    2.8353
+interfued                    2.8353
+into                         3.7079
+is                           0.2382
+is/are                       2.8353
+isnt                         2.8353
+issue                        2.8353
+it                          12.3503
+its                          5.1854
+itself                       2.8353
+itsnot                       2.8353
+ive                          5.5642
+iyo                          2.8353
+izzit                        2.8353
+i’llspeak                    2.8353
+jan                          2.8353
+job                          3.7079
+joined                       0.0287
+joining                      2.8353
+joke                         2.8353
+jokes                        2.8353
+jolly                        2.8353
+jones                        2.8353
+jst                          2.8353
+jumpers                      2.8353
+jungle                       2.8353
+jus                          3.7079
+just                         0.2813
+k                            4.0832
+kanji                        2.8353
+kano                         3.3069
+kate                         2.8353
+keep                         2.8353
+kept                         2.8353
+kind                         2.8353
+kiss*                        2.8353
+kitty                        2.8353
+know                         1.4645
+knw                          2.8353
+kothi                        2.8353
+kudiyarasu                   2.8353
+l8r                          2.8353
+ladies                       2.8353
+lady                         2.8353
+lamp                         2.8353
+laptop                       2.8353
+lar                          4.4494
+lara                         2.8353
+last                          0.416
+late                         3.3069
+later                        4.4494
+laundry                      2.8353
+laurie                       2.8353
+leaf/day=no                  2.8353
+learn                        2.8353
+least                        3.3069
+leave                        4.4494
+leaves                       2.8353
+left                         3.3069
+leh                          3.7079
+less                         2.8353
+lesson                       3.3069
+lessons                      2.8353
+let                          3.7079
+liao                         4.4494
+licks                        2.8353
+lies                         2.8353
+life                         3.3069
+light                        2.8353
+like                         7.2174
+liked                        2.8353
+lil                          2.8353
+list                         2.8353
+litres                       2.8353
+little                       2.8353
+living                       2.8353
+ll                           0.0287
+loan                         2.8353
+lol                          3.3069
+long                         2.8353
+longer                       3.3069
+look                         2.8353
+lor                          4.8151
+lot                          3.3069
+lots                         2.8353
+lounge                       2.8353
+love                          0.602
+loved                        2.8353
+lovejen                      2.8353
+loveme                       2.8353
+loves                        2.8353
+loxahatchee                  2.8353
+lunch                        4.0832
+luv                          2.8353
+lying                        2.8353
+machan                       2.8353
+macho                        3.3069
+mah                          2.8353
+maintain                     2.8353
+make                          0.416
+makes                        2.8353
+making                       3.7079
+man                          3.3069
+maneesha                     2.8353
+many                          0.602
+mapquest                     2.8353
+march                        2.8353
+may                          2.8353
+mayb                         3.3069
+maybe                        3.3069
+me                          15.6414
+mean                         3.3069
+meet                         5.5642
+meetin                       2.8353
+meeting                      3.3069
+meh                          3.3069
+message                      0.0287
+met                          2.8353
+method                       2.8353
+midnight                     2.8353
+might                        2.8353
+milk/day=no                  2.8353
+min                          2.8353
+minor                        2.8353
+minute                       2.8353
+minutes                      3.7079
+miss                         3.7079
+missed                       2.8353
+missionary                   2.8353
+mm                           3.3069
+mom                          2.8353
+moment                       2.8353
+moments                      2.8353
+moms                         2.8353
+money                        3.3069
+month                        2.8353
+moral                        2.8353
+more                         3.3069
+morning                      3.3069
+morphine                     2.8353
+mother                       2.8353
+movies                       2.8353
+moving                       2.8353
+mr                           3.3069
+mrng                         3.3069
+mrt                          3.3069
+msg                          0.0036
+mu                           2.8353
+much                         5.1854
+mum                          3.3069
+mummy                        2.8353
+must                         2.8353
+mutations                    2.8353
+muz                          2.8353
+my                          16.6018
+n                            4.4494
+na                           2.8353
+name                         0.0287
+nan                          3.3069
+nationwide                   2.8353
+natural                      2.8353
+nd                           2.8353
+nearer                       2.8353
+need                         0.0777
+nelson                       2.8353
+net                          2.8353
+never                        2.8353
+new                          3.7079
+newport                      2.8353
+nice                         3.3069
+nigeria                      2.8353
+night                        5.1854
+no                           1.6592
+noe                          3.3069
+nonetheless                  2.8353
+noon                         2.8353
+nope                         2.8353
+not                           3.059
+notice                       0.0036
+now                          0.0089
+nt                           2.8353
+num                          3.7079
+number                       0.0036
+nxt                          2.8353
+o                            0.0287
+of                           0.4194
+off                          2.8353
+offc                         2.8353
+office                       2.8353
+official                     0.0287
+ofice                        2.8353
+ogunrinde                    2.8353
+oh                           3.7079
+ok                           9.1965
+old                          3.3069
+on                            0.083
+onam                         2.8353
+once                         2.8353
+one                          4.4494
+ones                         3.3069
+only                         0.0061
+oooh                         2.8353
+opinion                      2.8353
+or                           0.0005
+orchard                      2.8353
+oredi                        3.7079
+oscar                        2.8353
+oso                          2.8353
+other                        3.3069
+others                       2.8353
+our                          0.1157
+out                          0.2559
+outside                      3.3069
+over                         0.1157
+overdose                     2.8353
+overheating                  2.8353
+owl                          2.8353
+pa                           3.3069
+pansy                        2.8353
+parade                       2.8353
+parent                       2.8353
+park                         3.3069
+parking                      2.8353
+part                         0.0287
+partners                     2.8353
+pass                         2.8353
+passed                       2.8353
+pataistha                    2.8353
+pay                          2.8353
+pee                          2.8353
+peeps                        2.8353
+pending                      2.8353
+people                       3.7079
+person                       2.8353
+pete                         2.8353
+pg                           2.8353
+phone                        0.1157
+phones                       2.8353
+pic                          2.8353
+pick                         4.4494
+pics                         2.8353
+pictures                     2.8353
+pie                          2.8353
+pilates                      2.8353
+pist                         2.8353
+pix                          3.3069
+place                        3.3069
+plan                         3.3069
+plans                        2.8353
+play                         0.0287
+players                      2.8353
+please                        0.602
+plenty                       2.8353
+pls                          3.3069
+plus                         0.0287
+plz                          2.8353
+pm                           2.8353
+poker                        2.8353
+poor                         2.8353
+possessiveness               2.8353
+post                         3.3069
+posted                       2.8353
+potential                    2.8353
+poured                       2.8353
+prabha                       2.8353
+prasanth                     2.8353
+pray                         2.8353
+price                        2.8353
+prince                       2.8353
+princess                     2.8353
+priya                        2.8353
+probably                     2.8353
+problem                      2.8353
+problms                      2.8353
+probthat                     2.8353
+promise                      2.8353
+pub                          2.8353
+put                          3.3069
+qatar                        2.8353
+queen                        2.8353
+quit                         2.8353
+quite                        3.3069
+r                             0.416
+railway                      2.8353
+rain                         2.8353
+raining                      2.8353
+raised                       2.8353
+rajas                        2.8353
+rakhesh                      2.8353
+range                        2.8353
+raping                       2.8353
+rd                           2.8353
+re-send                      2.8353
+reached                      2.8353
+read                         3.3069
+reading                      2.8353
+ready                        0.2503
+real                         2.8353
+really                       3.7079
+realy                        2.8353
+references                   2.8353
+refund                       2.8353
+register                     2.8353
+regretted                    2.8353
+remain                       3.3069
+remember                     2.8353
+remembered                   2.8353
+reminds                      2.8353
+reply                        3.3069
+replying                     2.8353
+research                     2.8353
+reservations                 2.8353
+reslove                      2.8353
+responding                   2.8353
+rest                         2.8353
+ride                         2.8353
+right                         0.602
+ring                         2.8353
+ritten                       2.8353
+road                         2.8353
+robinson                     2.8353
+ron                          2.8353
+room                         3.7079
+rooms                        3.7079
+rose                         2.8353
+royal                        2.8353
+rum                          2.8353
+rumour                       2.8353
+run                          3.3069
+s                            3.3069
+sack                         2.8353
+safe                         2.8353
+said                         4.8151
+salary                       2.8353
+sales                        2.8353
+sat                          3.3069
+satisfied                    2.8353
+savings                      2.8353
+saw                          3.3069
+say                          4.4494
+saying                       2.8353
+school                       3.3069
+schools                      2.8353
+scorable                     2.8353
+scores                       2.8353
+scotch                       2.8353
+sea                          2.8353
+searching                    3.3069
+sec                          2.8353
+secondary                    2.8353
+see                          4.4494
+seemed                       2.8353
+seems                        2.8353
+selected                     0.0036
+send                         0.0192
+senor                        2.8353
+sent                         3.3069
+shame                        2.8353
+shampain                     2.8353
+share                        2.8353
+shared                       2.8353
+shaved                       2.8353
+shd                          2.8353
+she                          4.0832
+shell                        2.8353
+shes                         3.3069
+shifad                       2.8353
+shirts                       2.8353
+should                       5.1854
+shouldn€˜t                   2.8353
+show                         0.0287
+shower                       2.8353
+showers                      2.8353
+sigh*                        2.8353
+sight                        2.8353
+since                        2.8353
+sirji                        2.8353
+sit                          2.8353
+skateboarding                2.8353
+skirt                        2.8353
+slave                        2.8353
+sleep                        4.0832
+sleepin                      2.8353
+sleeping                     2.8353
+slept                        2.8353
+slots                        2.8353
+smile*                       2.8353
+sn                           2.8353
+snd                          2.8353
+snow                         3.3069
+so                           3.6934
+social                       2.8353
+sofa                         2.8353
+software                     2.8353
+some                         4.0832
+somebody                     2.8353
+someone                      2.8353
+something                    4.8151
+soon                         2.8353
+sooner                       2.8353
+soonlots                     2.8353
+sophas                       2.8353
+sorry                        4.0832
+sorted                       2.8353
+sory                         2.8353
+soryda                       2.8353
+soup                         2.8353
+special                      2.8353
+spk                          2.8353
+spoke                        2.8353
+standing                     3.3069
+stars                        2.8353
+started                      2.8353
+starting                     0.0287
+stay                         3.3069
+stayin                       2.8353
+stick                        2.8353
+still                        5.1854
+stones                       2.8353
+stop                         0.1157
+stranger                     2.8353
+street                       2.8353
+stripes                      2.8353
+strtd                        2.8353
+stuff                        3.7079
+sun                          4.0832
+sunscreen                    2.8353
+sup                          2.8353
+support                      3.3069
+supposed                     2.8353
+sure                         4.8151
+surprised                    2.8353
+swing                        3.3069
+system                       2.8353
+t                            0.0287
+tacos                        2.8353
+tai                          2.8353
+take                         0.1241
+taken                        2.8353
+talent                       2.8353
+talk                         2.8353
+tata                         2.8353
+tel                          2.8353
+tell                          0.416
+telling                      2.8353
+telly                        2.8353
+temple                       2.8353
+test                         2.8353
+text                          0.003
+texts                        0.0287
+than                         3.3069
+thank                        3.7079
+thanks                       4.4494
+thanx                        2.8353
+that                         8.1577
+thats                        3.7079
+the                          0.2847
+them                         3.3069
+then                         5.1854
+there                        5.1854
+theres                       4.0832
+these                        3.3069
+thesedays                    2.8353
+they                         0.1157
+theyre                       2.8353
+thing                        4.0832
+things                       4.0832
+think                        5.5642
+thinking                     2.8353
+thinks                       0.0287
+this                         0.0041
+thk                          3.7079
+thm                          2.8353
+those                        4.0832
+thoso                        2.8353
+though                       2.8353
+thought                      3.7079
+threats                      2.8353
+throwin                      2.8353
+thrown                       2.8353
+ths                          2.8353
+tht                          2.8353
+thursday                     2.8353
+till                         2.8353
+time                         1.4645
+times                        3.3069
+tiny                         2.8353
+tired                        3.3069
+tisscotayseer                2.8353
+tmr                          3.3069
+to                           0.0001
+today                         0.416
+todays                       2.8353
+together                     2.8353
+told                         4.0832
+toll                         2.8353
+tomo                         2.8353
+tomorrow                     2.8353
+tonite                       2.8353
+too                          4.4494
+took                         3.3069
+top                          0.0287
+tortilla                     2.8353
+totally                      2.8353
+trade                        2.8353
+train                        2.8353
+trains                       2.8353
+travelled                    2.8353
+tree                         2.8353
+tried                        0.0287
+trip                         2.8353
+triumphed                    2.8353
+trouble                      2.8353
+truly                        2.8353
+trusting                     2.8353
+truth                        2.8353
+try                          2.8353
+ttyl                         2.8353
+two                          2.8353
+txt                          0.0001
+tylers                       2.8353
+u                            0.0684
+uh                           2.8353
+unconsciously                2.8353
+unconvinced                  2.8353
+under                        2.8353
+understood                   2.8353
+unhappy                      2.8353
+unintentional                2.8353
+until                        3.3069
+up                          11.6451
+update                       2.8353
+ur                           0.0007
+ure                          2.8353
+urfeeling                    2.8353
+us                           2.8353
+use                          3.7079
+used                         2.8353
+usf                          3.3069
+using                        2.8353
+uttered                      2.8353
+uv                           2.8353
+v                            3.3069
+vaazhthukkal                 2.8353
+very                         5.1854
+vibrate                      2.8353
+vl                           2.8353
+vodka                        2.8353
+wait                         2.8353
+waited                       3.3069
+wake                         3.3069
+waking                       2.8353
+walking                      2.8353
+wan                          3.3069
+wana                         2.8353
+want                          0.602
+was                          5.9544
+wasnt                        2.8353
+wasted                       2.8353
+wat                          3.7079
+watch                        2.8353
+watching                     2.8353
+watr/day=no                  2.8353
+wats                         2.8353
+way                          3.7079
+we                           0.1126
+wear                         2.8353
+weather                      3.3069
+wed                          2.8353
+wedding                      2.8353
+wee                          2.8353
+week                         0.1157
+weekend                      2.8353
+weekends                     2.8353
+weeks                        0.0287
+well                         1.2345
+wendy                        2.8353
+went                         3.7079
+were                         4.4494
+we€˜re                       2.8353
+what                          3.059
+whats                        4.8151
+when                         2.4817
+whenever                     2.8353
+where                        5.1854
+which                        0.1157
+while                        2.8353
+whn                          2.8353
+who                          0.0036
+whole                        3.3069
+whom                         3.3069
+why                          4.4494
+wif                          2.8353
+will                         3.3684
+willpower                    2.8353
+winds                        2.8353
+windy                        2.8353
+wine                         3.3069
+winning                      2.8353
+wish                         3.3069
+wiskey                       2.8353
+wit                          3.3069
+with                         0.1126
+woke                         2.8353
+woken                        2.8353
+wonderful                    2.8353
+wondering                    2.8353
+wont                         2.8353
+word                         0.0287
+words                        3.3069
+work                         4.8151
+working                      3.7079
+world                        2.8353
+worried                      2.8353
+wot                          2.8353
+would                        4.4494
+wouldnt                      2.8353
+wow                          2.8353
+wrote                        2.8353
+x                            0.0287
+xavier                       2.8353
+xmas                         2.8353
+xxx                          3.3069
+xxxx                         2.8353
+xy                           2.8353
+ya                           3.3069
+yalrigu                      2.8353
+yck                          2.8353
+yeah                         3.7079
+year                         3.3069
+years                        2.8353
+yes                          0.2503
+yesterday                    2.8353
+yet                          3.7079
+yo                           2.8353
+yorge                        2.8353
+you                         84.6841
+you/carlos                   2.8353
+your                         0.0011
+youre                        3.3069
+yourjob                      2.8353
+yourself                     2.8353
+youve                        3.3069
+yummmm                       2.8353
+yup                          3.3069
+yupz                         2.8353
+zeros                        2.8353
+|                            2.8353
+||                           2.8353
+–                            2.8353
+€“                           2.8353
+#150                         0.0007
+#5000                        0.0002
++123                         0.0007
+00                           0.0007
+07123456789                  0.0007
+08081263000                  0.0007
+0870                         0.0007
+08701213186                  0.0007
+08701417012                  0.0007
+08709222922                  0.0007
+08712402050                  0.0007
+08712460324                  0.0007
+08715705022                  0.0007
+08718725756                  0.0007
+08718727868                  0.0007
+09050000555                  0.0007
+09050002311                  0.0007
+09050090044                  0.0007
+09053750005                  0.0007
+09058094565                  0.0007
+09061743806                  0.0002
+09061790121                  0.0002
+09064018838                  0.0007
+09066350750                  0.0007
+09066364349                  0.0007
+09066612661                  0.0007
+100                          0.0007
+10000                        0.0007
+1000s                        0.0007
+10k                          0.0007
+10p/min                      0.0007
+10ppm                        0.0007
+10th                         0.0007
+125gift                      0.0007
+12hrs                        0.0002
+140ppm                       0.0007
+150                          0.0007
+150p                         0.0007
+150p/sms                     0.0007
+150ppermesssubscription      0.0007
+150ppm                            0
+16                           0.0001
+16+                          0.0007
+18                           0.0007
+18+                          0.0001
+1x150p/wk                    0.0007
+2-4-1                        0.0007
+2000                         0.0007
+2004                         0.0007
+25p                          0.0007
+2nd                          0.0007
+2px                          0.0007
+3030                         0.0002
+310303                       0.0007
+3lions                       0.0007
+3mobile                      0.0007
+4*                                0
+434                          0.0007
+4fil                         0.0007
+50                           0.0001
+50/pm                        0.0007
+500                          0.0007
+50p                          0.0007
+5p/min                       0.0007
+6230                         0.0007
+69876                        0.0007
+69911                        0.0007
+7                            0.0007
+800                          0.0007
+8007                         0.0007
+80878                        0.0007
+82277                        0.0007
+83332                        0.0007
+83338                        0.0007
+83383                        0.0007
+85023                        0.0007
+87066                        0.0002
+87077                        0.0007
+88888                        0.0007
+8ball                        0.0007
+8p/min                       0.0007
+8wp                          0.0007
+adam                         0.0007
+admirer                      0.0007
+ads                          0.0007
+ag                           0.0007
+age16                        0.0007
+alert                        0.0007
+alfie                        0.0007
+algarve                      0.0007
+ansr                         0.0007
+arsenal                      0.0007
+asked                        0.0007
+auction                      0.0007
+await                        0.0001
+award                        0.0001
+awarded                      0.0001
+b4                           0.0002
+b4280703                     0.0007
+ba128nnfwfly150ppm           0.0007
+bailiff                      0.0007
+billed                       0.0007
+box326                       0.0002
+box434sk38wp150ppm18+        0.0007
+brother                      0.0007
+camera                       0.0007
+cash                              0
+cd                           0.0007
+charges                      0.0007
+charity                      0.0007
+chat                         0.0007
+chatlines                    0.0007
+children                     0.0007
+claim                             0
+click                        0.0007
+close                        0.0007
+collect                      0.0002
+collection                   0.0001
+colours                      0.0007
+com                          0.0001
+com1win150ppmx3age16         0.0007
+community                    0.0007
+competition                  0.0007
+complementary                0.0007
+complimentary                0.0002
+computer                     0.0007
+condition                    0.0007
+congratulations              0.0002
+costa                        0.0007
+cost£1                       0.0007
+country                      0.0007
+cro1327                      0.0007
+cs                           0.0007
+cust                         0.0007
+custcare                     0.0007
+cute                         0.0007
+cw25wx                       0.0002
+dartboard                    0.0007
+del                          0.0007
+digital                      0.0007
+discount                     0.0007
+doubles                      0.0007
+draw                         0.0001
+due                          0.0007
+dvd                          0.0007
+eg                           0.0007
+england                      0.0007
+entry                        0.0007
+euro                         0.0007
+europe                       0.0007
+eve                          0.0007
+final                        0.0002
+flag                         0.0007
+flights                      0.0007
+folks                        0.0007
+following                    0.0007
+friend                       0.0007
+game                         0.0007
+gay                          0.0007
+girls                        0.0007
+guaranteed                   0.0001
+hol                          0.0007
+hot                          0.0007
+ibiza                        0.0002
+inclu                        0.0007
+india                        0.0007
+interested                   0.0007
+jamster                      0.0007
+l8er                         0.0007
+land                         0.0002
+landline                          0
+ldew                         0.0002
+line                         0.0002
+lines                        0.0007
+local                        0.0007
+logo                         0.0007
+looking                      0.0007
+lose                         0.0007
+lover                        0.0007
+m                            0.0007
+m263uz                       0.0007
+m8s                          0.0007
+male                         0.0007
+marvel                       0.0007
+max10mins                    0.0007
+mega                         0.0007
+mins                         0.0007
+mistake                      0.0007
+mob                          0.0007
+mobile                            0
+mobiles                      0.0007
+mobno                        0.0007
+moons                        0.0007
+music                        0.0002
+name1                        0.0007
+name2                        0.0007
+names                        0.0007
+national                     0.0007
+needs                        0.0007
+nokia                        0.0007
+nokias                       0.0007
+ntt                          0.0007
+offer                        0.0002
+offers                       0.0007
+okmail                       0.0007
+opt                          0.0007
+peak                         0.0007
+per                          0.0007
+player                       0.0007
+po                           0.0001
+pobox114/14tcr/w1            0.0007
+pobox334                     0.0007
+pobox36504w45wq              0.0007
+pobox84                      0.0007
+poly                         0.0007
+polys                        0.0007
+pound                        0.0007
+ppm                          0.0007
+prize                        0.0001
+profit                       0.0007
+promo                        0.0007
+q                            0.0007
+quiz                         0.0007
+r*reveal                     0.0007
+rate                         0.0007
+receive                      0.0007
+refunded                     0.0007
+sae                               0
+sale                         0.0002
+savamob                      0.0007
+secret                       0.0007
+sed                          0.0007
+sender                       0.0007
+sept                         0.0007
+service                      0.0007
+servs                        0.0007
+sextextuk                    0.0007
+sexual                       0.0007
+shag                         0.0007
+shop                         0.0002
+shopping                     0.0007
+shortcode                    0.0007
+sk3                          0.0007
+sk38xh                       0.0007
+skillgame1winaweek           0.0007
+sms                          0.0002
+sol                          0.0007
+song                         0.0007
+sony                         0.0007
+sp                           0.0007
+special-call                 0.0007
+specially                    0.0007
+spider                       0.0007
+spider-man                   0.0007
+spjanuary                    0.0007
+spree                        0.0007
+star                         0.0007
+stockport                    0.0007
+sub                          0.0007
+sunshine                     0.0007
+suzy                         0.0007
+t&c                          0.0007
+t&cs                         0.0001
+t&cs/stop                    0.0002
+tcs                          0.0001
+tenerife                     0.0001
+theirs                       0.0007
+tncs                         0.0002
+toclaim                      0.0007
+tone                         0.0002
+touch                        0.0007
+trebles                      0.0007
+ts&cs                        0.0007
+tscs                         0.0007
+txt-2-shop                   0.0007
+txtno                        0.0007
+txts                         0.0007
+tyrone                       0.0007
+u-find                       0.0007
+ultimate                     0.0007
+urgent                            0
+valid                        0.0002
+vary                         0.0007
+virgins                      0.0007
+voucher                      0.0007
+vouchers                     0.0001
+wa14                         0.0007
+waiting                      0.0007
+wallpaper                    0.0002
+website                      0.0007
+win                          0.0001
+wkly                         0.0001
+won                          0.0001
+worth                        0.0007
+www                          0.0001
+xxuk                         0.0007
+yahoo                        0.0007
+zed                          0.0007
+£1                           0.0002
+£100                         0.0007
+£10000                       0.0002
+£1450                        0.0002
+£150                         0.0007
+£2000                        0.0002
+£250                         0.0002
+£3                           0.0007
+£4                           0.0007
+£5000                        0.0007
+£800                         0.0007
+
+
+TEMPO DE CONSTRUÇÃO DO MODELO: 0.79 SEGUNDOS
+
+=== cross-validation ===
+
+INSTÂNCIAS CLASSIFICADAS CORRETAMENTE         243               95.6693 %
+INSTÂNCIAS CLASSIFICADAS INCORRETAMENTE        11                4.3307 %
+Estatística Kappa                           0.8157
+TOTAL DE INSTÂNCIAS              254     
+
+=== Detailed Accuracy By Class ===
+
+                 Precissão     F-MeasureClasse
+                 0,986          0,975   0
+                 0,784          0,841   1
+
+===  Matriz de Confussão ===
+
+   a   b   <-- classificado como
+ 214   8 |   a = 0
+   3  29 |   b = 1
+

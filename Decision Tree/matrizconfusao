@@ -1,0 +1,178 @@
+TESTE 1
+matriz de confusão: 
+     [480, 25]
+     [3, 47]
+teste terminado, a seguir, resultados:
+Para Hams:
+----precisão: 0.950495049505
+----cobertura: 0.993788819876
+----f-score: 0.971659919028
+Para Spams:
+----precisão: 0.94
+----cobertura: 0.652777777778
+----f-score: 0.770491803279
+Dados preparados.
+Chame o método train() para construir a árvore de decisão.
+==========================================================
+TESTE 2
+matriz de confusão: 
+     [953, 59]
+     [5, 94]
+teste terminado, a seguir, resultados:
+Para Hams:
+----precisão: 0.941699604743
+----cobertura: 0.994780793319
+----f-score: 0.967512690355
+Para Spams:
+----precisão: 0.949494949495
+----cobertura: 0.614379084967
+----f-score: 0.746031746032
+Dados preparados.
+Chame o método train() para construir a árvore de decisão.
+==========================================================
+TESTE 3
+matriz de confusão: 
+     [960, 54]
+     [3, 94]
+teste terminado, a seguir, resultados:
+Para Hams:
+----precisão: 0.94674556213
+----cobertura: 0.996884735202
+----f-score: 0.971168437026
+Para Spams:
+----precisão: 0.969072164948
+----cobertura: 0.635135135135
+----f-score: 0.767346938776
+Dados preparados.
+Chame o método train() para construir a árvore de decisão.
+==========================================================
+TESTE 4
+matriz de confusão: 
+     [969, 60]
+     [3, 79]
+teste terminado, a seguir, resultados:
+Para Hams:
+----precisão: 0.941690962099
+----cobertura: 0.996913580247
+----f-score: 0.968515742129
+Para Spams:
+----precisão: 0.963414634146
+----cobertura: 0.568345323741
+----f-score: 0.714932126697
+Dados preparados.
+Chame o método train() para construir a árvore de decisão.
+
+==========================================================
+TESTE 5
+matriz de confusão: 
+     [946, 64]
+     [8, 93]
+teste terminado, a seguir, resultados:
+Para Hams:
+----precisão: 0.936633663366
+----cobertura: 0.991614255765
+----f-score: 0.9633401222
+Para Spams:
+----precisão: 0.920792079208
+----cobertura: 0.592356687898
+----f-score: 0.720930232558
+Dados preparados.
+Chame o método train() para construir a árvore de decisão.
+==========================================================
+TESTE 6
+matriz de confusão: 
+     [957, 65]
+     [6, 83]
+teste terminado, a seguir, resultados:
+Para Hams:
+----precisão: 0.936399217221
+----cobertura: 0.993769470405
+----f-score: 0.964231738035
+Para Spams:
+----precisão: 0.932584269663
+----cobertura: 0.560810810811
+----f-score: 0.700421940928
+==========================================================
+TESTE 6
+matriz de confusão: 
+     [472, 31]
+     [2, 50]
+teste terminado, a seguir, resultados:
+Para Hams:
+----precisão: 0.938369781312
+----cobertura: 0.995780590717
+----f-score: 0.966223132037
+Para Spams:
+----precisão: 0.961538461538
+----cobertura: 0.617283950617
+----f-score: 0.751879699248
+Dados preparados.
+Chame o método train() para construir a árvore de decisão.
+==========================================================
+TESTE 7
+matriz de confusão: 
+     [469, 31]
+     [2, 53]
+teste terminado, a seguir, resultados:
+Para Hams:
+----precisão: 0.938
+----cobertura: 0.995753715499
+----f-score: 0.966014418126
+Para Spams:
+----precisão: 0.963636363636
+----cobertura: 0.630952380952
+----f-score: 0.762589928058
+Dados preparados.
+Chame o método train() para construir a árvore de decisão.
+==========================================================
+TESTE 8
+matriz de confusão: 
+     [485, 27]
+     [2, 41]
+teste terminado, a seguir, resultados:
+Para Hams:
+----precisão: 0.947265625
+----cobertura: 0.995893223819
+----f-score: 0.970970970971
+Para Spams:
+----precisão: 0.953488372093
+----cobertura: 0.602941176471
+----f-score: 0.738738738739
+Dados preparados.
+Chame o método train() para construir a árvore de decisão.
+==========================================================
+TESTE 9
+matriz de confusão: 
+     [469, 34]
+     [2, 50]
+teste terminado, a seguir, resultados:
+Para Hams:
+----precisão: 0.9324055666
+----cobertura: 0.995753715499
+----f-score: 0.963039014374
+Para Spams:
+----precisão: 0.961538461538
+----cobertura: 0.595238095238
+----f-score: 0.735294117647
+Dados preparados.
+Chame o método train() para construir a árvore de decisão.
+==========================================================
+TESTE 10
+matriz de confusão: 
+     [481, 32]
+     [2, 40]
+teste terminado, a seguir, resultados:
+Para Hams:
+----precisão: 0.937621832359
+----cobertura: 0.995859213251
+----f-score: 0.965863453815
+Para Spams:
+----precisão: 0.952380952381
+----cobertura: 0.555555555556
+----f-score: 0.701754385965
+==========================================================
+real	24m16.713s
+user	24m10.420s
+sys	0m2.848s
+==========================================================
+

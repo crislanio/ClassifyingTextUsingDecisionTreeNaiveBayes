@@ -9,4 +9,4 @@ Projeto feito com algoritmos de classificação **Decision Tree** e **Naive Baye
 
 
 ### Screenshots
-![alt tag](https://raw.githubusercontent.com/crislanio/ClassifyingTextUsingDecisionTreeNaiveBayes/screenshot1.png)
+![alt tag](https://raw.githubusercontent.com/crislanio/ClassifyingTextUsingDecisionTreeNaiveBayes/master/screenshot1.png)

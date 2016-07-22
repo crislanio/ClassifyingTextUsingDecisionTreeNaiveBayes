@@ -1,2 +1,12 @@
-# ClassifyingTextUsingDecisionTreeNaiveBayes
-Implementará  de conceitos de aprendizagem supervisionada em um problema de classificação de mensagens de textos, utilizando dois tipos de classificadores: árvore de decisão e naive bayes
+# Classifying Text Using Decision Tree and Naive Bayes
+Projeto feito com algoritmos de classificação **Decision Tree** e **Naive Bayes** para classificação de spams, hams.
+## Dependências
+- Python 2.7.12 
+
+| Aplicação                     | Versão        |
+| :---------------------------- |:-------------:|
+| Sapere AudeClassificação de textos               | N/A           |
+
+
+### Screenshots
+![alt tag](https://raw.githubusercontent.com/crislanio/ClassifyingTextUsingDecisionTreeNaiveBayes/screenshot1.png)
